@@ -1,0 +1,946 @@
+School,enrolled,over_25,over_23,independent,dependent,unemployment,median_family_income,poverty_rate,admissions_rate,sat_mid_reading,sat_mid_math,sat_mid_writing,sat_mid_overall,region
+Immokalee Technical College,,0.1285,,,,,,,,,,,,5
+American Academy of Cosmetology,,0.6224,,,,,,,,,,,,5
+University of Fort Lauderdale,,0.3667,,,,,,,,,,,,5
+Aviation Institute of Maintenance-Orlando,,0.5287,,,,,,,,,,,,5
+Summit Salon Academy-Portland,,0.1017,,,,,,,,,,,,8
+Summit Salon Academy-Gainesville,,0.4267,,,,,,,,,,,,5
+Tenaj Salon Institute,,0.3269,,,,,,,,,,,,5
+Profile Institute of Barber-Styling,,0.5417,,,,,,,,,,,,5
+Keune Academy by 124,,0.1789,,,,,,,,,,,,5
+Pacific Rim Christian University,,0.5776,,,,,,,0.4722,,,,,8
+Paul Mitchell the School-Twin Falls,,0.2222,,,,,,,,,,,,7
+Ambria College of Nursing,,0.7805,,,,,,,,,,,,3
+Midwestern Career College,,0.7093,,,,,,,,,,,,3
+Paul Mitchell the School-Normal,,0.1386,,,,,,,,,,,,3
+Innovations Design Academy,,0.3182,,,,,,,,,,,,3
+Aveda Fredric's Institute-Indianapolis,,0.2364,,,,,,,,,,,,3
+Summit Salon Academy-Portland,,0.1017,,,,,,,,,,,,8
+Eric Fisher Academy,,0.2286,,,,,,,,,,,,4
+My Le's Beauty College,,0.7559,,,,,,,,,,,,8
+Blackstone Valley Vocational Regional School District,,0.6538,,,,,,,,,,,,1
+Southern Worcester County Regional Vocational School District,,0.6333,,,,,,,,,,,,1
+L'esprit Academy,,0.4514,,,,,,,,,,,,3
+Marketti Academy of Cosmetology,,0.4355,,,,,,,,,,,,3
+Avalon School of Cosmetology-Aurora,,0.4231,,,,,,,,,,,,7
+American Business and Technology University,,0.8577,,,,,,,,,,,,4
+City Vision University,,0.9,,,,,,,,,,,,4
+Bitterroot School of Cosmetology,,0.2143,,,,,,,,,,,,7
+Montana Academy of Salons,,0.4268,,,,,,,,,,,,7
+National Career Institute,,0.6762,,,,,,,,,,,,2
+International Academy of Style,,0.4865,,,,,,,,,,,,8
+EDP School,,0.9216,,,,,,,,,,,,2
+New York Medical Career Training Center,,0.5486,,,,,,,,,,,,2
+Institute of Culinary Education,,0.6387,,,,,,,,,,,,2
+The Salon Professional Academy-Tonawanda,,0.5203,,,,,,,,,,,,2
+Onondaga School of Therapeutic Massage-Syracuse,,0.807,,,,,,,,,,,,2
+Academy of Cosmetology and Esthetics NYC,,0.3171,,,,,,,,,,,,2
+Four County Career Center,,0.6591,,,,,,,,,,,,3
+Summit Salon Academy-Perrysburg,,0.2295,,,,,,,,,,,,3
+Portland Actors Conservatory,,0.25,,,,,,,0.5556,,,,,8
+Somerset County Technology Center,,0.4935,,,,,,,,,,,,2
+Metro Beauty Academy,,0.2929,,,,,,,,,,,,2
+Academy for Careers and Technology,,0.7368,,,,,,,,,,,,5
+Aiken School of Cosmetology and Barbering,,0.4211,,,,,,,,,,,,5
+Love Beauty School Inc,,0.4667,,,,,,,,,,,,5
+Houston International College Cardiotech Ultrasound School,,0.7167,,,,,,,,,,,,6
+DuVall's School of Cosmetology,,0.479,,,,,,,,,,,,6
+Central Texas Beauty College-Round Rock,,0.5897,,,,,,,,,,,,6
+Avenue Five Institute,,0.5451,,,,,,,,,,,,6
+The Salon Professional Academy-Lewisville,,0.3729,,,,,,,,,,,,6
+Renaissance Academie,,0.2381,,,,,,,,,,,,7
+Antioch College AG,,1.0,,,,,,,,,,,,5
+Institute of Advanced Medical Esthetics,,0.5,,,,,,,,,,,,5
+Gary Manuel Aveda Institute,,0.4699,,,,,,,,,,,,8
+Northwest School of Wooden Boat Building,,0.7692,,,,,,,,,,,,8
+The Salon Professional Academy-Onalaska,,0.2353,,,,,,,,,,,,3
+West Coast University-Orange County,,0.5243,,,,,,,,,,,,8
+West Coast University-Ontario,,0.4937,,,,,,,,,,,,8
+Midwest Technical Institute-East Peoria,,0.3582,,,,,,,,,,,,3
+Paul Mitchell the School-Chicago,,0.3049,,,,,,,,,,,,3
+Platt College-Miller-Motte-Fayetteville,,0.765,,,,,,,,,,,,5
+European Massage Therapy School-Las Vegas,,1.0,,,,,,,,,,,,8
+Platt College-Miller-Motte Technical-Columbus,,0.6848,,,,,,,,,,,,5
+The Art Institute of Virginia Beach,,0.3589,,,,,,,,,,,,5
+Fortis College-Indianapolis,,0.608,,,,,,,,,,,,3
+Empire Beauty School-E Memphis,,0.5038,,,,,,,,,,,,5
+Empire Beauty School-Nashville,,0.4848,,,,,,,,,,,,5
+Empire Beauty School-Jackson,,0.5217,,,,,,,,,,,,5
+Empire Beauty School-Springfield,,0.4621,,,,,,,,,,,,2
+Empire Beauty School-Speedway,,0.5762,,,,,,,,,,,,3
+Empire Beauty School-Morrow,,0.5668,,,,,,,,,,,,5
+Strayer University-Arkansas,,0.8391,,,,,,,,,,,,5
+Strayer University-Georgia,,0.8408,,,,,,,,,,,,5
+Strayer University-Mississippi,,0.8396,,,,,,,,,,,,5
+Strayer University-South Carolina,,0.8419,,,,,,,,,,,,5
+Strayer University-Texas,,0.8745,,,,,,,,,,,,6
+The Art Institute of San Antonio,,0.488,,,,,,,,,,,,6
+Empire Beauty School-Charlotte,,0.5444,,,,,,,,,,,,5
+Empire Beauty School-Winston-Salem,,0.5,,,,,,,,,,,,5
+Empire Beauty School-West Palm,,0.3881,,,,,,,,,,,,5
+Empire Beauty School-Pineville,,0.4706,,,,,,,,,,,,5
+Paul Mitchell the School-Phoenix,,0.301,,,,,,,,,,,,6
+All Beauty College,,0.4,,,,,,,,,,,,6
+Paul Mitchell the School-Modesto,,0.3255,,,,,,,,,,,,8
+Cosmo Beauty Academy,,0.5932,,,,,,,,,,,,8
+Paul Mitchell the School-Fresno,,0.3408,,,,,,,,,,,,8
+Unitek College,,0.8693,,,,,,,,,,,,8
+Gurnick Academy of Medical Arts,,0.7091,,,,,,,,,,,,8
+Paul Mitchell the School-East Bay,,0.3516,,,,,,,,,,,,8
+South University-Richmond,,0.7365,,,,,,,,,,,,5
+South University-Virginia Beach,,0.7788,,,,,,,,,,,,5
+Aveda Institute-Denver,,0.2889,,,,,,,,,,,,7
+Paul Mitchell the School-Colorado Springs,,0.4049,,,,,,,,,,,,7
+The Salon Professional Academy-Colorado Springs,,0.5,,,,,,,,,,,,7
+Paul Mitchell the School-Delaware,,0.3036,,,,,,,,,,,,2
+Future-Tech Institute,,0.614,,,,,,,,,,,,5
+Fred K Marchman Technical College,,0.2847,,,,,,,,,,,,5
+The Salon Professional Academy-Ft Myers,,0.322,,,,,,,,,,,,5
+Universal Spa Training Academy - Tyler's Beauty and Spa Academy,,,,,,,,,,,,,,5
+The Salon Professional Academy-Evansville,,0.1544,,,,,,,,,,,,3
+Tri County Regional Vocational Technical High School,,0.6557,,,,,,,,,,,,1
+Compass College of Cinematic Arts,,0.0753,,,,,,,0.6667,503.0,473.0,,975.0,3
+Nova Academy of Cosmetology,,0.2321,,,,,,,,,,,,4
+SAE Institute of Technology-New York,,0.3475,,,,,,,,,,,,2
+Peloton College,,0.3604,,,,,,,,,,,,6
+ABC Beauty Academy,,0.8571,,,,,,,,,,,,6
+American Beauty Academy,,0.2273,,,,,,,,,,,,7
+Summit Salon Academy-Portland,,0.1017,,,,,,,,,,,,8
+Paul Mitchell the School-Milwaukee,,0.4571,,,,,,,,,,,,3
+Touro University Worldwide,,0.6996,,,,,,,,,,,,8
+Touro University California,,,,,,,,,,,,,,8
+The Chicago School of Professional Psychology at Washington DC,,,,,,,,,,,,,,2
+Touro University Nevada,,1.0,,,,,,,,,,,,8
+Herzing University-Kenosha,,0.6998,,,,,,,0.5714,,,,,3
+Herzing University-Brookfield,,0.6781,,,,,,,0.8133,,,,,3
+Fortis Institute-Towson,,0.3743,,,,,,,,,,,,2
+Southern Careers Institute-Brownsville,,0.2966,,,,,,,,,,,,6
+Southern Careers Institute-Harlingen,,0.424,,,,,,,,,,,,6
+Strayer University-Global Region,,0.8399,,,,,,,,,,,,2
+Kenneth Shuler School of Cosmetology-Florence,,0.3141,,,,,,,,,,,,5
+Fortis College-Columbia,,0.5453,,,,,,,,,,,,5
+Ross Medical Education Center-Davison,,0.5352,,,,,,,,,,,,3
+Ross Medical Education Center-Granger,,0.5438,,,,,,,,,,,,3
+Ross Medical Education Center-Niles,,0.5114,,,,,,,,,,,,3
+Ross Medical Education Center-Canton,,0.4922,,,,,,,,,,,,3
+Pima Medical Institute-Houston,,0.5025,,,,,,,,,,,,6
+Illinois Media School-Chicago Campus,,0.5632,,,,,,,1.0,,,,,3
+Platt College-STVT-San Antonio,,0.5817,,,,,,,,,,,,6
+Concorde Career College-Dallas,,0.4715,,,,,,,0.8809,,,,,6
+Concorde Career Institute-Orlando,,0.4388,,,,,,,0.848,,,,,5
+Concorde Career College-San Antonio,,0.46,,,,,,,0.9386,,,,,6
+Fairfax University of America,,0.4595,,,,,,,0.9167,,,,,5
+Geisinger-Lewistown Hospital School of Nursing,,0.4426,,,,,,,0.5125,,,,,2
+Moreno Valley College,,0.352,,,,,,,,,,,,8
+Onondaga School of Therapeutic Massage-Rochester,,0.7344,,,,,,,,,,,,2
+Norco College,,0.2987,,,,,,,,,,,,8
+Dorsey School of Business-Saginaw,,0.8467,,,,,,,,,,,,3
+Milan Institute of Cosmetology-La Quinta,,0.4925,,,,,,,,,,,,8
+Milan Institute-Boise,,0.3837,,,,,,,,,,,,7
+Milan Institute of Cosmetology-El Paso,,0.5238,,,,,,,,,,,,6
+Universal Technical Institute-Dallas Fort Worth,,0.1737,,,,,,,,,,,,6
+ICPR Junior College-Arecibo,,0.2465,,,,,,,,,,,,9
+Artistic Nails and Beauty Academy-Lakeland,,0.6503,,,,,,,,,,,,5
+Hawaii Medical College,,0.6086,,,,,,,,,,,,8
+Carolina College of Hair Design,,0.3333,,,,,,,,,,,,5
+Nightingale College,,0.7819,,,,,,,,,,,,7
+Platt College-Miller-Motte-Jacksonville,,0.6027,,,,,,,,,,,,5
+Platt College-Miller-Motte Technical-Augusta,,0.6853,,,,,,,,,,,,5
+Platt College-Miller-Motte Technical-Conway,,0.6817,,,,,,,,,,,,5
+Aveda Institute-Portland,,0.4492,,,,,,,,,,,,8
+Chamberlain University-Virginia,,0.7385,,,,,,,1.0,,,,,5
+Penrose Academy,,0.3077,,,,,,,,,,,,6
+G Skin & Beauty Institute,,0.4751,,,,,,,,,,,,3
+Beauty Academy of South Florida,,0.6904,,,,,,,,,,,,5
+Ogle School Hair Skin Nails-North Dallas,,0.5432,,,,,,,,,,,,6
+The Salon Professional Academy-North Little Rock,,0.2178,,,,,,,,,,,,5
+The Salon Professional Academy-St Charles,,0.3299,,,,,,,,,,,,4
+Mildred Elley-New York Campus,,0.7794,,,,,,,,,,,,2
+National Paralegal College,,0.8673,,,,,,,,,,,,6
+Carolina College of Biblical Studies,,0.9277,,,,,,,,,,,,5
+Omega Graduate School,,,,,,,,,,,,,,5
+Jung Tao School of Classical Chinese Medicine,,,,,,,,,,,,,,5
+New York Film Academy,,0.2348,,,,,,,,,,,,8
+International College of Cosmetology,,0.7668,,,,,,,,,,,,8
+Bella Capelli Academy,,0.1857,,,,,,,,,,,,2
+Institute of Medical Careers,,0.7177,,,,,,,,,,,,2
+Flagler Technical College,,0.5271,,,,,,,,,,,,5
+Galaxy Medical College,,0.7843,,,,,,,1.0,,,,,8
+American Medical Sciences Center,,0.625,,,,,,,,,,,,8
+Mandalyn Academy,,0.3214,,,,,,,,,,,,7
+Jose Maria Vargas University,,0.9825,,,,,,,,,,,,5
+D A Dorsey Technical College,,0.6489,,,,,,,,,,,,5
+Keweenaw Bay Ojibwa Community College,,0.5443,,,,,,,,,,,,3
+Meridian Institute of Surgical Assisting,,0.9528,,,,,,,,,,,,5
+Mauna Loa Helicopters,,0.9,,,,,,,1.0,,,,,8
+Acaydia School of Aesthetics,,0.2264,,,,,,,,,,,,7
+Holistic Massage Training Institute,,0.641,,,,,,,,,,,,2
+Diamonds Cosmetology College,,0.5517,,,,,,,,,,,,6
+Northern Virginia School of Therapeutic Massage,,0.7259,,,,,,,,,,,,5
+Paul Mitchell the School-St Louis,,0.2464,,,,,,,,,,,,4
+Advanced Training Institute,,0.4848,,,,,,,,,,,,8
+Shepherds Theological Seminary,,,,,,,,,,,,,,5
+Taylor Andrews Academy of Hair Design-West Jordan,,0.2836,,,,,,,,,,,,7
+Santa Ana Beauty Academy,,0.4167,,,,,,,,,,,,8
+Grace College of Divinity,,0.5586,,,,,,,0.95,,,,,5
+Evolve Beauty Academy,,0.3333,,,,,,,,,,,,4
+Aveda Institute-New Mexico,,0.338,,,,,,,,,,,,6
+North American Trade Schools,,0.9492,,,,,,,,,,,,2
+Estelle Skin Care and Spa Institute,,0.6484,,,,,,,,,,,,3
+Paul Mitchell the School-Honolulu,,0.3873,,,,,,,,,,,,8
+Elite Cosmetology School,,0.4336,,,,,,,,,,,,8
+American Technical Institute,,0.4737,,,,,,,,,,,,9
+Bergin University of Canine Studies,,0.3611,,,,,,,,,,,,8
+Aveda Institute-Boise,,0.375,,,,,,,,,,,,7
+Pima Medical Institute-Aurora,,0.4255,,,,,,,,,,,,7
+Capilo School of Hair Design,,0.3611,,,,,,,,,,,,1
+Pure Aesthetics Natural Skincare School,,0.5273,,,,,,,,,,,,6
+Lindsey Institute of Cosmetology,,0.1538,,,,,,,,,,,,5
+Buckner Barber School,,0.3636,,,,,,,,,,,,6
+Simmons College of Kentucky,,0.4019,,,,,,,,,,,,5
+Atelier Esthetique Institute of Esthetics,,0.5846,,,,,,,,,,,,2
+Advanced College of Cosmetology,,0.36,,,,,,,,,,,,3
+North American University,,0.2454,,,,,,,,,,,,6
+United Beauty College,,0.6,,,,,,,,,,,,7
+Cinta Aveda Institute,,0.5784,,,,,,,,,,,,8
+Keser Torah-Mayan Hatalmud,,0.0899,,,,,,,0.9,,,,,2
+Southern California Health Institute,,0.6777,,,,,,,,,,,,8
+Best Care College,,0.9268,,,,,,,,,,,,2
+First Class Cosmetology School,,0.4133,,,,,,,,,,,,3
+Millennia Atlantic University,,0.5714,,,,,,,,,,,,5
+Abcott Institute,,0.6364,,,,,,,,,,,,3
+The Salon Professional Academy-Kenosha,,0.439,,,,,,,,,,,,3
+Paul Mitchell the School-Indianapolis,,0.232,,,,,,,,,,,,3
+Taylor Andrews Academy-St George,,0.2411,,,,,,,,,,,,7
+Protege Academy,,0.1569,,,,,,,,,,,,3
+Colorado Academy of Veterinary Technology,,0.49,,,,,,,1.0,,,,,7
+Northeast Technical Institute,,0.6683,,,,,,,,,,,,1
+Elite Cosmetology School,,0.4336,,,,,,,,,,,,8
+Paul Mitchell the School-Las Vegas,,0.416,,,,,,,,,,,,8
+Summit Salon Academy-Kokomo,,0.266,,,,,,,,,,,,3
+Florida Barber Academy,,0.8033,,,,,,,,,,,,5
+Institute for Doctoral Studies in the Visual Arts,,,,,,,,,,,,,,1
+Fortis College,,0.5615,,,,,,,,,,,,6
+Academy for Salon Professionals,,0.4878,,,,,,,,,,,,8
+Paul Mitchell the School-Spokane,,0.3613,,,,,,,,,,,,8
+The Salon Professional Academy,,0.4035,,,,,,,,,,,,4
+John Paul the Great Catholic University,,0.0993,,,,,,,0.7286,575.0,549.0,,1134.0,8
+University of Connecticut-Hartford Campus,,0.0448,,,,,,,0.9568,570.0,555.0,,1127.0,1
+Ottawa University-Surprise,,0.0943,,,,,,,0.4316,535.0,525.0,,1014.0,6
+Chamberlain University-Missouri,,0.5296,,,,,,,0.9091,,,,,4
+Chamberlain University-Texas,,0.6048,,,,,,,0.8333,,,,,6
+Continental School of Beauty Culture-Mattydale,,0.4279,,,,,,,,,,,,2
+Paul Mitchell the School-Columbia,,0.4351,,,,,,,,,,,,5
+Paul Mitchell the School-Charleston,,0.3828,,,,,,,,,,,,5
+Kenneth Shuler School of Cosmetology-Greenville,,0.3657,,,,,,,,,,,,5
+Northwest College-Eugene,,0.4146,,,,,,,,,,,,8
+Northwest College-Tualatin,,0.3871,,,,,,,,,,,,8
+CET-Soledad,,0.4884,,,,,,,,,,,,8
+United Education Institute-UEI College San Marcos,,0.4254,,,,,,,,,,,,8
+Vanguard College of Cosmetology-Metairie,,0.233,,,,,,,,,,,,5
+United Education Institute-Anaheim,,0.3152,,,,,,,,,,,,8
+New England Tractor Trailer Training School of Massachusetts,,0.8018,,,,,,,,,,,,1
+Dewey University-Manati,,0.5556,,,,,,,,,,,,9
+Allen School-Phoenix,,0.2917,,,,,,,,,,,,6
+Oklahoma Technical College,,0.5891,,,,,,,,,,,,6
+Midwest Technical Institute-Moline,,0.392,,,,,,,,,,,,3
+Unitech Training Academy-Alexandria,,0.411,,,,,,,,,,,,5
+Unitech Training Academy-Lake Charles,,0.4259,,,,,,,,,,,,5
+Aveda Institute-Los Angeles,,0.4762,,,,,,,,,,,,8
+UEI College-Riverside,,0.3571,,,,,,,,,,,,8
+WellSpring School of Allied Health-Lawrence,,0.8286,,,,,,,,,,,,4
+Manuel and Theresa's School of Hair Design-Victoria,,0.375,,,,,,,,,,,,6
+Tricoci University of Beauty Culture-Chicago NW,,0.3871,,,,,,,,,,,,3
+Los Angeles Pacific University,,0.8468,,,,,,,,,,,,8
+Avalon School of Cosmetology-Phoenix,,0.3269,,,,,,,,,,,,6
+Avalon School of Cosmetology-Layton,,0.2927,,,,,,,,,,,,7
+Aveda Institute-Des Moines,,0.1768,,,,,,,,,,,,4
+Fortis Institute-Lawrenceville,,0.4242,,,,,,,,,,,,2
+Relay Graduate School of Education - Philadelphia & Camden,,,,,,,,,,,,,,2
+Platt College-Miller-Motte Technical-Macon,,0.681,,,,,,,,,,,,5
+South University-Savannah Online,,0.836,,,,,,,,,,,,5
+Whitworth University-Adult Degree Programs,,0.9382,,,,,,,1.0,,,,,8
+The Santa Barbara and Ventura Colleges of Law at Santa Barbara,,,,,,,,,,,,,,8
+Springfield College-Regional Online and Continuing Education,,0.9425,,,,,,,,,,,,1
+Marian Health Careers Center-Van Nuys Campus,,0.6875,,,,,,,,,,,,8
+Milan Institute-Las Vegas,,0.5021,,,,,,,,,,,,8
+Catholic Distance University,,0.8462,,,,,,,,,,,,5
+Panache Academy of Beauty,,0.3143,,,,,,,,,,,,3
+ASI Career Institute,,0.6857,,,,,,,,,,,,2
+Midwest Technical Institute-Ridgeland,,0.4361,,,,,,,,,,,,5
+City College-Hollywood,,0.5411,,,,,,,,,,,,5
+Paul Mitchell the School-Arlington,,0.3556,,,,,,,,,,,,6
+Rocky Mountain University of Health Professions,,,,,,,,,,,,,,7
+Paul Mitchell the School-Fort Myers,,0.28,,,,,,,,,,,,5
+Paul Mitchell the School-Raleigh,,0.3766,,,,,,,,,,,,5
+CUNY Stella and Charles Guttman Community College,,0.0186,,,,,,,,,,,,2
+Lil Lou's Beauty and Barber College,,0.6349,,,,,,,,,,,,3
+Criswell College,,0.431,,,,,,,0.9697,605.0,535.0,,1106.0,6
+Beverly Hills Design Institute,,0.25,,,,,,,0.38,,,,,8
+Reflections Academy of Beauty,,0.3171,,,,,,,,,,,,3
+Annenberg School of Nursing,,0.5,,,,,,,1.0,,,,,8
+American Medical Academy,,0.4541,,,,,,,,,,,,5
+Tooele Technical College,,0.4957,,,,,,,,,,,,7
+Chamberlain University-Georgia,,0.7031,,,,,,,0.4444,,,,,5
+Chamberlain University-Indiana,,0.6937,,,,,,,0.2727,,,,,3
+Carrington College-Mesquite,,0.7727,,,,,,,,,,,,6
+Sessions College for Professional Design,,0.7568,,,,,,,,,,,,6
+Tulsa Welding School-Jacksonville,,0.6802,,,,,,,,,,,,5
+Empire Beauty School-Virginia Beach,,0.4605,,,,,,,,,,,,5
+Ross Medical Education Center-Morgantown,,0.4524,,,,,,,,,,,,5
+Paul Mitchell the School-Ogden,,0.3972,,,,,,,,,,,,7
+Miami Ad School-New York,,0.5606,,,,,,,,,,,,2
+Larry's Barber College,,0.7541,,,,,,,,,,,,3
+Futura Career Institute,,0.7125,,,,,,,,,,,,5
+Flair Beauty College,,0.3226,,,,,,,,,,,,8
+Vogue College of Cosmetology-San Antonio Fredericksburg,,0.55,,,,,,,,,,,,6
+Vogue College of Cosmetology-Santa Fe,,0.5342,,,,,,,,,,,,6
+Tomorrow's Image Barber And Beauty Academy of Virginia,,0.7,,,,,,,,,,,,5
+Medical Allied Career Center,,0.9,,,,,,,,,,,,8
+Bais HaMedrash and Mesivta of Baltimore,,,,,,,,,1.0,,,,,2
+Salon Institute-Toledo Campus,,0.1613,,,,,,,,,,,,3
+Athena Career Academy,,0.6014,,,,,,,0.35,,,,,3
+Yeshiva Gedolah Zichron Leyma,,,,,,,,,0.5,,,,,2
+The Barber School,,0.6519,,,,,,,,,,,,7
+Be'er Yaakov Talmudic Seminary,,0.0017,,,,,,,,,,,,2
+Rio Grande Valley College,,0.4356,,,,,,,,,,,,6
+Alexander Academy,,0.1791,,,,,,,,,,,,1
+Aveda Institute-Tucson,,0.2704,,,,,,,0.3265,,,,,6
+Diamond Beauty College,,0.7872,,,,,,,,,,,,8
+Unitek College,,0.8693,,,,,,,,,,,,8
+University Academy of Hair Design,,0.4043,,,,,,,,,,,,5
+Florida Institute of Recording Sound and Technology,,0.3401,,,,,,,,,,,,5
+Paul Mitchell the School-Reno,,0.3557,,,,,,,,,,,,8
+Boise Barber College,,0.5,,,,,,,,,,,,7
+Austin Kade Academy,,0.4911,,,,,,,,,,,,7
+Aesthetic Science Institute,,0.5263,,,,,,,,,,,,2
+Elaine Sterling Institute,,0.5923,,,,,,,0.7143,,,,,5
+Wade Gordon Hairdressing Academy,,0.4444,,,,,,,,,,,,6
+Mitsu Sato Hair Academy,,0.3929,,,,,,,,,,,,4
+Florida Vocational Institute,,0.6876,,,,,,,,,,,,5
+SAE Institute of Technology-Atlanta,,0.3135,,,,,,,,,,,,5
+Academy di Firenze,,0.5,,,,,,,,,,,,7
+SAE Institute of Technology-Miami,,0.3818,,,,,,,,,,,,5
+Colorado State University-Global Campus,,0.8499,,,,,,,0.9856,530.0,515.0,,1048.0,7
+Paul Mitchell the School-Overland Park,,0.2848,,,,,,,,,,,,4
+Medspa Academies,,0.3911,,,,,,,,,,,,7
+Brighton Institute of Cosmetology,,0.3265,,,,,,,,,,,,3
+West Coast University-Dallas,,0.5647,,,,,,,,,,,,6
+Empire Beauty School-Savannah,,0.4552,,,,,,,,,,,,5
+Ogle School Hair Skin Nails-Denton,,0.3284,,,,,,,,,,,,6
+Empire Beauty School-West Greensboro,,0.4621,,,,,,,,,,,,5
+Hays Academy of Hair Design,,0.1143,,,,,,,,,,,,4
+Bellus Academy-Chula Vista,,0.4477,,,,,,,,,,,,8
+Motoring Technical Training Institute,,0.5572,,,,,,,0.9904,,,,,1
+Fortis College-Columbia,,0.5453,,,,,,,,,,,,5
+Unitek College,,0.8693,,,,,,,,,,,,8
+Pennsylvania State University-World Campus,,,,,,,,,,,,,,2
+Institute of Medical Careers,,0.7177,,,,,,,,,,,,2
+Advance Beauty Techs Academy,,0.5164,,,,,,,,,,,,8
+Elevate Salon Institute-Westminster,,0.449,,,,,,,,,,,,7
+Brand College,,0.9583,,,,,,,1.0,,,,,8
+Hinton Barber and Beauty College,,0.5536,,,,,,,,,,,,8
+Advanced Career Institute,,0.7064,,,,,,,,,,,,8
+Digital Film Academy,,0.7033,,,,,,,,,,,,2
+MyComputerCareer.edu-Raleigh,,0.7866,,,,,,,,,,,,5
+South University-Austin,,0.7816,,,,,,,,,,,,6
+Ogle School Hair Skin Nails-San Antonio,,0.5118,,,,,,,,,,,,6
+Ideal Beauty Academy,,1.0,,,,,,,,,,,,3
+Mercyhurst University-North East Campus,,0.3431,,,,,,,,,,,,2
+Warner Pacific University Professional and Graduate Studies,,0.9271,,,,,,,,,,,,8
+Platt College-Riverside,,0.3594,,,,,,,,,,,,8
+Empire Beauty School-Glen Burnie,,0.4659,,,,,,,,,,,,2
+Christine Valmy International School of Esthetics & Cosmetology,,0.5868,,,,,,,,,,,,2
+United Education Institute-UEI College Stockton,,0.3859,,,,,,,,,,,,8
+Shiloh University,,0.8235,,,,,,,0.3333,,,,,4
+Ross Medical Education Center-Dayton,,0.5728,,,,,,,,,,,,3
+Ross Medical Education Center-Ontario,,0.5714,,,,,,,,,,,,3
+Ross Medical Education Center-Bowling Green,,0.5,,,,,,,,,,,,5
+Florida Institute of Technology-Online,,0.807,,,,,,,0.9921,,,,,5
+Rasmussen University-Kansas,,0.7054,,,,,,,,,,,,4
+Columbia Institute,,0.839,,,,,,,,,,,,2
+School of Missionary Aviation Technology,,0.2222,,,,,,,,,,,,3
+Ace Cosmetology and Barber Training Center,,0.6019,,,,,,,,,,,,1
+California Miramar University,,0.5465,,,,,,,0.3143,,,,,8
+Rocky Vista University,,,,,,,,,,,,,,7
+The College of Health Care Professions-Dallas,,0.3746,,,,,,,,,,,,6
+The College of Health Care Professions-Fort Worth,,0.4114,,,,,,,,,,,,6
+Shear Finesse Beauty Academy,,0.7037,,,,,,,,,,,,5
+Miami Media School,,0.6395,,,,,,,1.0,,,,,5
+Academy of Salon Professionals,,0.3571,,,,,,,,,,,,4
+CyberTex Institute of Technology,,0.8239,,,,,,,,,,,,6
+New England Tractor Trailer Training School of CT-Bridgeport,,0.8709,,,,,,,,,,,,1
+Paul Mitchell the School-Woodbridge,,0.4151,,,,,,,,,,,,5
+College of the Muscogee Nation,,0.2696,,,,,,,,,,,,6
+The Salon Professional Academy-Huntsville,,0.2048,,,,,,,,,,,,5
+Midwives College of Utah,,0.892,,,,,,,0.4,,,,,7
+Aspen Beauty Academy of Laurel,,0.5072,,,,,,,,,,,,2
+NTMA Training Centers of Southern California,,0.637,,,,,,,,,,,,8
+Future Generations University,,,,,,,,,,,,,,5
+Carthage R9 School District-Carthage Technical Center,,0.75,,,,,,,,,,,,4
+Grace Mission University,,0.7603,,,,,,,0.8224,,,,,8
+Verve College,,0.8639,,,,,,,,,,,,3
+Sotheby's Institute of Art-NY,,,,,,,,,,,,,,2
+Santa Ana Beauty College,,0.8119,,,,,,,,,,,,8
+Shepherds College,,0.2316,,,,,,,0.902,,,,,3
+Woodruff Medical Training and Testing,,0.4821,,,,,,,,,,,,5
+Helms College,,0.6304,,,,,,,,,,,,5
+Ukiah Adult School,,,,,,,,,,,,,,8
+Riverside County Office of Education-School of Career Education,,0.3608,,,,,,,,,,,,8
+Ultrasound Medical Institute,,0.5824,,,,,,,0.9048,,,,,5
+Mid-South Christian College,,0.375,,,,,,,1.0,,,,,5
+Barber & Beauty Institute of New York,,0.6667,,,,,,,,,,,,2
+Ultrasound Medical Institute,,0.5824,,,,,,,0.9048,,,,,5
+Xavier College School of Nursing,,0.4691,,,,,,,,,,,,8
+Kaizen Beauty Academy,,0.6111,,,,,,,,,,,,5
+Southern Texas Careers Academy,,0.6579,,,,,,,,,,,,6
+Sharp Edgez Barber Institute,,0.5938,,,,,,,,,,,,2
+The Salon Professional Academy-Nashville,,0.1667,,,,,,,,,,,,5
+Southern California Health Institute,,0.6777,,,,,,,,,,,,8
+Grace School of Theology,,0.7892,,,,,,,,,,,,6
+Yeshiva Gedolah Kesser Torah,,,,,,,,,0.9,,,,,2
+Universal Training Institute,,0.8663,,,,,,,,,,,,2
+Yeshiva Yesodei Hatorah,,,,,,,,,0.8684,,,,,2
+Center for the Healing Arts,,0.8056,,,,,,,,,,,,2
+Healthcare Training Institute,,0.525,,,,,,,0.375,,,,,2
+Academy of Salon and Spa,,0.381,,,,,,,,,,,,5
+Boca Beauty Academy,,0.57,,,,,,,,,,,,5
+Paul Mitchell the School-Jersey Shore,,0.4857,,,,,,,,,,,,2
+City Pointe Beauty Academy,,0.297,,,,,,,,,,,,4
+The Chrysm Institute of Esthetics,,0.5843,,,,,,,,,,,,5
+Belle Academy of Cosmetology LLC,,0.4,,,,,,,,,,,,1
+Empire Beauty School-Augusta,,0.5488,,,,,,,,,,,,5
+South University-High Point,,,,,,,,,,,,,,5
+Empire Beauty School-Vernon Hills,,0.3906,,,,,,,,,,,,3
+Empire Beauty School-Stone Park,,0.4622,,,,,,,,,,,,3
+Empire Beauty School-Rochester,,0.4247,,,,,,,,,,,,2
+Ross Medical Education Center-Kokomo,,0.6203,,,,,,,,,,,,3
+Ross Medical Education Center-Erlanger,,0.4356,,,,,,,,,,,,5
+Ross Medical Education Center-Charleston,,0.383,,,,,,,,,,,,5
+InterCoast Colleges-Fairfield,,0.4779,,,,,,,,,,,,8
+Southern Careers Institute-San Antonio,,0.515,,,,,,,,,,,,6
+Milan Institute-Merced,,0.3323,,,,,,,,,,,,8
+Midwest Technical Institute-Springfield,,0.4456,,,,,,,,,,,,3
+Augustana University,,0.0363,,,,,,,0.6691,605.0,620.0,,1248.0,4
+Middle Georgia State University,,0.2559,,,,,,,0.9416,500.0,485.0,,990.0,5
+Trenz Beauty Academy,,0.6271,,,,,,,,,,,,3
+Paul Mitchell the School-Denver,,0.3793,,,,,,,,,,,,7
+Academy of Interactive Entertainment,,0.1595,,,,,,,0.9231,,,,,8
+Arrojo Cosmetology School,,0.24,,,,,,,,,,,,2
+Cosmetology Academy of Texarkana,,0.7467,,,,,,,,,,,,6
+Veritas Baptist College,,0.3822,,,,,,,1.0,,,,,3
+Lynnes Welding Training,,0.2188,,,,,,,,,,,,4
+Aviation Institute of Maintenance-Las Vegas,,0.6676,,,,,,,,,,,,8
+UEI College-Bakersfield,,0.4444,,,,,,,,,,,,8
+DeVry College of New York,,0.8696,,,,,,,1.0,,,,,2
+DeVry University-Arizona,,0.7828,,,,,,,1.0,,,,,6
+DeVry University-California,,0.814,,,,,,,0.9545,,,,,8
+DeVry University-Colorado,,0.8403,,,,,,,1.0,,,,,7
+DeVry University-Florida,,0.8639,,,,,,,1.0,,,,,5
+DeVry University-Georgia,,0.7471,,,,,,,0.9302,,,,,5
+DeVry University-Illinois,,0.8082,,,,,,,0.9572,,,,,3
+DeVry University-Missouri,,0.8525,,,,,,,1.0,,,,,4
+DeVry University-Nevada,,0.8333,,,,,,,1.0,,,,,8
+DeVry University-New Jersey,,0.6438,,,,,,,1.0,,,,,2
+DeVry University-North Carolina,,0.7234,,,,,,,1.0,,,,,5
+DeVry University-Ohio,,0.7342,,,,,,,0.96,,,,,3
+DeVry University-Pennsylvania,,0.7891,,,,,,,0.9,,,,,2
+DeVry University-Tennessee,,0.75,,,,,,,1.0,,,,,5
+DeVry University-Texas,,0.9045,,,,,,,0.8462,,,,,6
+DeVry University-Virginia,,0.82,,,,,,,1.0,,,,,5
+University of North Georgia,,0.1042,,,,,,,0.8148,555.0,535.0,,1102.0,5
+South Georgia State College,,0.1611,,,,,,,,,,,,5
+Northeastern University Lifelong Learning Network,,0.3434,,,,,,,,,,,,1
+Florida Polytechnic University,,0.0559,,,,,,,0.5004,635.0,645.0,,1304.0,5
+American Institute-Toms River,,0.594,,,,,,,,,,,,2
+Alamo City Barber College,,0.4583,,,,,,,,,,,,6
+Arizona College-Mesa,,0.5447,,,,,,,,,,,,6
+American College of Healthcare and Technology,,0.3494,,,,,,,,,,,,8
+Antioch College AG,,1.0,,,,,,,,,,,,5
+Central Georgia Technical College,,0.4156,,,,,,,,,,,,5
+Barber School of Pittsburgh,,0.6804,,,,,,,,,,,,2
+Innovate Salon Academy,,0.4277,,,,,,,,,,,,2
+Arizona State University Digital Immersion,,0.6388,,,,,,,0.6379,,,,,6
+Louisiana Delta Community College,,0.4153,,,,,,,,,,,,5
+The Fab School,,0.3851,,,,,,,,,,,,8
+Networks Barber College,,0.6111,,,,,,,,,,,,3
+JB's Hair Design and Barber College,,0.5682,,,,,,,,,,,,6
+Paul Mitchell the School-Lombard,,0.248,,,,,,,,,,,,3
+Paul Mitchell the School-Greenville,,0.3614,,,,,,,,,,,,5
+Delta College-Slidell Campus,,0.5673,,,,,,,,,,,,5
+Integrity College of Health,,0.7333,,,,,,,,,,,,8
+Electrical Training Center,,0.5052,,,,,,,,,,,,2
+Alexander Paul Institute of Hair Design,,0.2727,,,,,,,,,,,,5
+California Technical Academy,,0.9441,,,,,,,,,,,,8
+More Tech Institute,,1.0,,,,,,,,,,,,5
+Dorsey School of Business-Dearborn,,0.5591,,,,,,,,,,,,3
+Neecee's Barber College,,0.5532,,,,,,,,,,,,6
+Bella Cosmetology and Barber College,,0.4667,,,,,,,,,,,,6
+Franklin Hair Academy School of Cosmetology,,0.3235,,,,,,,,,,,,5
+Universidad Ana G. Mendez-Online Campus,,0.7845,,,,,,,,,,,,9
+Ohio Institute of Allied Health,,0.8696,,,,,,,,,,,,3
+Access Careers,,0.6731,,,,,,,,,,,,2
+Luckes Beauty Academy LLC,,0.5714,,,,,,,,,,,,5
+Total Transformation Institute of Cosmetology,,0.3256,,,,,,,,,,,,6
+Vibe Barber College,,0.5211,,,,,,,,,,,,5
+Champ's Barber School,,0.7308,,,,,,,,,,,,2
+IGlobal University,,0.4366,,,,,,,,,,,,5
+East-West Healing Arts Institute,,0.8163,,,,,,,,,,,,3
+Standard Healthcare Services-College of Nursing,,0.8969,,,,,,,0.4375,,,,,5
+Philadelphia Technician Training,,0.6477,,,,,,,,,,,,2
+Grace International Beauty School,,0.8261,,,,,,,,,,,,2
+Alliance Computing Solutions,,0.75,,,,,,,,,,,,2
+InterAmerican Technical Institute,,0.8961,,,,,,,,,,,,5
+Bay Area Medical Academy,,0.5248,,,,,,,,,,,,8
+Mind Body Institute,,0.8462,,,,,,,,,,,,5
+Parisian Spa Institute,,0.6061,,,,,,,,,,,,5
+Creative Touch Cosmetology School,,0.5,,,,,,,,,,,,3
+LaBarberia Institute of Hair,,0.3529,,,,,,,,,,,,3
+Bos-Man's Barber College,,0.7037,,,,,,,,,,,,5
+Alabama College of Osteopathic Medicine,,,,,,,,,,,,,,5
+High Desert Medical College,,0.4773,,,,,,,,,,,,8
+Paul Mitchell the School-Schenectady,,0.2963,,,,,,,,,,,,2
+Beyond Measure Barbering Institute,,0.4615,,,,,,,,,,,,5
+McDougle Technical  Institute,,0.3598,,,,,,,,,,,,5
+Barber Institute of Texas,,0.3333,,,,,,,,,,,,6
+Jupiter Beauty Academy,,0.7261,,,,,,,,,,,,1
+MedQuest College,,0.3488,,,,,,,,,,,,5
+First Coast Barber Academy,,0.6087,,,,,,,,,,,,5
+Debutantes School of Cosmetology and Nail Technology,,0.2297,,,,,,,,,,,,3
+Paul Mitchell The School-Farmington Hills,,0.2636,,,,,,,,,,,,3
+Paul Mitchell the School-Merrillville,,0.1481,,,,,,,,,,,,3
+Ricci's Academy of Cosmetology,,0.21,,,,,,,,,,,,1
+Yahweh Beauty Academy,,0.6765,,,,,,,,,,,,6
+Arizona School of Integrative Studies,,0.6689,,,,,,,,,,,,6
+Lee Professional Institute,,0.8889,,,,,,,,,,,,5
+Park Place Premier Barber School,,0.5,,,,,,,,,,,,5
+The Salon Professional Academy-San Jose,,0.4195,,,,,,,,,,,,8
+Tri-Community Adult Education,,0.5878,,,,,,,,,,,,8
+Ross Medical Education Center-Owensboro,,0.475,,,,,,,,,,,,5
+Ross Medical Education Center-Evansville,,0.5238,,,,,,,,,,,,3
+Ross Medical Education Center-Johnson City,,0.6055,,,,,,,,,,,,5
+North-West College-Anaheim,,0.4363,,,,,,,,,,,,8
+North-West College-Long Beach,,0.4983,,,,,,,,,,,,8
+Taylor Andrews Academy of Hair Design-Provo,,0.2044,,,,,,,,,,,,7
+University of Florida-Online,,0.3849,,,,,,,0.3202,635.0,615.0,,1259.0,5
+Ogle School Hair Skin Nails-Stafford,,0.5548,,,,,,,,,,,,6
+Arizona State University-Downtown Phoenix,,0.1344,,,,,,,0.8185,595.0,580.0,,1161.0,6
+University of Phoenix-California,,0.9412,,,,,,,,,,,,8
+University of Phoenix-Michigan,,1.0,,,,,,,,,,,,3
+University of Phoenix-Nevada,,0.9451,,,,,,,,,,,,8
+University of Phoenix-Texas,,0.9665,,,,,,,,,,,,6
+CEM College-Mayaguez,,0.3764,,,,,,,,,,,,9
+West Coast University-Los Angeles,,0.4655,,,,,,,,,,,,8
+Rabbinical College of Ohr Shimon Yisroel,,,,,,,,,,,,,,2
+Aveda Institute-Phoenix,,0.2882,,,,,,,,,,,,6
+University of North Texas at Dallas,,0.3694,,,,,,,0.4682,420.0,420.0,,899.0,6
+Dermal Science International Aesthetics and Nail Academy,,0.6029,,,,,,,,,,,,5
+Northwest College-Medford,,0.4,,,,,,,,,,,,8
+Houston Training Schools-Gessner,,0.7483,,,,,,,,,,,,6
+Empire Beauty School-Buffalo,,0.569,,,,,,,,,,,,2
+Paul Mitchell the School-Toledo,,0.4266,,,,,,,,,,,,3
+Georgia Military College,,0.2107,,,,,,,,,,,,5
+SAE Institute of Technology-Chicago,,0.32,,,,,,,,,,,,3
+Beau Monde Academy of Cosmetology and Barbering,,0.487,,,,,,,,,,,,8
+West Coast University-Miami,,0.4861,,,,,,,,,,,,5
+All Beauty College,,0.4,,,,,,,,,,,,6
+Aparicio-Levy Technical College,,0.0886,,,,,,,,,,,,5
+The Vocational Nursing Institute Inc,,1.0,,,,,,,1.0,,,,,6
+Hollywood Institute of Beauty Careers-West Palm Beach,,0.5345,,,,,,,,,,,,5
+Hollywood Institute of Beauty Careers-Casselberry,,0.5603,,,,,,,,,,,,5
+Empire Beauty School-Cheltenham,,0.5575,,,,,,,,,,,,2
+High Tech High Graduate School of Education,,,,,,,,,,,,,,8
+Coachella Valley Beauty College-Hemet,,0.5,,,,,,,,,,,,8
+Coastal Pines Technical College,,0.2081,,,,,,,,,,,,5
+Leon Studio One School of Beauty Knowledge,,0.3333,,,,,,,,,,,,2
+Latin Beauty Academy,,0.8286,,,,,,,,,,,,5
+Associated Barber College of San Diego,,0.1846,,,,,,,,,,,,8
+ABCO Technology,,0.8889,,,,,,,,,,,,8
+International Sports Sciences Association,,0.8364,,,,,,,,,,,,8
+University of Texas Health Science Center at Tyler,,,,,,,,,,,,,,6
+California Intercontinental University,,0.8538,,,,,,,,,,,,8
+Infinity College,,0.6577,,,,,,,,,,,,5
+Universal Healthcare Careers College,,0.9231,,,,,,,,,,,,8
+New Beginnings Beauty Academy,,0.697,,,,,,,,,,,,5
+Dolce LLC The Academy,,0.381,,,,,,,,,,,,1
+American College of the Building Arts,,0.3511,,,,,,,0.9643,560.0,560.0,,1060.0,5
+River Valley School of Massage,,0.7692,,,,,,,,,,,,5
+Atlantis University,,0.7156,,,,,,,,,,,,5
+Westchester School for Dental Assistant,,0.2967,,,,,,,,,,,,2
+Studio Incamminati,,0.9796,,,,,,,0.7619,,,,,2
+Salon Boutique Academy,,0.5202,,,,,,,,,,,,6
+The Recording Conservatory of Austin,,0.2593,,,,,,,,,,,,6
+Bet Medrash Gadol Ateret Torah,,0.0333,,,,,,,0.8718,,,,,2
+Yeshiva Ohr Yisrael,,0.0435,,,,,,,0.6667,,,,,2
+Yeshiva Sholom Shachna,,,,,,,,,0.96,,,,,2
+Elmezzi Graduate School of Molecular Medicine,,,,,,,,,,,,,,2
+Professional Academy of Cosmetology,,0.5,,,,,,,,,,,,2
+Theatre of Arts,,0.5357,,,,,,,1.0,,,,,8
+Treasure Coast Technical College,,0.4,,,,,,,,,,,,5
+American College of Barbering,,0.6186,,,,,,,,,,,,5
+Beth Medrash Meor Yitzchok,,,,,,,,,0.6319,,,,,2
+Mingo Extended Learning Center,,0.5,,,,,,,,,,,,5
+ZMS The Academy,,0.6,,,,,,,,,,,,8
+Valor Christian College,,0.5633,,,,,,,,,,,,3
+Bethany Global University,,0.1053,,,,,,,0.8758,,,,,4
+Bella Academy of Cosmetology,,0.3846,,,,,,,,,,,,3
+HVAC Technical Institute,,0.6433,,,,,,,,,,,,3
+United International College,,0.5692,,,,,,,,,,,,5
+San Francisco Film School,,0.4737,,,,,,,,,,,,8
+Culinary Tech Center,,0.6554,,,,,,,,,,,,2
+Randolph Technical Center,,0.5,,,,,,,,,,,,5
+AMG School of Licensed Practical Nursing,,0.7711,,,,,,,,,,,,2
+Saint Michael College of Allied Health,,0.8786,,,,,,,,,,,,2
+Presidio Graduate School,,,,,,,,,,,,,,8
+Sandra Academy of Salon Services Inc,,0.6203,,,,,,,,,,,,5
+Wright Graduate University for the Realization of Human Potential,,,,,,,,,,,,,,3
+California Jazz Conservatory,,0.5106,,,,,,,1.0,,,,,8
+California Barber and Beauty College,,0.4194,,,,,,,,,,,,8
+Laredo CHI Academy Beauty School,,0.3205,,,,,,,,,,,,6
+Florida International Training Institute,,0.8791,,,,,,,0.8507,,,,,5
+The Training Domain,,1.0,,,,,,,,,,,,5
+Gould's Academy,,0.5092,,,,,,,,,,,,5
+Aviation Institute of Maintenance-Freemont,,0.6295,,,,,,,,,,,,8
+Paul Mitchell the School-Tulsa,,0.3275,,,,,,,,,,,,6
+PPG Technical College,,0.0821,,,,,,,,,,,,9
+Wave Leadership College,,0.3731,,,,,,,,,,,,5
+Professional Academy of Cosmetology,,0.5,,,,,,,,,,,,2
+Empire Beauty School-Northlake,,0.4805,,,,,,,,,,,,5
+Ross Medical Education Center-Huntsville,,0.5672,,,,,,,,,,,,5
+Ross Medical Education Center-Knoxville,,0.5,,,,,,,,,,,,5
+Ross Medical Education Center-Muncie,,0.5556,,,,,,,,,,,,3
+Cortiva Institute-Arlington,,0.781,,,,,,,,,,,,6
+Tulsa Welding School-Houston,,0.3293,,,,,,,,,,,,6
+Pima Medical Institute-El Paso,,0.5896,,,,,,,,,,,,6
+Pima Medical Institute-Phoenix,,0.4146,,,,,,,,,,,,6
+Kennesaw State University,,0.1691,,,,,,,0.7522,575.0,565.0,,1144.0,5
+Davines Professional Academy of Beauty and Business,,0.2273,,,,,,,,,,,,4
+All Beauty College,,0.4,,,,,,,,,,,,6
+Eastern Suffolk BOCES,,0.5663,,,,,,,0.8333,,,,,2
+Eastern Suffolk BOCES,,0.5663,,,,,,,0.8333,,,,,2
+Milligan University,,0.0782,,,,,,,0.9891,582.0,598.0,,1208.0,5
+Chamberlain University-Nevada,,0.6693,,,,,,,1.0,,,,,8
+Chamberlain University-Michigan,,0.5,,,,,,,1.0,,,,,3
+Chamberlain University-New Jersey,,0.6743,,,,,,,1.0,,,,,2
+Hussian College-Los Angeles,,0.0344,,,,,,,0.7827,,,,,8
+Paul Mitchell the School-Madison,,0.4783,,,,,,,,,,,,3
+The University of Tennessee Health Science Center,,0.3098,,,,,,,,,,,,5
+Unitech Training Academy-New Orleans,,0.6146,,,,,,,,,,,,5
+Wade Gordon Hairdressing Academy-Lubbock,,0.1429,,,,,,,,,,,,6
+Protege Academy,,0.1569,,,,,,,,,,,,3
+Emory University-Oxford College,,,,,,,,,0.1983,693.0,745.0,,1442.0,5
+The Chicago School of Professional Psychology at Xavier University of Louisiana,,,,,,,,,,,,,,5
+Southern Regional Technical College,,0.2628,,,,,,,,,,,,5
+Texas College of Cosmetology-Lubbock,,0.3784,,,,,,,,,,,,6
+University of Arizona-Sierra Vista,,0.6466,,,,,,,,,,,,6
+Fortis College-Cuyahoga Falls,,0.6587,,,,,,,,,,,,3
+Texas State Technical College,,0.2547,,,,,,,,,,,,6
+Aveda Institute Portland-Vancouver Campus,,0.3592,,,,,,,,,,,,8
+Arizona College of Nursing-Las Vegas,,0.7085,,,,,,,0.4,,,,,8
+Florida Career College-Pembroke Pines,,0.472,,,,,,,,,,,,5
+Florida Career College-West Palm Beach,,0.572,,,,,,,,,,,,5
+Florida Career College-Hialeah,,0.5144,,,,,,,,,,,,5
+Florida Career College-Lauderdale Lakes,,0.5392,,,,,,,,,,,,5
+Florida Career College-Tampa,,0.5468,,,,,,,,,,,,5
+Florida Career College-Jacksonville,,0.552,,,,,,,,,,,,5
+Florida Career College-Boynton Beach,,0.5542,,,,,,,,,,,,5
+Florida Career College-Margate,,0.5364,,,,,,,,,,,,5
+Florida Career College-Orlando,,0.5239,,,,,,,,,,,,5
+United Education Institute - UEI College - Phoenix,,0.4574,,,,,,,,,,,,6
+Florida Career College-Houston,,0.5206,,,,,,,,,,,,6
+Aveda Institute-Madison,,0.2883,,,,,,,,,,,,3
+Husson University,,0.1354,,,,,,,0.8458,525.0,525.0,,1053.0,1
+Tricoci University of Beauty Culture-Elgin,,0.2727,,,,,,,,,,,,3
+Concorde Career College-Southaven,,0.3977,,,,,,,1.0,,,,,5
+Universal Technical Institute-Southern California,,0.173,,,,,,,,,,,,8
+Northwest University-College of Adult and Professional Studies,,0.3195,,,,,,,,,,,,8
+Celebrity Barber School,,0.625,,,,,,,,,,,,5
+California Institute of Advanced Management,,,,,,,,,,,,,,8
+Academy of Interactive Entertainment,,0.1595,,,,,,,0.9231,,,,,8
+The Temple Annapolis-A Paul Mitchell Partner School,,0.3223,,,,,,,,,,,,2
+Yeshiva Zichron Aryeh,,,,,,,,,0.7143,,,,,2
+Butte County Regional Occupational Program,,0.3281,,,,,,,,,,,,8
+Arclabs,,0.4208,,,,,,,,,,,,5
+Top of the Line Barber College,,0.6842,,,,,,,,,,,,5
+Midfield Institute of Cosmetology,,0.6667,,,,,,,,,,,,5
+American Institute of Alternative Medicine,,0.7701,,,,,,,0.8039,,,,,3
+Felbry College School of Nursing,,0.8768,,,,,,,,,,,,3
+Regional Center for Border Health,,0.45,,,,,,,,,,,,6
+B-Unique Beauty and Barber Academy,,0.7647,,,,,,,,,,,,5
+Kentucky Horseshoeing School,,0.35,,,,,,,,,,,,5
+Tri-State Barber College,,0.3333,,,,,,,,,,,,5
+Image Maker Beauty Institute,,0.1702,,,,,,,,,,,,5
+Dalton Institute of Esthetics and Cosmetology,,0.3276,,,,,,,,,,,,5
+CAAN Academy of Nursing,,0.8116,,,,,,,,,,,,3
+Valley College-Martinsburg,,0.6234,,,,,,,,,,,,5
+Alhambra Medical University,,0.9048,,,,,,,,,,,,8
+Central Yeshiva Beth Joseph,,0.2857,,,,,,,,,,,,2
+Garden State Science and Technology Institute,,0.6,,,,,,,,,,,,2
+Barber Tech Academy,,0.5254,,,,,,,,,,,,5
+Abraham Lincoln University,,0.8519,,,,,,,,,,,,8
+Construction Training Center,,0.76,,,,,,,,,,,,5
+American Academy of Acupuncture and Oriental Medicine,,,,,,,,,,,,,,4
+Huntington University of Health Sciences,,0.8376,,,,,,,,,,,,5
+Sonoran Desert Institute,,0.9371,,,,,,,,,,,,6
+Yeshivas Maharit D'Satmar,,,,,,,,,,,,,,2
+Natural Images Beauty College,,0.4603,,,,,,,,,,,,6
+Textures Institute of Cosmetology,,0.5476,,,,,,,,,,,,3
+Learning Bridge Career Institute,,0.5532,,,,,,,,,,,,5
+PiBerry Institute,,0.7037,,,,,,,,,,,,5
+Regina Webb Academy,,0.3158,,,,,,,,,,,,5
+DeHart Technical School,,0.6329,,,,,,,,,,,,8
+Center for Neurosomatic Studies,,0.8571,,,,,,,1.0,,,,,5
+Focus Personal Training Institute,,0.7255,,,,,,,,,,,,2
+Fosbre Academy of Hair Design,,0.4071,,,,,,,,,,,,8
+National Personal Training Institute,,0.7167,,,,,,,,,,,,5
+Mission Beauty Institute,,0.5909,,,,,,,,,,,,6
+Elim Bible Institute and College,,0.3019,,,,,,,0.9077,595.0,585.0,,1180.0,2
+Beth Medrash of Asbury Park,,0.0303,,,,,,,0.8857,,,,,2
+Hope International University,,0.2038,,,,,,,0.3679,490.0,500.0,,1001.0,8
+Yeshiva Gedolah Shaarei Shmuel,,0.0111,,,,,,,0.3286,,,,,2
+Premier Barber Institute,,0.7069,,,,,,,,,,,,2
+International Beauty Education Center,,0.7407,,,,,,,,,,,,8
+Claremont Lincoln University,,,,,,,,,,,,,,8
+Phipps Academy of Barbering,,0.3846,,,,,,,,,,,,3
+Hoss Lee Academy,,0.5067,,,,,,,,,,,,8
+Indiana Wellness College,,0.6075,,,,,,,0.8525,,,,,3
+Kenny's Academy of Barbering,,0.8544,,,,,,,,,,,,3
+Seattle Film Institute,,0.5375,,,,,,,,,,,,8
+Arkansas Colleges of Health Education,,,,,,,,,,,,,,5
+Burrell College of Osteopathic Medicine,,,,,,,,,,,,,,6
+Glitz School of Cosmetology,,0.4167,,,,,,,,,,,,6
+Northeast Lakeview College,,0.1997,,,,,,,,,,,,6
+Paul Mitchell the School-Jessup,,0.4797,,,,,,,,,,,,2
+John Patrick University of Health and Applied Sciences,,0.9063,,,,,,,,,,,,3
+University of Saint Katherine,,0.0723,,,,,,,0.963,497.0,506.0,,994.0,8
+Teachers College of San Joaquin,,0.9269,,,,,,,,,,,,8
+Totally Cosmo School of Modern Cosmetology,,0.68,,,,,,,,,,,,6
+U.S. Truck Driver Training School,,0.7723,,,,,,,,,,,,3
+South Dade Technical College,,0.1685,,,,,,,,,,,,5
+Wongu University of Oriental Medicine,,,,,,,,,,,,,,8
+Tulsa Welding School-Houston,,0.3293,,,,,,,,,,,,6
+Ross Medical Education Center-Elyria,,0.4954,,,,,,,,,,,,3
+Ross Medical Education Center-Lafayette,,0.4205,,,,,,,,,,,,3
+Ross Medical Education Center-Midland,,0.5556,,,,,,,,,,,,3
+Paul Mitchell the School-Clear Lake,,0.4088,,,,,,,,,,,,6
+Paul Mitchell the School-Nampa,,0.2741,,,,,,,,,,,,7
+Kenneth Shuler School of Cosmetology-Goose Creek,,0.4914,,,,,,,,,,,,5
+Clovis Community College,,0.4325,,,,,,,,,,,,6
+Boca Beauty Academy-Parkland,,0.5965,,,,,,,,,,,,5
+American Beauty Academy-West Valley Campus,,0.4043,,,,,,,,,,,,7
+Caribbean Aviation Training Institute Inc,,0.1216,,,,,,,,,,,,9
+The College of Health Care Professions-McAllen Campus,,0.3085,,,,,,,,,,,,6
+Chamberlain University-North Carolina,,0.6791,,,,,,,1.0,,,,,5
+Chamberlain University-California,,0.5725,,,,,,,0.1667,,,,,8
+Spartan College of Aeronautics and Technology,,0.6215,,,,,,,,,,,,7
+Purdue University Global,,0.8163,,,,,,,,,,,,3
+Pima Medical Institute-Dillon,,0.1455,,,,,,,,,,,,7
+Arthur's Beauty College,,0.3125,,,,,,,,,,,,5
+West Coast University-Center for Graduate Studies,,,,,,,,,,,,,,8
+University of North Carolina Wilmington,,0.1864,,,,,,,0.6545,625.0,620.0,,1222.0,5
+National Personal Training Institute-Tampa,,0.5,,,,,,,,,,,,5
+Presbyterian Theological Seminary in America,,0.9783,,,,,,,,,,,,8
+HCI College,,0.8202,,,,,,,1.0,,,,,5
+Southern States University,,0.8617,,,,,,,0.9,,,,,8
+America Evangelical University,,0.9714,,,,,,,,,,,,8
+Gadsden Technical Institute,,0.4773,,,,,,,,,,,,5
+Virginia University of Integrative Medicine,,,,,,,,,,,,,,5
+Nashville Film Institute,,0.3012,,,,,,,,,,,,5
+Los Angeles Academy of Figurative Art,,0.3333,,,,,,,,,,,,8
+Westcliff University,,0.0346,,,,,,,0.8961,,,,,8
+World Class Academy of Beauty Careers,,0.4167,,,,,,,,,,,,5
+Allied Health Careers Institute,,0.4865,,,,,,,,,,,,5
+Sacramento Ultrasound Institute,,0.8,,,,,,,,,,,,8
+Regan Career Institute,,0.4348,,,,,,,,,,,,8
+Texas County Technical College,,0.5741,,,,,,,0.8333,,,,,4
+Baldy View Regional Occupational Program,,0.7419,,,,,,,,,,,,8
+Image Maker Beauty Institute,,0.1702,,,,,,,,,,,,5
+Reformed University,,0.8067,,,,,,,,,,,,5
+Mobile Technical Training,,0.4828,,,,,,,,,,,,2
+American Barber and Beauty Academy,,0.5667,,,,,,,,,,,,2
+Yeshiva Shaar Ephraim,,,,,,,,,,,,,,2
+Cutting Edge Academy,,0.5696,,,,,,,,,,,,2
+Yeshiva Bais Aharon,,,,,,,,,0.75,,,,,2
+Mechon L'hoyroa,,0.0909,,,,,,,,,,,,2
+Elyon College,,,,,,,,,,,,,,2
+Western Michigan University Homer Stryker M.D. School of Medicine,,,,,,,,,,,,,,3
+Harmony Health Care Institute,,0.8857,,,,,,,0.8667,,,,,1
+American Beauty Schools,,0.8378,,,,,,,,,,,,5
+Hogan Institute of Cosmetology and Esthetics,,0.527,,,,,,,,,,,,5
+John Wesley International Barber and Beauty College,,0.4394,,,,,,,,,,,,8
+Ann Webb Skin Institute,,0.5827,,,,,,,,,,,,6
+Apex Academy Hair Skin Nails School of Cosmetology,,0.28,,,,,,,,,,,,3
+The Esthetic Institute,,0.6454,,,,,,,,,,,,5
+Kor Beauty Academy,,0.4359,,,,,,,,,,,,6
+EduMed Partners,,0.3704,,,,,,,,,,,,5
+Massage Institute of Memphis,,0.7857,,,,,,,,,,,,5
+Metro Detroit Barber College,,0.65,,,,,,,,,,,,3
+Digital Media Institute at InterTech,,0.1935,,,,,,,0.2766,,,,,5
+Yeshiva Ohr Naftoli,,,,,,,,,0.8947,,,,,2
+Bais Medrash Mayan Hatorah,,0.0435,,,,,,,0.6667,,,,,2
+Allgood Beauty Institute,,0.7895,,,,,,,,,,,,6
+Ray J's College of Hair,,0.52,,,,,,,,,,,,5
+Delta Designs Cosmetology School,,0.4848,,,,,,,,,,,,5
+Gwinnett Institute,,0.7852,,,,,,,,,,,,5
+Kansas City University of Medicine and Biosciences-Joplin,,,,,,,,,,,,,,4
+Manuel and Theresa's School of Hair Design-Bryan,,0.4063,,,,,,,,,,,,6
+L Makeup Institute,,0.1515,,,,,,,,,,,,8
+Peloton College,,0.3604,,,,,,,,,,,,6
+Gateway Community and Technical College,,0.3496,,,,,,,,,,,,5
+Maine Media College,,,,,,,,,,,,,,1
+Purdue University Northwest,,0.2387,,,,,,,0.2857,535.0,535.0,,1074.0,3
+Ross Medical Education Center - Kalamazoo,,0.4904,,,,,,,,,,,,3
+Ross College-Canton,,0.5388,,,,,,,,,,,,3
+Ross College-Grand Rapids North,,0.4,,,,,,,,,,,,3
+American Institute-Somerset,,0.3496,,,,,,,,,,,,2
+Platt College-Anaheim,,0.4946,,,,,,,,,,,,8
+Advantage Career Institute,,0.5,,,,,,,,,,,,2
+Bull City Durham Beauty and Barber College,,0.7857,,,,,,,,,,,,5
+Fortis College-Cutler Bay,,0.6686,,,,,,,,,,,,5
+Yeshiva Kollel Tifereth Elizer,,0.0078,,,,,,,0.7143,,,,,2
+Arkansas Welding Academy,,0.3684,,,,,,,,,,,,5
+Unitech Training Academy-Baton Rouge,,0.434,,,,,,,,,,,,5
+Empire Beauty School-Tampa,,0.4205,,,,,,,,,,,,5
+Empire Beauty School-Lakeland,,0.4333,,,,,,,,,,,,5
+Galen College of Nursing-ARH,,0.5614,,,,,,,,,,,,5
+The Chicago School of Professional Psychology at San Diego,,,,,,,,,,,,,,8
+Tricoci University of Beauty Culture-Janesville,,0.4531,,,,,,,,,,,,3
+Unlimited Cosmetology School,,0.4545,,,,,,,,,,,,5
+Johnny Matthew's Hairdressing Training School,,0.3333,,,,,,,,,,,,8
+The Culinary School of Fort Worth,,0.4878,,,,,,,0.9483,,,,,6
+Centralia Beauty College,,0.3871,,,,,,,,,,,,8
+University of Wisconsin-Milwaukee Flex,,0.897,,,,,,,,,,,,3
+University of Wisconsin-Parkside Flex,,0.7286,,,,,,,,,,,,3
+Platt College-Edge Tech Academy,,0.7667,,,,,,,,,,,,6
+Bnos Zion Of Bobov Seminary,,0.007,,,,,,,0.9531,,,,,2
+ABC Adult School,,0.6494,,,,,,,,,,,,8
+Polytech Adult Education,,0.655,,,,,,,0.9211,,,,,2
+Blush School of Makeup,,0.3659,,,,,,,,,,,,8
+California Institute of Medical Science,,0.72,,,,,,,,,,,,8
+Union Bible College,,0.2576,,,,,,,0.7586,,,,,3
+Pets Playground Grooming School,,0.2,,,,,,,,,,,,5
+San Bernardino Beauty College,,0.7067,,,,,,,,,,,,8
+Christina and Company Education Center,,,,,,,,,,,,,,3
+Ultrasound Medical Institute,,0.5824,,,,,,,0.9048,,,,,5
+Mystros Barber Academy,,0.6,,,,,,,,,,,,6
+European Medical School of Massage,,0.5556,,,,,,,,,,,,2
+Yeshiva Gedolah Tiferes Boruch,,,,,,,,,0.913,,,,,2
+Yeshiva Chemdas Hatorah,,0.0141,,,,,,,0.8485,,,,,2
+Women's Institute of Torah Seminary and College,,0.02,,,,,,,0.8333,,,,,2
+Yeshiva Gedolah Keren Hatorah,,,,,,,,,0.82,,,,,2
+ICOHS College,,0.8911,,,,,,,,,,,,8
+Neo-Esthetique European Institute,,0.54,,,,,,,,,,,,9
+Lehigh Valley Barber School,,0.5072,,,,,,,,,,,,2
+John Wesley International Barber and Beauty College,,0.4394,,,,,,,,,,,,8
+Brown Beauty Barber School,,0.4651,,,,,,,,,,,,5
+Rexburg College of Massage Therapy,,0.193,,,,,,,,,,,,7
+Yeshiva Gedolah of Cliffwood,,0.0108,,,,,,,0.7,,,,,2
+Goshen School of Cosmetology,,0.4667,,,,,,,,,,,,5
+IBS School of Cosmetology and Massage,,0.5385,,,,,,,,,,,,8
+Urban Barber College,,0.3533,,,,,,,,,,,,8
+Yeshivas Emek Hatorah,,,,,,,,,0.9429,,,,,2
+Transitions Career Institute School of Nursing,,0.823,,,,,,,,,,,,2
+Suncoast Technical Education Center,,0.3175,,,,,,,,,,,,5
+Stacey James Institute,,0.3,,,,,,,,,,,,7
+Meridian University,,,,,,,,,,,,,,8
+Seminary Bnos Chaim,,0.015,,,,,,,0.6241,,,,,2
+Avenue Academy A Cosmetology Institute,,0.4063,,,,,,,,,,,,6
+Salon Professional Academy of San Antonio,,0.3333,,,,,,,,,,,,6
+Red Lake Nation College,,0.5846,,,,,,,,,,,,4
+Princess Institute of Beauty,,0.4255,,,,,,,,,,,,8
+Vogue International Academy,,0.5,,,,,,,,,,,,6
+Victory Career College,,0.748,,,,,,,,,,,,8
+Winonah's International School of Cosmetology,,0.581,,,,,,,,,,,,5
+Yeshiva Gedola Tiferes Yerachmiel,,,,,,,,,0.4286,,,,,2
+Southeastern Esthetics Institute,,0.2381,,,,,,,,,,,,5
+Installer Institute,,0.5769,,,,,,,,,,,,5
+Caris College,,0.5054,,,,,,,,,,,,3
+Contra Costa Medical Career College,,0.5107,,,,,,,,,,,,8
+Anousheh School of Hair,,0.5714,,,,,,,,,,,,2
+Another Level Barbering and Cosmetology School,,0.7759,,,,,,,,,,,,5
+The Salon Professional Academy-Georgetown,,0.1724,,,,,,,,,,,,6
+Elite Academy of Hair Design,,0.25,,,,,,,,,,,,3
+Champion Christian College,,0.0875,,,,,,,,,,,,5
+DSDT,,0.8545,,,,,,,,,,,,3
+Houston School of Carpentry,,0.3704,,,,,,,,,,,,6
+Reiss-Davis Graduate School,,,,,,,,,,,,,,8
+GoodFellas Barber College,,0.5556,,,,,,,,,,,,5
+The Salon Professional Academy-Delray Beach,,0.6364,,,,,,,,,,,,5
+Lynnes Welding Training-Bismarck,,0.5,,,,,,,,,,,,4
+No Grease Barber School,,0.6667,,,,,,,,,,,,5
+Pima Medical Institute-San Marcos,,0.4347,,,,,,,,,,,,8
+EDP University of Puerto Rico-Villalba,,0.7362,,,,,,,1.0,,,,,9
+Chicago School of Professional Psychology at Dallas,,,,,,,,,,,,,,6
+California College of Barbering and Cosmetology,,0.4319,,,,,,,,,,,,8
+Texas Tech University Health Sciences Center-El Paso,,0.7133,,,,,,,,,,,,6
+Ponce Health Sciences University-Centro Universitario de San Juan,,,,,,,,,,,,,,9
+The College of Health Care Professions-South San Antonio,,0.3785,,,,,,,,,,,,6
+Innovate Salon Academy,,0.4277,,,,,,,,,,,,2
+Chamberlain University-Louisiana,,0.5385,,,,,,,1.0,,,,,5
+Drury University-College of Continuing Professional Studies,,0.6501,,,,,,,,,,,,4
+Salon Success Academy-West Covina,,0.3415,,,,,,,,,,,,8
+Indiana Institute of Technology-College of Professional Studies,,0.809,,,,,,,,,,,,3
+Advantage Technical College,,0.4986,,,,,,,,,,,,9
+Institute of Culinary Education,,0.6387,,,,,,,,,,,,2
+Universal Technical Institute-Bloomfield,,0.0996,,,,,,,,,,,,2
+Gould's Academy,,0.5092,,,,,,,,,,,,5
+WellSpring School of Allied Health-Springfield,,0.6986,,,,,,,,,,,,4
+Medical Career College of Northern California,,0.6429,,,,,,,0.7222,,,,,8
+Premiere International College,,1.0,,,,,,,,,,,,5
+Kenny's Beauty Academy,,1.0,,,,,,,,,,,,5
+American Fitness and Nutrition Academy,,0.7059,,,,,,,,,,,,8
+San Diego Global Knowledge University,,0.6623,,,,,,,,,,,,8
+Global Tech College,,1.0,,,,,,,,,,,,3
+Bristol School of Hair Design,,0.5714,,,,,,,,,,,,5
+MCI,,0.4286,,,,,,,,,,,,6
+Central Pennsylvania Diesel Institute,,0.25,,,,,,,,,,,,2
+Bellasa Professional Institute,,0.697,,,,,,,,,,,,5
+PMCA Pittsburgh Multicultural Cosmetology Academy,,0.5,,,,,,,,,,,,2
+Health and Technology Training Institute,,0.9318,,,,,,,,,,,,2
+Yeshiva of Ocean,,,,,,,,,0.4,,,,,2
+Congregation Talmidei Mesivta Tiferes Shmiel Aleksander,,,,,,,,,,,,,,2
+Young Americans College of the Performing Arts,,,,,,,,,0.1616,,,,,8
+Davines Professional Academy of Beauty and Business,,0.2273,,,,,,,,,,,,4
+South Eastern Beauty Academy,,0.4314,,,,,,,,,,,,5
+Ohel Margulia Seminary,,,,,,,,,0.5783,,,,,2
+Montana Barber Institute,,0.7083,,,,,,,,,,,,6
+Yeshivat Hechal Shemuel,,0.0333,,,,,,,0.0,,,,,2
+Puerto Rico School of Nurse Anesthetists,,,,,,,,,,,,,,9
+Premier Academy of Cosmetology,,0.7,,,,,,,,,,,,6
+Yeshiva Gedolah of Woodlake Village,,,,,,,,,0.8684,,,,,2
+Yeshiva Gedola Tiferes Yaakov Yitzchok,,,,,,,,,0.4773,,,,,2
+University of Arkansas System eVersity,,0.9074,,,,,,,,,,,,5
+Careers Institute of America,,0.7222,,,,,,,,,,,,6
+Houston Barber School,,0.6261,,,,,,,,,,,,6
+Vski Cosmetology School,,0.6,,,,,,,,,,,,5
+Shear Perfection Academy of Cosmetology,,0.5,,,,,,,,,,,,5
+Union Theological Seminary in the City of New York,,,,,,,,,,,,,,2
+Deluxe Barber College,,0.46,,,,,,,,,,,,6
+Falcon Institute of Health and Science,,0.7049,,,,,,,,,,,,2
+College Unbound,,0.8221,,,,,,,,,,,,1
+Midwest Barber College,,0.7333,,,,,,,,,,,,4
+SANS Technology Institute,,0.6565,,,,,,,,,,,,2
+Southern Careers Institute-Waco,,0.5294,,,,,,,,,,,,6
+Elevate Salon Institute,,0.3246,,,,,,,,,,,,3
+Ponce Health Sciences University-St Louis,,,,,,,,,,,,,,4
+Lil Lou's Beauty and Barber College-Hammond,,0.5455,,,,,,,,,,,,3
+Arizona College-Dallas,,0.6345,,,,,,,0.4138,,,,,6
+The Salon Professional Academy-Washington DC,,0.3,,,,,,,,,,,,2
+Valley College-Cleveland,,0.463,,,,,,,,,,,,3
+National American University-Kings Bay,,0.8387,,,,,,,,,,,,5
+EDP University of Puerto Rico-Humacao,,0.6429,,,,,,,1.0,,,,,9
+EDP University of Puerto Rico-Manati,,0.7218,,,,,,,1.0,,,,,9
+UEI College-Sacramento,,0.5546,,,,,,,,,,,,8
+Fortis Institute-Cookeville,,0.5477,,,,,,,,,,,,5
+Derech Hachaim Seminary,,,,,,,,,0.9239,,,,,2
+Avenue Five Institute-South Austin Campus,,0.3763,,,,,,,,,,,,6
+Glasgow Caledonian New York College,,,,,,,,,,,,,,2
+Pima Medical Institute-San Antonio,,0.407,,,,,,,,,,,,6
+Lotus School of Integrated Professions,,0.7742,,,,,,,,,,,,5
+Christ Mission College,,0.1739,,,,,,,,,,,,6
+Esteem Academy of Beauty,,0.3846,,,,,,,,,,,,7
+Crave Beauty Academy,,0.4813,,,,,,,,,,,,4
+Urshan College,,0.1359,,,,,,,0.8365,,,,,4
+Texas Healthtech Institute,,0.7273,,,,,,,,,,,,6
+Xtylo Beauty College,,0.7407,,,,,,,1.0,,,,,6
+Tonsorial Arts Barber College,,0.7586,,,,,,,,,,,,6

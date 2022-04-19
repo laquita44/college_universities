@@ -1,0 +1,553 @@
+School,avg_cost_public,avg_cost_private,faculy_salary,ft_faculty_rate,federal_loan_rate,student_count,students_with_any_loan,students_with_pell_grant,married,veteran,grad_students,undergrads_non_degree_seeking,full_program_cost,avg_month_completion,three_yrs_after_not_working_not_enrolled,three_yrs_after_working_not_enrolled,booksupply_cost,test_requirements,ten_yrs_after_entry_earnings,completion_rate
+Galen College of Nursing-ARH,,23850.0,5258.0,0.6333,0.9575,,,,,,,,43760.0,24.0,,,,,36066.0,0.5845
+The Chicago School of Professional Psychology at San Diego,,,5971.0,,,,,,,,101.0,,,,,,,,,0.5845
+Tricoci University of Beauty Culture-Janesville,,14858.0,,,0.7647,,,,,,,,21527.0,10.0,,,,,27754.0,0.5845
+Unlimited Cosmetology School,,14795.0,,,0.5484,,,,,,,,14500.0,13.0,,,,,27754.0,0.5845
+Johnny Matthew's Hairdressing Training School,,18112.0,,,0.5789,,,,,,,,16800.0,12.0,,,,,27754.0,0.5845
+The Culinary School of Fort Worth,,19546.0,,,0.2174,,,,,,,,18500.0,9.0,,,,3.0,27754.0,0.5845
+Centralia Beauty College,,11136.0,,,0.5424,,,,,,,,15750.0,12.0,,,,,27754.0,0.5845
+University of Wisconsin-Milwaukee Flex,,,10354.0,0.5882,0.449,,,,,,,,,,,,,,47975.5,0.5845
+University of Wisconsin-Parkside Flex,,,11226.0,0.5,0.0,,,,,,,,,,,,,,27754.0,0.5845
+Platt College-Edge Tech Academy,,25280.0,,,0.575,,,,,,,,15000.0,8.0,,,,,27754.0,0.5845
+Bnos Zion Of Bobov Seminary,,6821.0,,,0.0,,,,,,,,,,,,200.0,3.0,27754.0,0.5845
+ABC Adult School,6500.0,,,,0.0,,,,,,,,1369.0,8.0,,,,,27754.0,0.5845
+Polytech Adult Education,,,,,0.0419,,,,,,,,404.0,24.0,,,,3.0,27754.0,0.5845
+Blush School of Makeup,,14693.0,,,0.3333,,,,,,,,12625.0,5.0,,,,,27754.0,0.5845
+California Institute of Medical Science,,20115.0,,,0.4038,,,,,,,,13490.0,8.0,,,,,27754.0,0.5845
+Union Bible College,,7536.0,527.0,0.3684,0.0,,,,,,,10.0,,,,,500.0,2.0,47975.5,0.5845
+Pets Playground Grooming School,,7689.0,,,0.2,,,,,,,,5740.0,4.0,,,,,27754.0,0.5845
+San Bernardino Beauty College,,,,,0.305,,,,,,,,2335.0,5.0,,,,,27754.0,0.5845
+Christina and Company Education Center,,7161.0,,,0.625,,,,,,,,12242.0,10.0,,,,,27754.0,0.5845
+Ultrasound Medical Institute,,20285.0,3188.0,,0.3938,,,,,,,2.0,42525.0,26.0,,,,5.0,36066.0,0.5845
+Mystros Barber Academy,,13261.0,,,0.3103,,,,,,,,14329.0,13.0,,,,,27754.0,0.5845
+European Medical School of Massage,,24788.0,,,0.7586,,,,,,,,14437.0,10.0,,,,,27754.0,0.5845
+Yeshiva Gedolah Tiferes Boruch,,6205.0,3958.0,,0.0,,,,,,,,,,,,200.0,3.0,36066.0,0.5845
+Yeshiva Chemdas Hatorah,,9708.0,2182.0,,0.0,,,,,,,,,,,,200.0,3.0,36066.0,0.5845
+Women's Institute of Torah Seminary and College,,,,,0.0,,,,,,,,,,,,200.0,3.0,47975.5,0.5845
+Yeshiva Gedolah Keren Hatorah,,7031.0,4102.0,,0.0,,,,,,,,,,,,200.0,3.0,36066.0,0.5845
+ICOHS College,,36101.0,,,0.4944,,,,,,,,18360.0,14.0,,,,,27754.0,0.5845
+Neo-Esthetique European Institute,,9171.0,,,0.0,,,,,,,,9576.0,12.0,,,,,27754.0,0.5845
+Lehigh Valley Barber School,,16135.0,,,0.8788,,,,,,,,21725.0,9.0,,,,,27754.0,0.5845
+John Wesley International Barber and Beauty College,,8252.0,,,0.0,,,,,,,,12075.0,11.0,,,,,27754.0,0.5845
+Brown Beauty Barber School,,17070.0,,,0.7447,,,,,,,,13600.0,16.0,,,,,27754.0,0.5845
+Rexburg College of Massage Therapy,,,,,0.4521,,,,,,,,10000.0,8.0,,,,,27754.0,0.5845
+Yeshiva Gedolah of Cliffwood,,8025.0,3894.0,,0.0,,,,,,,1.0,,,,,200.0,3.0,47975.5,0.5845
+Goshen School of Cosmetology,,15273.0,,,0.7778,,,,,,,,18050.0,13.0,,,,,27754.0,0.5845
+IBS School of Cosmetology and Massage,,12219.0,,,0.0463,,,,,,,,7858.0,4.0,,,,,27754.0,0.5845
+Urban Barber College,,12424.0,,,0.2914,,,,,,,,19950.0,11.0,,,,,27754.0,0.5845
+Yeshivas Emek Hatorah,,,5642.0,,0.0,,,,,,,3.0,,,,,200.0,3.0,47975.5,0.5845
+Transitions Career Institute School of Nursing,,22326.0,,,0.3468,,,,,,,,25000.0,14.0,,,,,27754.0,0.5845
+Suncoast Technical Education Center,,,,,0.0,,,,,,,6.0,4386.0,13.0,,,,,27754.0,0.5845
+Stacey James Institute,,16402.0,,,0.4737,,,,,,,,20876.0,16.0,,,,,27754.0,0.5845
+Meridian University,,,7504.0,0.1915,,,,,,,113.0,,,,,,,,,0.5845
+Seminary Bnos Chaim,,15006.0,2400.0,,0.0,,,,,,,,,,,,200.0,3.0,27754.0,0.5845
+Avenue Academy A Cosmetology Institute,,13632.0,,,0.5,,,,,,,,22500.0,13.0,,,,,27754.0,0.5845
+Salon Professional Academy of San Antonio,,12592.0,,,0.4375,,,,,,,,18569.0,12.0,,,,,27754.0,0.5845
+Red Lake Nation College,11700.0,,5849.0,0.6842,0.0,,,,,,,,13383.0,15.0,,,,,36066.0,0.5845
+Princess Institute of Beauty,,9460.0,,,0.4138,,,,,,,,18850.0,13.0,,,,,27754.0,0.5845
+Vogue International Academy,,,,,0.0,,,,,,,,13500.0,10.0,,,,,27754.0,0.5845
+Victory Career College,,9125.0,,,0.5056,,,,,,,,10248.0,5.0,,,,,27754.0,0.5845
+Winonah's International School of Cosmetology,,11255.0,,,0.4194,,,,,,,,13650.0,12.0,,,,,27754.0,0.5845
+Yeshiva Gedola Tiferes Yerachmiel,,8841.0,4116.0,,0.0,,,,,,,,,,,,200.0,3.0,36066.0,0.5845
+Southeastern Esthetics Institute,,14662.0,,,0.5438,,,,,,,,11200.0,5.0,,,,,27754.0,0.5845
+Installer Institute,,27081.0,,,0.3333,,,,,,,,18899.0,7.0,,,,,27754.0,0.5845
+Caris College,,6999.0,4745.0,,0.6942,,,,,,,,31870.0,20.0,,,,,27754.0,0.5845
+Contra Costa Medical Career College,,,,,0.067,,,,,,,,3775.0,4.0,,,,,27754.0,0.5845
+Anousheh School of Hair,,17404.0,,,0.6667,,,,,,,,17000.0,10.0,,,,,27754.0,0.5845
+Another Level Barbering and Cosmetology School,,,,,0.78,,,,,,,,15535.0,11.0,,,,,27754.0,0.5845
+The Salon Professional Academy-Georgetown,,9787.0,,,0.5588,,,,,,,,17125.0,12.0,,,,,27754.0,0.5845
+Elite Academy of Hair Design,,11119.0,,,0.5532,,,,,,,,15200.0,13.0,,,,,27754.0,0.5845
+Champion Christian College,,8452.0,2333.0,,0.5517,,,,,,,3.0,,,,,1200.0,,36066.0,0.5845
+DSDT,,21074.0,,,0.1079,,,,,,,,22695.0,8.0,,,,,27754.0,0.5845
+Houston School of Carpentry,,22456.0,,,0.1233,,,,,,,,14900.0,8.0,,,,,27754.0,0.5845
+Reiss-Davis Graduate School,,,7366.0,,,,,,,,44.0,,,,,,,,,0.5845
+GoodFellas Barber College,,10614.0,,,0.4,,,,,,,,16500.0,13.0,,,,,27754.0,0.5845
+The Salon Professional Academy-Delray Beach,,29576.0,,,0.6863,,,,,,,,16583.0,13.0,,,,,27754.0,0.5845
+Lynnes Welding Training-Bismarck,,11850.0,,,0.3871,,,,,,,,14075.0,3.0,,,,,27754.0,0.5845
+No Grease Barber School,,23099.0,,,1.0,,,,,,,,19272.0,11.0,,,,,27754.0,0.5845
+Pima Medical Institute-San Marcos,,22189.0,4929.0,0.3571,0.4164,,,,,,,,15660.0,9.0,,,,,27754.0,0.5845
+EDP University of Puerto Rico-Villalba,,6786.0,1790.0,,0.191,,,,,,,,,,,,600.0,3.0,36066.0,0.5845
+Chicago School of Professional Psychology at Dallas,,,7500.0,,,,,,,,55.0,,,,,,,,,0.5845
+California College of Barbering and Cosmetology,,17833.0,,,0.5125,,,,,,,,19800.0,14.0,,,,,27754.0,0.5845
+Texas Tech University Health Sciences Center-El Paso,,,10360.0,0.8065,0.7689,,,,,,465.0,22.0,,,,,,,47975.5,0.5845
+Ponce Health Sciences University-Centro Universitario de San Juan,,,5052.0,0.5,,,,,,,99.0,,,,,,,,,0.5845
+The College of Health Care Professions-South San Antonio,,25346.0,3895.0,0.6429,0.868,,,,,,,,16000.0,9.0,,,,,27754.0,0.5845
+Innovate Salon Academy,,27953.0,,,0.5702,,,,,,,,20718.0,10.0,,,,,27754.0,0.5845
+Chamberlain University-Louisiana,,,6743.0,0.3125,0.8667,,,,,,,21.0,,,,,600.0,2.0,47975.5,0.5845
+Drury University-College of Continuing Professional Studies,,13233.0,6771.0,1.0,0.5169,,,,,,,90.0,,,,,1200.0,,47975.5,0.5845
+Salon Success Academy-West Covina,,13279.0,,,0.7582,,,,,,,,22900.0,12.0,,,,,27754.0,0.5845
+Indiana Institute of Technology-College of Professional Studies,,16269.0,,,0.7741,,,,,,,252.0,,,,,,,47975.5,0.5845
+Advantage Technical College,,8117.0,,,0.0,,,,,,,,8750.0,13.0,,,,,27754.0,0.5845
+Institute of Culinary Education,,,,,0.2544,,,,,,,,40575.0,9.0,,,,,27754.0,0.5845
+Universal Technical Institute-Bloomfield,,21715.0,,,0.8691,,,,,,,,36165.0,13.0,,,,,27754.0,0.5845
+Gould's Academy,,16321.0,,,0.6466,,,,,,,,18550.0,13.0,,,,,27754.0,0.5845
+WellSpring School of Allied Health-Springfield,,22799.0,3333.0,,0.8175,,,,,,,,16471.0,12.0,,,,,27754.0,0.5845
+Medical Career College of Northern California,,27800.0,,,0.7,,,,,,,,,,,,850.0,3.0,27754.0,0.5845
+Premiere International College,,,3900.0,,0.0,,,,,,,,,,,,1150.0,,36066.0,0.5845
+Kenny's Beauty Academy,,14753.0,,,0.4286,,,,,,,,17400.0,10.0,,,,,27754.0,0.5845
+American Fitness and Nutrition Academy,,17722.0,,,0.1,,,,,,,,8952.0,9.0,,,,,27754.0,0.5845
+San Diego Global Knowledge University,,,,,0.0,,,,,,3.0,,,,,,4200.0,,47975.5,0.5845
+Global Tech College,,17140.0,5417.0,,0.5714,,,,,,,,,,,,650.0,,27754.0,0.5845
+Bristol School of Hair Design,,14593.0,,,0.1059,,,,,,,,11600.0,11.0,,,,,27754.0,0.5845
+MCI,,15832.0,,,0.1449,,,,,,,,16300.0,9.0,,,,,27754.0,0.5845
+Central Pennsylvania Diesel Institute,,24565.0,,,0.2917,,,,,,,,20650.0,9.0,,,,,27754.0,0.5845
+Bellasa Professional Institute,,,,,0.0,,,,,,,,11000.0,15.0,,,,,27754.0,0.5845
+PMCA Pittsburgh Multicultural Cosmetology Academy,,,,,0.0,,,,,,,,17150.0,9.0,,,,,27754.0,0.5845
+Health and Technology Training Institute,,,,,0.0,,,,,,,,16745.0,22.0,,,,,27754.0,0.5845
+Yeshiva of Ocean,,7437.0,7583.0,,0.0,,,,,,,,,,,,200.0,3.0,36066.0,0.5845
+Congregation Talmidei Mesivta Tiferes Shmiel Aleksander,,13998.0,4511.0,0.7692,0.0,,,,,,,,,,,,500.0,,47975.5,0.5845
+Young Americans College of the Performing Arts,,,5982.0,0.4167,0.0,,,,,,,,,,,,1000.0,3.0,36066.0,0.5845
+Davines Professional Academy of Beauty and Business,,19307.0,,,0.5352,,,,,,,,18900.0,11.0,,,,,27754.0,0.5845
+South Eastern Beauty Academy,,,,,0.0,,,,,,,,12400.0,12.0,,,,,27754.0,0.5845
+Ohel Margulia Seminary,,7041.0,2520.0,0.7308,0.0,,,,,,,,,,,,200.0,3.0,27754.0,0.5845
+Montana Barber Institute,,880.0,,,0.0882,,,,,,,,19567.0,10.0,,,,,27754.0,0.5845
+Yeshivat Hechal Shemuel,,12085.0,7643.0,,0.0,,,,,,,,,,,,200.0,3.0,36066.0,0.5845
+Puerto Rico School of Nurse Anesthetists,,,,,,,,,,,46.0,,,,,,,,,0.5845
+Premier Academy of Cosmetology,,13731.0,,,0.0556,,,,,,,,15500.0,13.0,,,,,27754.0,0.5845
+Yeshiva Gedolah of Woodlake Village,,8193.0,1944.0,,0.0,,,,,,,,,,,,200.0,3.0,36066.0,0.5845
+Yeshiva Gedola Tiferes Yaakov Yitzchok,,8435.0,3851.0,,0.0,,,,,,,8.0,,,,,200.0,3.0,36066.0,0.5845
+University of Arkansas System eVersity,,,,,0.0,,,,,,,,25840.0,59.0,,,,,47975.5,0.5845
+Careers Institute of America,,30051.0,,,0.0645,,,,,,,,14750.0,8.0,,,,,27754.0,0.5845
+Houston Barber School,,9354.0,,,0.1327,,,,,,,,15300.0,10.0,,,,,27754.0,0.5845
+Vski Cosmetology School,,10475.0,,,0.4706,,,,,,,,18000.0,10.0,,,,,27754.0,0.5845
+Shear Perfection Academy of Cosmetology,,,,,0.381,,,,,,,,17400.0,13.0,,,,,27754.0,0.5845
+Union Theological Seminary in the City of New York,,,9986.0,1.0,,,,,,,246.0,,,,,,,,,0.5845
+Deluxe Barber College,,16066.0,,,0.0156,,,,,,,,17000.0,11.0,,,,,27754.0,0.5845
+Falcon Institute of Health and Science,,29239.0,,,0.0,,,,,,,,,,,,1382.0,,27754.0,0.5845
+College Unbound,,,,,0.0,,,,,,,49.0,,,,,200.0,,47975.5,0.5845
+Midwest Barber College,,21200.0,,,0.2353,,,,,,,,18435.0,13.0,,,,,27754.0,0.5845
+SANS Technology Institute,,,,0.0,,,,,,,373.0,,,,,,,,,0.5845
+Southern Careers Institute-Waco,,20844.0,,,0.7183,,,,,,,,16900.0,9.0,,,,,27754.0,0.5845
+Elevate Salon Institute,,13145.0,,,0.6364,,,,,,,,21500.0,12.0,,,,,27754.0,0.5845
+Ponce Health Sciences University-St Louis,,,5190.0,,,,,,,,11.0,,,,,,,,,0.5845
+Lil Lou's Beauty and Barber College-Hammond,,19871.0,,,0.75,,,,,,,,19500.0,13.0,,,,,27754.0,0.5845
+Arizona College-Dallas,,,7453.0,0.2308,1.0,,,,,,,,,,,,,3.0,47975.5,0.5845
+The Salon Professional Academy-Washington DC,,,,,0.0,,,,,,,,19900.0,12.0,,,,,27754.0,0.5845
+Valley College-Cleveland,,26642.0,3875.0,,0.9231,,,,,,,,16753.0,10.0,,,,,36066.0,0.5845
+National American University-Kings Bay,,,,,,,,,,,,,,,,,1350.0,,36066.0,0.5845
+EDP University of Puerto Rico-Humacao,,,2004.0,1.0,,,,,,,,,,,,,600.0,3.0,36066.0,0.5845
+EDP University of Puerto Rico-Manati,,,1919.0,1.0,,,,,,,,,,,,,600.0,3.0,36066.0,0.5845
+UEI College-Sacramento,,31713.0,,,0.933,,,,,,,,19900.0,9.0,,,,,27754.0,0.5845
+Fortis Institute-Cookeville,,22628.0,4531.0,,0.6791,,,,,,,,,,,,893.0,,27754.0,0.5845
+Derech Hachaim Seminary,,8293.0,,,0.0,,,,,,,,,,,,200.0,3.0,27754.0,0.5845
+Avenue Five Institute-South Austin Campus,,15275.0,,,0.6026,,,,,,,,12982.0,6.0,,,,,27754.0,0.5845
+Glasgow Caledonian New York College,,,,,,,,,,,65.0,,,,,,,,,0.5845
+Pima Medical Institute-San Antonio,,,,,,,,,,,,,14463.0,8.0,,,,,27754.0,0.5845
+Lotus School of Integrated Professions,,,,,0.0,,,,,,,,8900.0,11.0,,,,,27754.0,0.5845
+Christ Mission College,,,,,0.0,,,,,,,1.0,,,,,120.0,,47975.5,0.5845
+Esteem Academy of Beauty,,,,,0.0,,,,,,,,18250.0,12.0,,,,,27754.0,0.5845
+Crave Beauty Academy,,15903.0,,,0.5978,,,,,,,,18633.0,11.0,,,,,27754.0,0.5845
+Urshan College,,,5352.0,,0.0,,,,,,,7.0,,,,,1230.0,2.0,47975.5,0.5845
+Texas Healthtech Institute,,,,,0.0,,,,,,,,8250.0,6.0,,,,,27754.0,0.5845
+Xtylo Beauty College,,,,,0.0,,,,,,,,12500.0,13.0,,,,3.0,27754.0,0.5845
+Tonsorial Arts Barber College,,,,,0.0,,,,,,,,22625.0,11.0,,,,,27754.0,0.5845
+Yeshiva Yesoda Hatorah Vetz Chaim,,,3543.0,1.0,0.0,,,,,,,,,,,,500.0,,47975.5,0.5845
+Glendale Career College-Brightwood Teachout,,,6711.0,,0.9316,,,,,,,,74990.0,24.0,,,,3.0,36066.0,0.5845
+West Virginia Junior College-United Career Institute,,13667.0,3750.0,,0.9205,,,,,,,,,,,,446.0,,27754.0,0.5845
+Aviation Institute of Maintenance-Charlotte,,,,,,,,,,,,,,,,,900.0,,27754.0,0.5845
+Ponce Health Sciences University-East,,,5052.0,0.5,,,,,,,522.0,,,,,,600.0,1.0,47975.5,0.5845
+Fortis College-Landover,,22856.0,5283.0,0.2778,0.6209,,,,,,,,,,,,840.0,,27754.0,0.5845
+Stautzenberger College-Rockford Career College,,16953.0,4554.0,0.5814,0.8668,,,,,,,,,,,,600.0,,27754.0,0.5845
+WellSpring School of Allied Health-Wichita,,14953.0,3333.0,,0.9524,,,,,,,,16917.0,13.0,,,,,36066.0,0.5845
+Access Careers-Islandia,,,,,0.0,,,,,,,,1525.0,2.0,,,,,27754.0,0.5845
+Troy University-Phenix City Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Troy University-Montgomery Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Troy University-Dothan Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Troy University-Online,,,,,,,,,,,,,,,,,,,,0.5845
+Troy University-Support Sites,,,,,,,,,,,,,,,,,,,,0.5845
+Arkansas College of Barbering and Hair Design,,,,,0.3048,,,,,,,,21453.0,10.0,,,,,27754.0,0.5845
+Harding School of Theology,,,,,,,,,,,,,,,,,,,,0.5845
+Career Academy of Hair Design-Siloam Springs,,,,,,,,,,,,,17196.0,11.0,,,,,,0.5845
+Career Academy of Hair Design-Rogers,,,,,,,,,,,,,17196.0,14.0,,,,,,0.5845
+Career Academy of Hair Design-Fayetteville,,,,,,,,,,,,,17196.0,11.0,,,,,,0.5845
+Career Academy of Hair Design - Fort Smith,,,,,,,,,,,,,17196.0,11.0,,,,,,0.5845
+University of Arkansas Community College at Hope - Texarkana,,,,,,,,,,,,,,,,,,,,0.5845
+Alliant International University-Fresno,,,,,,,,,,,,,,,,,,,,0.5845
+Alliant International University-Los Angeles,,,,,,,,,,,,,,,,,,,,0.5845
+Alliant International University-San Francisco,,,,,,,,,,,,,,,,,,,,0.5845
+Alliant International University-Irvine,,,,,,,,,,,,,,,,,,,,0.5845
+Alliant International University-Sacramento,,,,,,,,,,,,,,,,,,,,0.5845
+Flashpoint Chicago A Campus of Columbia College Hollywood,,,,,,,,,,,,,,,,,,,,0.5845
+San Jose Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Golden Gate University-Seattle,,,,,,,,,,,,,,,,,,,,0.5845
+Golden Gate University-Silicon Valley,,,,,,,,,,,,,,,,,,,,0.5845
+Humphreys College-Modesto,,,,,,,,,,,,,,,,,,,,0.5845
+IDEA at ATEP,,,,,,,,,,,,,,,,,,,,0.5845
+Life Pacific University-Virginia,,,,,,,,,,,,,,,,,,,,0.5845
+MiraCosta College - San Elijo Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Mount Saint Mary's University - Doheny Campus,,,,,,,,,,,,,,,,,,,,0.5845
+San Diego State University-Imperial Valley Campus,,,,,,,,,,,,,,,,,,,,0.5845
+San Joaquin General Hospital School of Radiation Technology,,,,,,,,,,,,,,,,,,,,0.5845
+San Joaquin Valley College - Hanford,,,,,,,,,,,,,18526.0,8.0,,,,,,0.5845
+San Joaquin Valley College - Online,,,,,,,,,,,,,30325.0,15.0,,,,,,0.5845
+San Joaquin Valley College - Bakersfield,,,,,,,,,,,,,44790.0,20.0,,,,,,0.5845
+San Joaquin Valley College - Fresno,,,,,,,,,,,,,35398.0,15.0,,,,,,0.5845
+San Joaquin Valley College - Fresno Trades Education Center,,,,,,,,,,,,,30975.0,18.0,,,,,,0.5845
+San Joaquin Valley College - Ontario,,,,,,,,,,,,,44790.0,20.0,,,,,,0.5845
+San Joaquin Valley College - Modesto,,,,,,,,,,,,,18526.0,8.0,,,,,,0.5845
+San Joaquin Valley College - Rancho Cordova,,,,,,,,,,,,,50325.0,20.0,,,,,,0.5845
+San Joaquin Valley College - Hesperia,,,,,,,,,,,,,18526.0,8.0,,,,,,0.5845
+San Joaquin Valley College - Temecula,,,,,,,,,,,,,18526.0,8.0,,,,,,0.5845
+San Joaquin Valley College - Lancaster,,,,,,,,,,,,,17526.0,8.0,,,,,,0.5845
+San Joaquin Valley College - Madera,,,,,,,,,,,,,18526.0,8.0,,,,,,0.5845
+San Joaquin Valley College - Delano,,,,,,,,,,,,,18526.0,8.0,,,,,,0.5845
+San Joaquin Valley College - Atascadero,,,,,,,,,,,,,18526.0,9.0,,,,,,0.5845
+Jesuit School of Theology of Santa Clara University,,,,,,,,,,,,,,,,,,,,0.5845
+Thomas Aquinas College - New England,,,,,,,,,,,,,,,,,,,,0.5845
+Wright Institute (The) -,,,,,,,,,,,,,,,,,,,,0.5845
+Colorado Technical University-Denver,,,,,,,,,,,,,,,,,,,,0.5845
+Denver Seminary - Washington DC,,,,,,,,,,,,,,,,,,,,0.5845
+Otero Junior College - La Junta High School,,,,,,,,,,,,,,,,,,,,0.5845
+Three Rivers Community College - Corrigan-Radgowski Correctional Cente,,,,,,,,,,,,,,,,,,,,0.5845
+Three Rivers Community College - York Correctional Institution,,,,,,,,,,,,,,,,,,,,0.5845
+Porter and Chester Institute of Rocky Hill,,,,,,,,,,,,,,,,,,,,0.5845
+Porter and Chester Institute of Enfield,,,,,,,,,,,,,,,,,,,,0.5845
+Porter and Chester Institute of Waterbury,,,,,,,,,,,,,,,,,,,,0.5845
+Porter and Chester Institute of Worcester,,,,,,,,,,,,,,,,,,,,0.5845
+Porter and Chester Institute - New London,,,,,,,,,,,,,,,,,,,,0.5845
+Delaware Technical Community College-Owens,,,,,,,,,,,,,,,,,,,,0.5845
+Delaware Technical Community College-Stanton/Wilmington,,,,,,,,,,,,,,,,,,,,0.5845
+Barry University Law School,,,,,,,,,,,,,,,,,,,,0.5845
+Keiser University-Melbourne,,,,,,,,,,,,,,,,,,,,0.5845
+Keiser University-Tallahassee,,,,,,,,,,,,,,,,,,,,0.5845
+Keiser University-Daytona,,,,,,,,,,,,,,,,,,,,0.5845
+Keiser University-Lakeland,,,,,,,,,,,,,,,,,,,,0.5845
+Keiser University- Miami,,,,,,,,,,,,,,,,,,,,0.5845
+Keiser University-Orlando,,,,,,,,,,,,,,,,,,,,0.5845
+Keiser University-Sarasota,,,,,,,,,,,,,,,,,,,,0.5845
+Keiser University-Jacksonville,,,,,,,,,,,,,,,,,,,,0.5845
+Keiser University-Tampa,,,,,,,,,,,,,,,,,,,,0.5845
+Keiser University-Pembroke Pines,,,,,,,,,,,,,,,,,,,,0.5845
+Keiser University-Port St Lucie,,,,,,,,,,,,,,,,,,,,0.5845
+Keiser University-West Palm Beach,,,,,,,,,,,,,,,,,,,,0.5845
+Keiser University-Ft Myers,,,,,,,,,,,,,,,,,,,,0.5845
+Keiser University -  Clearwater,,,,,,,,,,,,,,,,,,,,0.5845
+Keiser University - NPR,,,,,,,,,,,,,,,,,,,,0.5845
+Keiser University - Residential,,,,,,,,,,,,,,,,,,,,0.5845
+Maynard A. Traviss Technical College - Central Florida Aerospace Academy,,,,,,,,,,,,,,,,,,,,0.5845
+Miami Lakes Educational Center and Technical College,3507.0,,,,0.0,,,,,,,,2721.0,8.0,,,,,27754.0,0.5845
+Rasmussen College-New Port Richey,,,,,,,,,,,,,,,,,,,,0.5845
+Rasmussen College-Fort Myers,,,,,,,,,,,,,,,,,,,,0.5845
+Rasmussen College-Tampa/Brandon,,,,,,,,,,,,,,,,,,,,0.5845
+East Georgia State College - Statesboro,,,,,,,,,,,,,,,,,,,,0.5845
+East Georgia State College - Augusta,,,,,,,,,,,,,,,,,,,,0.5845
+Moody Bible Institute,,16646.0,6129.0,0.3113,0.3949,,,,,,734.0,50.0,,,,,932.0,5.0,47975.5,0.5845
+Triton College - Intl Union of Operating Engr Local 399 Trning Fac.,,,,,,,,,,,,,,,,,,,,0.5845
+PJ's College of Cosmetology- Brownsburg,,,,,,,,,,,,,19716.0,12.0,,,,,,0.5845
+PJ's College of Cosmetology- Jeffersonville,,,,,,,,,,,,,19716.0,13.0,,,,,,0.5845
+Ivy Tech Community College-Northcentral,,,,,,,,,,,,,,,,,,,,0.5845
+Ivy Tech Community College-Columbus,,,,,,,,,,,,,,,,,,,,0.5845
+Ivy Tech Community College-East Central,,,,,,,,,,,,,,,,,,,,0.5845
+Ivy Tech Community College-Kokomo,,,,,,,,,,,,,,,,,,,,0.5845
+Ivy Tech Community College-Lafayette,,,,,,,,,,,,,,,,,,,,0.5845
+Ivy Tech Community College-Northeast,,,,,,,,,,,,,,,,,,,,0.5845
+Ivy Tech Community College-South Central,,,,,,,,,,,,,,,,,,,,0.5845
+Ivy Tech Community College-Southwest,,,,,,,,,,,,,,,,,,,,0.5845
+Ivy Tech Community College-Wabash Valley,,,,,,,,,,,,,,,,,,,,0.5845
+Ivy Tech Community College-Richmond,,,,,,,,,,,,,,,,,,,,0.5845
+Ivy Tech Community College-Northwest,,,,,,,,,,,,,,,,,,,,0.5845
+Ivy Tech Community College-Southeast,,,,,,,,,,,,,,,,,,,,0.5845
+Ivy Tech Community College-Bloomington,,,,,,,,,,,,,,,,,,,,0.5845
+Ivy Tech Community College-Central Indiana,,,,,,,,,,,,,,,,,,,,0.5845
+Indiana Wesleyan University - Marion Design Co.,,,,,,,,,,,,,,,,,,,,0.5845
+University of Notre Dame,,33025.0,14604.0,0.903,0.313,,,,,,3951.0,43.0,,,,,1050.0,1.0,47975.5,0.5845
+Graceland University - Independence,,,,,,,,,,,,,,,,,,,,0.5845
+Baker University School of Nursing,,,,,,,,,,,,,,,,,,,,0.5845
+Coffeyville Technical Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Columbus Technical Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Old Town Barber College-Wichita,,16779.0,,,0.6333,,,,,,,,17850.0,10.0,,,,,27754.0,0.5845
+PJ's College of Cosmetology- Greenfield,,,,,,,,,,,,,19716.0,13.0,,,,,,0.5845
+PJ's College of Cosmetology- Muncie,,,,,,,,,,,,,19716.0,13.0,,,,,,0.5845
+PJ's College of Cosmetology- Indianapolis,,,,,,,,,,,,,19716.0,13.0,,,,,,0.5845
+PJ's College of Cosmetology- Plainfield,,,,,,,,,,,,,19716.0,13.0,,,,,,0.5845
+PJ's College of Cosmetology- Louisville,,,,,,,,,,,,,19716.0,13.0,,,,,,0.5845
+Southeastern Louisiana University - EBR Parish School System Prof Dev,,,,,,,,,,,,,,,,,,,,0.5845
+Southeastern Louisiana University - St Amant High School,,,,,,,,,,,,,,,,,,,,0.5845
+Southeastern Louisiana University - Destrahan High School,,,,,,,,,,,,,,,,,,,,0.5845
+Southeastern Louisiana University - Albert Cammon Middle School,,,,,,,,,,,,,,,,,,,,0.5845
+Empire Beauty School-Bangor,,,,,,,,,,,,,20375.0,11.0,,,,,,0.5845
+Cecil College - Elkton Station,,,,,,,,,,,,,,,,,,,,0.5845
+Hillsdale Beauty College,,8845.0,,,0.8,,,,,,,,19400.0,14.0,,,,,27754.0,0.5845
+Baker College of Auburn Hills,,,,,,,,,,,,,,,,,,,,0.5845
+Baker College of Cadillac,,,,,,,,,,,,,,,,,,,,0.5845
+Baker College of Jackson,,,,,,,,,,,,,,,,,,,,0.5845
+Baker College of Muskegon,,,,,,,,,,,,,,,,,,,,0.5845
+Davenport University-Warren Location,,,,,,,,,,,,,,,,,,,,0.5845
+Davenport University-Kalamazoo Location,,,,,,,,,,,,,,,,,,,,0.5845
+Davenport University-Lansing Location,,,,,,,,,,,,,,,,,,,,0.5845
+Davenport University-Midland Location,,,,,,,,,,,,,,,,,,,,0.5845
+Davenport University-Holland Location,,,,,,,,,,,,,,,,,,,,0.5845
+Davenport University-Traverse City Location,,,,,,,,,,,,,,,,,,,,0.5845
+Davenport University - Wayne CCCD,,,,,,,,,,,,,,,,,,,,0.5845
+Davenport University - Detroit,,,,,,,,,,,,,,,,,,,,0.5845
+Anoka-Ramsey Community College,11890.0,,8080.0,0.4679,0.219,,,,,,,3716.0,,,,,1200.0,,36066.0,0.5845
+Central Lakes College-Staples Campus,,,,,,,,,,,,,,,,,,,,0.5845
+M State - Detroit Lakes Campus,,,,,,,,,,,,,,,,,,,,0.5845
+M State - Moorhead Campus,,,,,,,,,,,,,,,,,,,,0.5845
+M State - Wadena Campus,,,,,,,,,,,,,,,,,,,,0.5845
+South Central College-Faribault,,,,,,,,,,,,,,,,,,,,0.5845
+Mayo Clinic College of Medicine and Science - Florida,,,,,,,,,,,,,,,,,,,,0.5845
+Mayo Clinic College of Medicine and Science - Arizona,,,,,,,,,,,,,,,,,,,,0.5845
+Mesabi Range College,10166.0,,8007.0,0.4915,0.2955,,,,,,,313.0,,,,,1000.0,,27754.0,0.5845
+Northland Community and Technical College - East Grand Forks,,,,,,,,,,,,,,,,,,,,0.5845
+Rasmussen College-Bloomington,,,,,,,,,,,,,,,,,,,,0.5845
+Rasmussen College-Eagan,,,,,,,,,,,,,,,,,,,,0.5845
+Rasmussen College-Mankato,,,,,,,,,,,,,,,,,,,,0.5845
+Rasmussen College-Brooklyn Park,,,,,,,,,,,,,,,,,,,,0.5845
+Rasmussen College-Lake Elmo/Woodbury,,,,,,,,,,,,,,,,,,,,0.5845
+Rasmussen College-Blaine,,,,,,,,,,,,,,,,,,,,0.5845
+Minnesota State CollegeSoutheast-Red Wing Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Copiah-Lincoln Community College Simpson County Center,,,,,,,,,,,,,,,,,,,,0.5845
+Copiah-Lincoln Community College-Natchez Campus,,,,,,,,,,,,,,,,,,,,0.5845
+University of Mississippi Medical Center,,,,,,,,,,,,,,,,,,,,0.5845
+Pearl River Community College-Forrest County Center,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Redstone Arsenal,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Denver,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - NAS Jacksonville,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Orlando,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Crystal Lake Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Kansas City,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Fort Leonard Wood,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Jefferson City,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Lake Ozark,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Saint Louis,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Fort Worth,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Salt Lake,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Lake County,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Naval Station Everett/Marysville,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Freeport,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Springfield,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Rolla,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Los Alamitos,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Lemoore,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - San Luis Obispo,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Fort Stewart,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Hunter Army Airfield,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Elgin,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Whidbey Island,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - NAS Jacksonville,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Fort Sill,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - San Diego,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Mesquite,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Waynesville,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Naval Base San Diego,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - Imperial,,,,,,,,,,,,,,,,,,,,0.5845
+Columbia College - NSB Kings Bay,,,,,,,,,,,,,,,,,,,,0.5845
+Evangel University - Assemblies of God Theological Seminary,,,,,,,,,,,,,,,,,,,,0.5845
+Lindenwood University-Belleville,,,,,,,,,,,,,,,,,,,,0.5845
+City College Montana State University Billings,,,,,,,,,,,,,,,,,,,,0.5845
+University of Montana (The) - Bitterroot College University of Montana,,,,,,,,,,,,,,,,,,,,0.5845
+New Hampshire Institute for Therapeutic Arts,,16666.0,,,0.3214,,,,,,,,12150.0,12.0,,,,,27754.0,0.5845
+American Institute-West Hartford,,16429.0,,,0.7215,,,,,,,,18495.0,11.0,,,,,27754.0,0.5845
+Monmouth University -  Monmouth Park Corporate Center,,,,,,,,,,,,,,,,,,,,0.5845
+Bard College - Holyoke Microcollege,,,,,,,,,,,,,,,,,,,,0.5845
+Bard College - Coxsackie Correctional Facility,,,,,,,,,,,,,,,,,,,,0.5845
+Bard College - Eastern NY Correctional Facility,,,,,,,,,,,,,,,,,,,,0.5845
+Bard College - Fishkill Correctional Facility,,,,,,,,,,,,,,,,,,,,0.5845
+Bard College - Green Haven Correctional Facility,,,,,,,,,,,,,,,,,,,,0.5845
+Bard College - Taconic Correctional Facility,,,,,,,,,,,,,,,,,,,,0.5845
+Bard College - Woodbourne Correctional Facility,,,,,,,,,,,,,,,,,,,,0.5845
+Bard College - BHSEC Newark,,,,,,,,,,,,,,,,,,,,0.5845
+Bard College - Brooklyn Public Library,,,,,,,,,,,,,,,,,,,,0.5845
+Culinary Institute of America,,28546.0,9430.0,1.0,0.5061,,,,,,87.0,,,,,,1000.0,2.0,36066.0,0.5845
+Culinary Institute of America,,28546.0,9430.0,1.0,0.5061,,,,,,87.0,,,,,,1000.0,2.0,36066.0,0.5845
+CUNY Brooklyn College - Feirstein Graduate School of Cinema,,,,,,,,,,,,,,,,,,,,0.5845
+Jamestown Business College,,6428.0,5557.0,0.4375,0.0906,,,,,,,,,,,,700.0,3.0,36066.0,0.5845
+Pratt Manhattan-A Division of Pratt Institute,,,,,,,,,,,,,,,,,,,,0.5845
+Rabbinical Seminary of America-Ma'yan HaTorah,,,,,,,,,,,,,,,,,,,,0.5845
+Saint John's University - Staten Island Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Gaston College,8486.0,,5916.0,1.0,0.0,,,,,,,89.0,,,,,1989.0,,27754.0,0.5845
+Winston - Salem Barber School - Satellite,,,,,,,,,,,,,11687.0,11.0,,,,,,0.5845
+Hebrew Union College-Jewish Institute of Religion-Cincinnati,,,,,,,,,,,,,,,,,,,,0.5845
+Hebrew Union College-Jewish Institute of Religion-Los Angeles,,,,,,,,,,,,,,,,,,,,0.5845
+Kettering College - Ollie Davis Medical Arts and Education Center,,,,,,,,,,,,,,,,,,,,0.5845
+Mount Carmel College of Nursing - Fairfield,,,,,,,,,,,,,,,,,,,,0.5845
+Marian Health Careers Center-Los Angeles Campus,,21834.0,,,0.5158,,,,,,,,22750.0,18.0,,,,,27754.0,0.5845
+Florida Center,,,,,,,,,,,,,,,,,,,,0.5845
+Sacramento Center,,,,,,,,,,,,,,,,,,,,0.5845
+Western Seminary,,,5674.0,0.3418,,,,,,,753.0,,,,,,,,,0.5845
+Western Seminary,,,5674.0,0.3418,,,,,,,753.0,,,,,,,,,0.5845
+The Beauty Institute,,17338.0,,,0.8095,,,,,,,,19800.0,9.0,,,,,27754.0,0.5845
+Bucks County Community College-Upper Bucks Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Bucks County Community College-Lower Bucks Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Harrisburg Area Community College-Lancaster,,,,,,,,,,,,,,,,,,,,0.5845
+Harrisburg Area Community College-Gettysburg,,,,,,,,,,,,,,,,,,,,0.5845
+Harrisburg Area Community College-Lebanon,,,,,,,,,,,,,,,,,,,,0.5845
+Harrisburg Area Community College-York,,,,,,,,,,,,,,,,,,,,0.5845
+New Castle School of Trades,,9645.0,3138.0,0.6078,0.4353,,,,,,,,22442.0,15.0,,,,3.0,36066.0,0.5845
+New Castle School of Trades - East Liverpool Campus,,,,,,,,,,,,,20172.0,13.0,,,,,,0.5845
+Northampton County Area Community College-Monroe,,,,,,,,,,,,,,,,,,,,0.5845
+South Hills School of Business and Technology-Altoona,,,,,,,,,,,,,,,,,,,,0.5845
+Galveston College - Charlie Thomas Family Applied Technology Center,,,,,,,,,,,,,,,,,,,,0.5845
+San Jacinto College-North Campus,,,,,,,,,,,,,,,,,,,,0.5845
+San Jacinto College-South Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Snow College-Richfield Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Northern Vermont University - Lyndon,,,,,,,,,,,,,,,,,,,,0.5845
+Bluefield College - Edward Via College of Osteopathic Medicine,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Alexandria Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Woodbridge Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Loudoun Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Fredericksburg Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Chesterfield Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Newport News Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Virginia Beach Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Union Presbyterian Seminary-Charlotte,,,,,,,,,,,,,,,,,,,,0.5845
+Washington State University-Vancouver,,,,,,,,,,,,,,,,,,,,0.5845
+Washington State University-Spokane,,,,,,,,,,,,,,,,,,,,0.5845
+Washington State University-Tri Cities,,,,,,,,,,,,,,,,,,,,0.5845
+NUC University - Arecibo,,,,,,,,,,,,,,,,,,,,0.5845
+NUC University - Rio Grande,,,,,,,,,,,,,,,,,,,,0.5845
+NUC University - Ponce,,,,,,,,,,,,,,,,,,,,0.5845
+NUC University - Caguas,,,,,,,,,,,,,,,,,,,,0.5845
+NUC University - Mayaguez,,,,,,,,,,,,,,,,,,,,0.5845
+University of the Virgin Islands-Albert A. Sheen,,,,,,,,,,,,,,,,,,,,0.5845
+Purdue University - Purdue Polytechnic Anderson,,,,,,,,,,,,,,,,,,,,0.5845
+Purdue University - Purdue Polytechnic Indianapolis,,,,,,,,,,,,,,,,,,,,0.5845
+Purdue University - Purdue Polytechnic South Bend,,,,,,,,,,,,,,,,,,,,0.5845
+Purdue University - Purdue Polytechnic New Albany,,,,,,,,,,,,,,,,,,,,0.5845
+Purdue University - Purdue Polytechnic Columbus,,,,,,,,,,,,,,,,,,,,0.5845
+Purdue University - Purdue Polytechnic Kokomo,,,,,,,,,,,,,,,,,,,,0.5845
+Purdue University - Purdue Polytechnic Richmond,,,,,,,,,,,,,,,,,,,,0.5845
+Purdue University - Purdue Polytechnic Lafayette,,,,,,,,,,,,,,,,,,,,0.5845
+Purdue University - Purdue Polytechnic Vincennes,,,,,,,,,,,,,,,,,,,,0.5845
+ECPI University-Newport News,,,,,,,,,,,,,,,,,,,,0.5845
+ECPI University-Greensboro,,,,,,,,,,,,,,,,,,,,0.5845
+ECPI University-Charlotte,,,,,,,,,,,,,,,,,,,,0.5845
+ECPI University-Greenville,,,,,,,,,,,,,,,,,,,,0.5845
+ECPI University-Manassas,,,,,,,,,,,,,,,,,,,,0.5845
+ECPI University-Charleston,,,,,,,,,,,,,,,,,,,,0.5845
+ECPI University-Raleigh,,,,,,,,,,,,,,,,,,,,0.5845
+ECPI University-Columbia,,,,,,,,,,,,,,,,,,,,0.5845
+ECPI University-Culinary Institute of Virginia,,,,,,,,,,,,,,,,,,,,0.5845
+ECPI University-Virginia Beach Health Sciences,,,,,,,,,,,,,,,,,,,,0.5845
+ECPI University-Richmond South,,,,,,,,,,,,,,,,,,,,0.5845
+ECPI University-Innsbrook,,,,,,,,,,,,,,,,,,,,0.5845
+ECPI University-Richmond West,,,,,,,,,,,,,,,,,,,,0.5845
+ECPI University - Roanoke,,,,,,,,,,,,,,,,,,,,0.5845
+ECPI University - College of Nursing - Orlando,,,,,,,,,,,,,,,,,,,,0.5845
+ECPI University - Culinary Institute of Virginia - Newport News,,,,,,,,,,,,,,,,,,,,0.5845
+ECPI University - San Antonio,,,,,,,,,,,,,,,,,,,,0.5845
+Northwest Technology Center-Fairview,,,,,,,,,,,,,2625.0,9.0,,,,,,0.5845
+Rob Roy Academy - Woonsocket,,,,,,,,,,,,,16355.0,9.0,,,,,,0.5845
+Nuvani Institute-Uvalde,,,,,,,,,,,,,14970.0,13.0,,,,,,0.5845
+Nuvani Institute-Del Rio,,,,,,,,,,,,,14970.0,13.0,,,,,,0.5845
+Nuvani Institute-South Campus,,,,,,,,,,,,,15575.0,13.0,,,,,,0.5845
+Everglades University-Orlando,,,,,,,,,,,,,,,,,,,,0.5845
+Everglades University-Sarasota,,,,,,,,,,,,,,,,,,,,0.5845
+Everglades University - Tampa,,,,,,,,,,,,,,,,,,,,0.5845
+Everglades University - Miami,,,,,,,,,,,,,,,,,,,,0.5845
+Florida National University-South Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Florida National University Training Center,,,,,,,,,,,,,,,,,,,,0.5845
+Connecticut Aero Tech  School,,,,,,,,,,,,,7600.0,18.0,,,,,,0.5845
+Indian Capital Technology Center-Sallisaw,,,,,,,,,,,,,5662.0,12.0,,,,,,0.5845
+Indian Capital Technology Center-Stilwell,,,,,,,,,,,,,5662.0,16.0,,,,,,0.5845
+Indian Capital Technology Center-Tahlequah,,,,,,,,,,,,,2350.0,9.0,,,,,,0.5845
+Central California School of Continuing Education,,18692.0,,,0.8558,,,,,,,,,,,,500.0,,27754.0,0.5845
+Compu-Med Vocational Careers Corp,,11550.0,,,0.0,,,,,,,,7850.0,11.0,,,,,27754.0,0.5845
+Osceola Technical College - St. Cloud Campus,,,,,,,,,,,,,5670.0,10.0,,,,,,0.5845
+Osceola Technical College - Poinciana Campus,,,,,,,,,,,,,5661.0,11.0,,,,,,0.5845
+Southeastern College-Miami Lakes,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Rockville Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Anne Arundel Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-White Marsh Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Owings Mills Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Santa Barbara Business College - Ventura,,,,,,,,,,,,,,,,,,,,0.5845
+Blue Cliff College-Metairie,,18841.0,4126.0,0.5357,0.761,,,,,,,,15881.0,9.0,,,,,27754.0,0.5845
+Strayer University-Nashville Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Shelby Oaks Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Knoxville Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Delaware County Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Center City Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Allentown Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Advanced College-Stockton,,,,,,,,,,,,,35000.0,13.0,,,,,,0.5845
+Advanced College - Salida,,,,,,,,,,,,,35000.0,13.0,,,,,,0.5845
+Leston College,,5165.0,,,0.0,,,,,,,,10576.0,11.0,,,,,27754.0,0.5845
+Rasmussen College-Aurora,,,,,,,,,,,,,,,,,,,,0.5845
+Rasmussen College-Romeoville/Joliet,,,,,,,,,,,,,,,,,,,,0.5845
+Rasmussen College-Mokena/Tinley Park,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Orlando East Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Sand Lake Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Baymeadows Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Miramar Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Make-up Designory,,35020.0,,,0.5121,,,,,,,,23841.0,6.0,,,,,27754.0,0.5845
+Academy Di Capelli-School of Cosmetology,,14317.0,,,0.6743,,,,,,,,20925.0,12.0,,,,,27754.0,0.5845
+Dayton School of Medical Massage-Lima,,,,,,,,,,,,,,,,,,,,0.5845
+Cincinnati School of Medical Massage,,,,,,,,,,,,,,,,,,,,0.5845
+Cleveland Institute of Medical Massage,,,,,,,,,,,,,,,,,,,,0.5845
+Columbus School of Medical Massage,,,,,,,,,,,,,,,,,,,,0.5845
+CCI Training Center-Arlington,,16879.0,,,0.536,,,,,,,,14240.0,10.0,,,,,27754.0,0.5845
+Strayer University-Huntsville Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University - Montgomery Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Rasmussen College-Wausau,,,,,,,,,,,,,,,,,,,,0.5845
+Academy of Hair Design - Austin,,,,,,,,,,,,,15950.0,11.0,,,,,,0.5845
+Strayer University-North Charlotte,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-South Charlotte,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-North Raleigh Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Greensboro Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-South Raleigh Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Piscataway,,,,,,,,,,,,,,,,,,,,0.5845
+Celebrity School of Beauty - Hialeah,,,,,,,,,,,,,15895.0,12.0,,,,,,0.5845
+Utah County Campus,,,,,,,,,,,,,17000.0,9.0,,,,,,0.5845
+L'esprit Academy - Royal Oak,,,,,,,,,,,,,20925.0,11.0,,,,,,0.5845
+Strayer University-Cobb Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Morrow Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Lithonia Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Savannah Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Augusta Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University - Macon Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Columbia Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Charleston Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Northwest Houston,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Cedar Hill,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-North Dallas,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-San Antonio,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University-Stafford,,,,,,,,,,,,,,,,,,,,0.5845
+Strayer University - Northwest Houston Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Unitek College,,25738.0,,,0.3892,,,,,,,,36294.0,11.0,,,,,27754.0,0.5845
+Keweenaw Bay Ojibwa Community College - Wabanung Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Cinta Aveda Institute - San Jose,,,,,,,,,,,,,23485.0,14.0,,,,,,0.5845
+Southern California Health Institute (SOCHI) - North Hollywood,,,,,,,,,,,,,16165.0,9.0,,,,,,0.5845
+Relay Graduate School of Education - Newark,,,,,,,,,,,,,,,,,,,,0.5845
+Relay Graduate School of Education - New Orleans,,,,,,,,,,,,,,,,,,,,0.5845
+Relay Graduate School of Education - Delaware,,,,,,,,,,,,,,,,,,,,0.5845
+Relay Graduate School of Education - Memphis,,,,,,,,,,,,,,,,,,,,0.5845
+Relay Graduate School of Education - Houston,,,,,,,,,,,,,,,,,,,,0.5845
+Relay Graduate School of Education - Chicago,,,,,,,,,,,,,,,,,,,,0.5845
+Relay Graduate School of Education - Baton Rouge,,,,,,,,,,,,,,,,,,,,0.5845
+Relay Graduate School of Education - Denver,,,,,,,,,,,,,,,,,,,,0.5845
+Relay Graduate School of Education - Nashville,,,,,,,,,,,,,,,,,,,,0.5845
+Relay Graduate School of Education - San Antonio,,,,,,,,,,,,,,,,,,,,0.5845
+Relay Graduate School of Education - Dallas-Fort Worth,,,,,,,,,,,,,,,,,,,,0.5845
+Relay Graduate School of Education - Washington D.C,,,,,,,,,,,,,,,,,,,,0.5845
+Relay Graduate School of Education - Atlanta,,,,,,,,,,,,,,,,,,,,0.5845
+Relay Graduate School of Education - California,,,,,,,,,,,,,,,,,,,,0.5845
+Relay Graduate School of Education - Indiana,,,,,,,,,,,,,,,,,,,,0.5845
+Salon Institute - Columbus Campus,,,,,,,,,,,,,23369.0,14.0,,,,,,0.5845
+Rasmussen College - Overland Park,,,,,,,,,,,,,,,,,,,,0.5845
+Rocky Vista University - Southern Utah,,,,,,,,,,,,,,,,,,,,0.5845
+Sharp Edgez Barber Institute - Buffalo,,,,,,,,,,,,,9600.0,5.0,,,,,,0.5845
+Arizona State University at Tucson,,,,,,,,,,,,,,,,,,,,0.5845
+Arizona State University - ASU Colleges at Lake Havasu City,,,,,,,,,,,,,,,,,,,,0.5845
+Arizona State University at The Gila Valley,,,,,,,,,,,,,,,,,,,,0.5845
+Arizona State University at Yuma,,,,,,,,,,,,,,,,,,,,0.5845
+Arizona State University - Pinal,,,,,,,,,,,,,,,,,,,,0.5845
+Arizona State University - Cochise,,,,,,,,,,,,,,,,,,,,0.5845
+Arizona State University - Yavapai College Prescott Valley Campus,,,,,,,,,,,,,,,,,,,,0.5845
+Arizona State University - Pima,,,,,,,,,,,,,,,,,,,,0.5845
+East-West Healing Arts Institute - Milwaukee,,,,,,,,,,,,,13925.0,10.0,,,,,,0.5845
+Alliance Computing Solutions - NYC,,,,,,,,,,,,,11900.0,9.0,,,,,,0.5845
+Bay Area Medical Academy - San Jose Satellite Location,,,,,,,,,,,,,15438.0,9.0,,,,,,0.5845
+High Desert Medical College - Bakerfield,,,,,,,,,,,,,41495.0,21.0,,,,,,0.5845
+High Desert Medical College - Temecula,,,,,,,,,,,,,41495.0,21.0,,,,,,0.5845
+Georgia Military College - Zebulon,,,,,,,,,,,,,,,,,,,,0.5845
+Georgia Military College - Valdosta,,,,,,,,,,,,,,,,,,,,0.5845
+Georgia Military College - Augusta,,,,,,,,,,,,,,,,,,,,0.5845
+Georgia Military College - Fairburn,,,,,,,,,,,,,,,,,,,,0.5845
+Georgia Military College - Robins,,,,,,,,,,,,,,,,,,,,0.5845
+Georgia Military College - Columbus,,,,,,,,,,,,,,,,,,,,0.5845
+Georgia Military College - Sandersville,,,,,,,,,,,,,,,,,,,,0.5845
+Georgia Military College - Madison,,,,,,,,,,,,,,,,,,,,0.5845
+Georgia Military College - Stone Mountain,,,,,,,,,,,,,,,,,,,,0.5845
+Georgia Military College - Fayetteville,,,,,,,,,,,,,,,,,,,,0.5845
+Georgia Military College - Dublin,,,,,,,,,,,,,,,,,,,,0.5845
+Georgia Military College - Eastman,,,,,,,,,,,,,,,,,,,,0.5845

@@ -1,0 +1,252 @@
+School,enrolled,over_25,over_23,independent,dependent,unemployment,median_family_income,poverty_rate,admissions_rate,sat_mid_reading,sat_mid_math,sat_mid_writing,sat_mid_overall,region
+George C Wallace State Community College-Selma,,0.1936,,,,,,,,,,,,5
+Herzing University-Birmingham,,0.7513,,,,,,,0.7826,,,,,5
+Huntingdon College,,0.1419,,,,,,,0.5929,563.0,545.0,,1076.0,5
+Heritage Christian University,,0.6102,,,,,,,0.2353,,,,,5
+J. F. Drake State Community and Technical College,,0.4563,,,,,,,,,,,,5
+J F Ingram State Technical College,,0.8433,,,,,,,,,,,,5
+Jacksonville State University,,0.1376,,,,,,,0.5479,535.0,510.0,,1084.0,5
+Jefferson State Community College,,0.2568,,,,,,,,,,,,5
+John C Calhoun State Community College,,0.2911,,,,,,,,,,,,5
+Lawson State Community College,,0.2785,,,,,,,,,,,,5
+University of West Alabama,,0.2675,,,,,,,0.3493,480.0,460.0,,1041.0,5
+Lurleen B Wallace Community College,,0.1534,,,,,,,,,,,,5
+Marion Military Institute,,0.0024,,,,,,,0.5761,605.0,595.0,,1147.0,5
+Miles College,,0.1298,,,,,,,,,,,,5
+University of Mobile,,0.1023,,,,,,,0.4566,565.0,520.0,,1166.0,5
+University of Montevallo,,0.072,,,,,,,0.532,570.0,565.0,,1135.0,5
+Northwest-Shoals Community College,,0.1814,,,,,,,,,,,,5
+University of North Alabama,,0.1397,,,,,,,0.8878,565.0,533.0,,1148.0,5
+Northeast Alabama Community College,,0.1852,,,,,,,,,,,,5
+Oakwood University,,0.1102,,,,,,,0.6473,514.0,467.0,,1010.0,5
+Reid State Technical College,,0.3742,,,,,,,,,,,,5
+Bishop State Community College,,0.2952,,,,,,,,,,,,5
+Samford University,,0.0248,,,,,,,0.8331,595.0,565.0,,1223.0,5
+Selma University,,0.5613,,,,,,,,,,,,5
+Shelton State Community College,,0.2035,,,,,,,,,,,,5
+Snead State Community College,,0.1998,,,,,,,,,,,,5
+University of South Alabama,,0.1379,,,,,,,0.7869,570.0,555.0,,1166.0,5
+Spring Hill College,,0.0259,,,,,,,0.4978,560.0,553.0,,1131.0,5
+Stillman College,,0.1452,,,,,,,0.3296,,,,,5
+Talladega College,,0.1016,,,,,,,,,,,,5
+H Councill Trenholm State Community College,,0.3168,,,,,,,,,,,,5
+Troy University,,0.2847,,,,,,,0.8757,510.0,500.0,,1079.0,5
+Tuskegee University,,0.033,,,,,,,0.5173,509.0,480.0,,1029.0,5
+United States Sports Academy,,0.7931,,,,,,,,,,,,5
+Bevill State Community College,,0.2173,,,,,,,,,,,,5
+University of Alaska Anchorage,,0.4101,,,,,,,0.8296,,,,,8
+Alaska Bible College,,0.25,,,,,,,,,,,,8
+University of Alaska Fairbanks,,0.4797,,,,,,,0.7599,585.0,570.0,,1121.0,8
+University of Alaska Southeast,,0.5467,,,,,,,0.6057,,,,,8
+Alaska Pacific University,,0.4629,,,,,,,0.8924,,,,,8
+Alaska Vocational Technical Center,,0.7211,,,,,,,,,,,,8
+Charter College,,0.5901,,,,,,,,,,,,8
+Alaska Career College,,0.5291,,,,,,,,,,,,8
+Empire Beauty School-Tucson,,0.4151,,,,,,,,,,,,6
+Carrington College-Phoenix North,,0.4915,,,,,,,,,,,,6
+Arizona Academy of Beauty-East,,0.625,,,,,,,,,,,,6
+Platt College-Arizona Automotive Institute Arizona,,0.6143,,,,,,,,,,,,6
+Brookline College-Phoenix,,0.7314,,,,,,,,,,,,6
+Arizona State University Campus Immersion,,0.0877,,,,,,,0.8647,615.0,625.0,,1230.0,6
+Arizona Western College,,0.2392,,,,,,,,,,,,6
+University of Arizona,,0.1113,,,,,,,0.8459,615.0,620.0,,1228.0,6
+Central Arizona College,,0.3603,,,,,,,,,,,,6
+Charles of Italy Beauty College,,0.431,,,,,,,,,,,,6
+Cochise County Community College District,,0.4248,,,,,,,,,,,,6
+Empire Beauty School-Chandler,,0.5254,,,,,,,,,,,,6
+Avalon School of Cosmetology-Mesa,,0.3486,,,,,,,,,,,,6
+Eastern Arizona College,,0.5673,,,,,,,,,,,,6
+Embry-Riddle Aeronautical University-Prescott,,0.0722,,,,,,,0.657,,,,,6
+The School of Architecture,,,,,,,,,,,,,,6
+Glendale Community College,,0.3953,,,,,,,,,,,,8
+Grand Canyon University,,0.569,,,,,,,0.7694,,,,,6
+Gateway Community and Technical College,,0.3496,,,,,,,,,,,,5
+Mesa Community College,,0.3347,,,,,,,,,,,,6
+Mohave Community College,,0.4292,,,,,,,,,,,,6
+Universal Technical Institute of Arizona Inc-Motorcycle Mechanics Institute Division,,0.5333,,,,,,,,,,,,6
+Dine College,,0.4593,,,,,,,,,,,,6
+Northern Arizona University,,0.1735,,,,,,,0.8489,,,,,6
+Northland Pioneer College,,0.3218,,,,,,,,,,,,6
+Ottawa University-Phoenix,,0.8256,,,,,,,,,,,,6
+Carrington College-Phoenix North,,0.4915,,,,,,,,,,,,6
+Pima Community College,,0.3851,,,,,,,,,,,,6
+Pima Medical Institute-Tucson,,0.6774,,,,,,,,,,,,6
+Prescott College,,0.2903,,,,,,,0.9741,,,,,6
+Refrigeration School Inc,,0.6545,,,,,,,,,,,,6
+Rio Salado College,,0.3735,,,,,,,,,,,,6
+Roberto-Venn School of Luthiery,,0.5263,,,,,,,,,,,,6
+Scottsdale Community College,,0.3421,,,,,,,,,,,,6
+South Mountain Community College,,0.2719,,,,,,,,,,,,6
+Arizona Christian University,,0.0931,,,,,,,0.6793,500.0,485.0,,982.0,6
+Universal Technical Institute of Arizona Inc-Motorcycle Mechanics Institute Division,,0.5333,,,,,,,,,,,,6
+Yavapai College,,0.4474,,,,,,,,,,,,6
+University of Arkansas at Little Rock,,0.3598,,,,,,,0.6582,,,,1120.0,5
+University of Arkansas for Medical Sciences,,0.467,,,,,,,,,,,,5
+Arkansas Baptist College,,0.1996,,,,,,,,,,,,5
+Arkansas Beauty School-Little Rock,,0.25,,,,,,,,,,,,5
+Arkansas Beauty College,,0.5,,,,,,,,,,,,5
+Lyon College,,0.0242,,,,,,,0.444,570.0,550.0,,1165.0,5
+Arkansas College of Barbering and Hair Design,,0.2439,,,,,,,,,,,,5
+Arthur's Beauty College,,0.3125,,,,,,,,,,,,5
+Arkansas State University-Newport,,0.2891,,,,,,,,,,,,5
+University of Arkansas at Pine Bluff,,0.089,,,,,,,0.4394,485.0,485.0,,978.0,5
+Arkansas State University-Beebe,,0.2186,,,,,,,,,,,,5
+Arkansas State University-Newport,,0.2891,,,,,,,,,,,,5
+Arkansas Tech University,,0.1396,,,,,,,0.9474,,,,,5
+University of Arkansas at Monticello,,0.1743,,,,,,,,,,,,5
+Arthur's Beauty College,,0.3125,,,,,,,,,,,,5
+Baptist Health College Little Rock,,0.3831,,,,,,,1.0,,,,1085.0,5
+Black River Technical College,,0.3553,,,,,,,,,,,,5
+University of Central Arkansas,,0.0977,,,,,,,0.9042,535.0,525.0,,1187.0,5
+Central Baptist College,,0.2177,,,,,,,0.4,469.0,492.0,,1027.0,5
+Cossatot Community College of the University of Arkansas,,0.2133,,,,,,,,,,,,5
+Crowley's Ridge College,,0.0374,,,,,,,,,,,,5
+East Arkansas Community College,,0.3681,,,,,,,,,,,,5
+Eastern College of Health Vocations-Little Rock,,0.4514,,,,,,,,,,,,5
+Paul Mitchell the School-Little Rock,,0.3677,,,,,,,,,,,,5
+National Park College,,0.3447,,,,,,,,,,,,5
+University of Arkansas Community College-Batesville,,0.257,,,,,,,,,,,,5
+Harding University,,0.0429,,,,,,,0.6134,590.0,575.0,,1204.0,5
+Henderson State University,,0.093,,,,,,,0.7564,524.0,521.0,,1102.0,5
+Hendrix College,,0.0027,,,,,,,0.6996,635.0,620.0,,1324.0,5
+Hot Springs Beauty College,,0.3684,,,,,,,,,,,,5
+Jefferson Regional Medical Center School of Nursing,,0.4464,,,,,,,,,,,,5
+John Brown University,,0.108,,,,,,,0.7577,590.0,570.0,,1237.0,5
+Career Academy of Hair Design,,0.4185,,,,,,,,,,,,5
+Academy of Salon and Spa,,0.381,,,,,,,,,,,,5
+Arkansas State University Mid-South,,0.2203,,,,,,,,,,,,5
+Arkansas Northeastern College,,0.2983,,,,,,,,,,,,5
+New Tyler Barber College Inc,,0.5667,,,,,,,,,,,,5
+Arkansas Northeastern College,,0.2983,,,,,,,,,,,,5
+Northwest Technical Institute,,0.3536,,,,,,,,,,,,5
+Ouachita Baptist University,,0.0147,,,,,,,0.6143,580.0,575.0,,1194.0,5
+Arkansas State University Three Rivers,,0.2858,,,,,,,,,,,,5
+Ozarka College,,0.2701,,,,,,,,,,,,5
+University of the Ozarks,,0.0255,,,,,,,0.5019,480.0,480.0,,1046.0,5
+University of Arkansas Community College-Morrilton,,0.2865,,,,,,,0.7551,,,,,5
+Philander Smith College,,0.0964,,,,,,,,,,,,5
+Phillips Community College of the University of Arkansas,,0.1888,,,,,,,,,,,,5
+Southeast Arkansas College,,0.4226,,,,,,,,,,,,5
+Professional Cosmetology Education Center,,0.3864,,,,,,,,,,,,5
+University of Arkansas-Pulaski Technical College,,0.3914,,,,,,,,,,,,5
+University of Arkansas Hope-Texarkana,,0.2822,,,,,,,,,,,,5
+University of Arkansas Community College Rich Mountain,,0.2913,,,,,,,,,,,,5
+Paul Mitchell the School-Arkansas,,0.1569,,,,,,,,,,,,5
+Searcy Beauty College,,0.4658,,,,,,,,,,,,5
+Shorter College,,0.7828,,,,,,,,,,,,5
+Williams Baptist University,,0.0475,,,,,,,0.5878,450.0,520.0,,1062.0,5
+South Arkansas Community College,,0.3576,,,,,,,,,,,,5
+Southern Arkansas University Main Campus,,0.0982,,,,,,,0.6506,529.0,538.0,,1085.0,5
+Southern Arkansas University Tech,,0.2087,,,,,,,,,,,,5
+Velvatex College of Beauty Culture,,0.7333,,,,,,,,,,,,5
+University of Arkansas-Fort Smith,,0.1946,,,,,,,,,,,,5
+Academy of Art University,,0.409,,,,,,,,,,,,8
+Academy of Chinese Culture and Health Sciences,,,,,,,,,,,,,,8
+Avalon School of Cosmetology-Alameda,,0.2766,,,,,,,,,,,,8
+Allan Hancock College,,0.2842,,,,,,,,,,,,8
+American Academy of Dramatic Arts-Los Angeles,,0.1155,,,,,,,0.7847,,,,,8
+Berkeley School of Theology,,,,,,,,,,,,,,8
+American Film Institute Conservatory,,,,,,,,,,,,,,8
+American Beauty College,,0.4783,,,,,,,,,,,,8
+American Career College-Los Angeles,,0.4907,,,,,,,,,,,,8
+American Conservatory Theater,,0.2222,,,,,,,,,,,,8
+American River College,,0.532,,,,,,,,,,,,8
+Antelope Valley College,,0.333,,,,,,,,,,,,8
+The Creative Center,,0.05,,,,,,,0.963,,,,,4
+Associated Technical College-Los Angeles,,0.791,,,,,,,,,,,,8
+Associated Technical College-San Diego,,0.7059,,,,,,,,,,,,8
+Los Angeles Pacific University,,0.8468,,,,,,,,,,,,8
+Bakersfield College,,0.288,,,,,,,,,,,,8
+Barstow Community College,,0.4873,,,,,,,,,,,,8
+Bellus Academy-Chula Vista,,0.4477,,,,,,,,,,,,8
+Bethesda University,,0.3953,,,,,,,,,,,,8
+Biola University,,0.0688,,,,,,,0.6985,605.0,590.0,,1198.0,8
+Brownson Technical School,,0.4717,,,,,,,,,,,,8
+Bryan University,,0.8413,,,,,,,,,,,,6
+Butte College,,0.3037,,,,,,,,,,,,8
+California Institute of Integral Studies,,0.8551,,,,,,,,,,,,8
+Cabrillo College,,0.3738,,,,,,,,,,,,8
+California Baptist University,,0.2156,,,,,,,0.7828,555.0,545.0,,1096.0,8
+California College of the Arts,,0.1221,,,,,,,0.8503,,,,,8
+University of California-Hastings College of Law,,,,,,,,,,,,,,8
+California Institute of Technology,,0.0064,,,,,,,0.0642,750.0,795.0,,1557.0,8
+California Lutheran University,,0.1098,,,,,,,0.7142,585.0,575.0,,1168.0,8
+California Polytechnic State University-San Luis Obispo,,0.0333,,,,,,,0.2842,660.0,680.0,,1342.0,8
+Alliant International University-San Diego,,0.3962,,,,,,,0.6667,,,,,8
+California State University-Bakersfield,,0.2186,,,,,,,0.8071,,,,,8
+California State University-Stanislaus,,0.1981,,,,,,,0.8929,,,,,8
+California State University-San Bernardino,,0.1966,,,,,,,0.6856,505.0,495.0,,985.0,8
+California State Polytechnic University-Pomona,,0.1855,,,,,,,0.5459,560.0,580.0,,1143.0,8
+California State University-Chico,,0.1362,,,,,,,0.7233,550.0,540.0,,1089.0,8
+California State University-Dominguez Hills,,0.331,,,,,,,0.77,,,,,8
+California State University-Fresno,,0.147,,,,,,,0.5794,520.0,515.0,,1030.0,8
+California State University-Fullerton,,0.1955,,,,,,,0.5269,555.0,560.0,,1113.0,8
+California State University-East Bay,,0.3289,,,,,,,0.7618,,,,,8
+California State University-Long Beach,,0.1767,,,,,,,0.3927,570.0,575.0,,1146.0,8
+California State University-Los Angeles,,0.2304,,,,,,,0.4781,495.0,490.0,,979.0,8
+California State University-Northridge,,0.2097,,,,,,,0.5934,515.0,505.0,,1019.0,8
+California State University-Sacramento,,0.2211,,,,,,,0.8226,520.0,520.0,,1035.0,8
+University of California-Berkeley,,0.056,,,,,,,0.1625,695.0,735.0,,1449.0,8
+University of California-Davis,,0.0541,,,,,,,0.3887,630.0,660.0,,1298.0,8
+University of California-Irvine,,0.0446,,,,,,,0.2654,620.0,675.0,,1306.0,8
+California State University-Los Angeles,,0.2304,,,,,,,0.4781,495.0,490.0,,979.0,8
+University of California-Riverside,,0.0605,,,,,,,0.5652,610.0,620.0,,1239.0,8
+University of California-San Diego,,0.0537,,,,,,,0.3148,665.0,705.0,,1375.0,8
+University of California-San Francisco,,,,,,,,,,,,,,8
+University of California-Santa Barbara,,0.03,,,,,,,0.2956,665.0,690.0,,1370.0,8
+University of California-Santa Cruz,,0.0518,,,,,,,0.5131,635.0,655.0,,1306.0,8
+Sofia University,,0.7778,,,,,,,,,,,,8
+California Beauty School,,0.1714,,,,,,,,,,,,8
+Hope International University,,0.2038,,,,,,,0.3679,490.0,500.0,,1001.0,8
+Lock Haven University,,0.1048,,,,,,,0.9483,515.0,510.0,,1026.0,2
+California Hair Design Academy,,0.5625,,,,,,,,,,,,8
+California Institute of the Arts,,0.097,,,,,,,0.2528,,,,,8
+California State University Maritime Academy,,0.0878,,,,,,,0.7621,,,,,8
+California Western School of Law,,,,,,,,,,,,,,8
+Canada College,,0.4261,,,,,,,,,,,,8
+College of the Canyons,,0.3432,,,,,,,,,,,,8
+Career Academy of Beauty,,0.5409,,,,,,,,,,,,8
+Casa Loma College-Van Nuys,,0.7284,,,,,,,,,,,,8
+CET-San Diego,,0.6529,,,,,,,,,,,,8
+CET-San Jose,,0.4585,,,,,,,,,,,,8
+CET-El Centro,,0.6037,,,,,,,,,,,,8
+CET-Colton,,0.6386,,,,,,,,,,,,8
+CET-Watsonville,,0.319,,,,,,,,,,,,8
+CET-Salinas,,0.2014,,,,,,,,,,,,8
+Cerritos College,,0.401,,,,,,,,,,,,8
+Cerro Coso Community College,,0.4885,,,,,,,,,,,,8
+Chabot College,,0.3966,,,,,,,,,,,,8
+Chaffey College,,0.3385,,,,,,,,,,,,8
+Chapman University,,0.024,,,,,,,0.5565,640.0,645.0,,1296.0,8
+Charles R Drew University of Medicine and Science,,0.6111,,,,,,,0.3164,449.0,440.0,,889.0,8
+Concordia University-Irvine,,0.1283,,,,,,,0.7081,545.0,555.0,,1100.0,8
+San Diego Christian College,,0.332,,,,,,,0.5526,535.0,515.0,,1050.0,8
+Stockton Christian Life College,,,,,,,,,,,,,,8
+Church Divinity School of the Pacific,,,,,,,,,,,,,,8
+Citrus College,,0.2726,,,,,,,,,,,,8
+Citrus Heights Beauty College,,0.1951,,,,,,,,,,,,8
+City College of San Francisco,,0.5862,,,,,,,,,,,,8
+Claremont Graduate University,,,,,,,,,,,,,,8
+Claremont McKenna College,,0.003,,,,,,,0.103,700.0,735.0,,1449.0,8
+Milan Institute-Visalia,,0.3747,,,,,,,,,,,,8
+Clovis Adult Education,,0.7466,,,,,,,,,,,,8
+Coastline Community College,,0.6562,,,,,,,,,,,,8
+Cogswell University of Silicon Valley,,0.2325,,,,,,,0.4934,,,,,8
+Coba Academy,,0.2222,,,,,,,,,,,,8
+Western University of Health Sciences,,,,,,,,,,,,,,8
+Fortis College-Columbia,,0.5453,,,,,,,,,,,,5
+Columbia College Hollywood,,0.1759,,,,,,,,,,,,8
+Compton College,,0.3563,,,,,,,,,,,,8
+Contra Costa College,,0.3736,,,,,,,,,,,,8
+Cosumnes River College,,0.3558,,,,,,,,,,,,8
+Crafton Hills College,,0.3363,,,,,,,,,,,,8
+Cuesta College,,0.2649,,,,,,,,,,,,8
+Cuyamaca College,,0.4157,,,,,,,,,,,,8
+Cypress College,,0.3102,,,,,,,,,,,,8
+De Anza College,,0.3034,,,,,,,,,,,,8
+International School of Beauty Inc,,0.3427,,,,,,,,,,,,8
+Dell'Arte International School of Physical Theatre,,0.5,,,,,,,,,,,,8
+College of the Desert,,0.3163,,,,,,,,,,,,8
+Design Institute of San Diego,,0.5289,,,,,,,0.8667,,,,,8
+Diablo Valley College,,0.3204,,,,,,,,,,,,8
+Dominican University of California,,0.1315,,,,,,,0.9134,565.0,560.0,,1127.0,8

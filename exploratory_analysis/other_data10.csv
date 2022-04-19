@@ -1,0 +1,411 @@
+School,enrolled,over_25,over_23,independent,dependent,unemployment,median_family_income,poverty_rate,admissions_rate,sat_mid_reading,sat_mid_math,sat_mid_writing,sat_mid_overall,region
+Yeshiva Yesoda Hatorah Vetz Chaim,,,,,,,,,,,,,,2
+Glendale Career College-Brightwood Teachout,,0.9198,,,,,,,,,,,,8
+West Virginia Junior College-United Career Institute,,0.3718,,,,,,,,,,,,2
+Aviation Institute of Maintenance-Charlotte,,0.5,,,,,,,,,,,,5
+Ponce Health Sciences University-East,,0.0976,,,,,,,0.4308,,,,,9
+Fortis College-Landover,,0.3632,,,,,,,,,,,,2
+Stautzenberger College-Rockford Career College,,0.4746,,,,,,,,,,,,3
+WellSpring School of Allied Health-Wichita,,0.5789,,,,,,,,,,,,4
+Access Careers-Islandia,,0.4921,,,,,,,,,,,,2
+Troy University-Phenix City Campus,,,,,,,,,,,,,,5
+Troy University-Montgomery Campus,,,,,,,,,,,,,,5
+Troy University-Dothan Campus,,,,,,,,,,,,,,5
+Troy University-Online,,,,,,,,,,,,,,5
+Troy University-Support Sites,,,,,,,,,,,,,,5
+Arkansas College of Barbering and Hair Design,,0.2439,,,,,,,,,,,,5
+Harding School of Theology,,,,,,,,,,,,,,5
+Career Academy of Hair Design-Siloam Springs,,,,,,,,,,,,,,5
+Career Academy of Hair Design-Rogers,,,,,,,,,,,,,,5
+Career Academy of Hair Design-Fayetteville,,,,,,,,,,,,,,5
+Career Academy of Hair Design - Fort Smith,,,,,,,,,,,,,,5
+University of Arkansas Community College at Hope - Texarkana,,,,,,,,,,,,,,5
+Alliant International University-Fresno,,,,,,,,,,,,,,8
+Alliant International University-Los Angeles,,,,,,,,,,,,,,8
+Alliant International University-San Francisco,,,,,,,,,,,,,,8
+Alliant International University-Irvine,,,,,,,,,,,,,,8
+Alliant International University-Sacramento,,,,,,,,,,,,,,8
+Flashpoint Chicago A Campus of Columbia College Hollywood,,,,,,,,,,,,,,3
+San Jose Campus,,,,,,,,,,,,,,8
+Golden Gate University-Seattle,,,,,,,,,,,,,,8
+Golden Gate University-Silicon Valley,,,,,,,,,,,,,,8
+Humphreys College-Modesto,,,,,,,,,,,,,,8
+IDEA at ATEP,,,,,,,,,,,,,,8
+Life Pacific University-Virginia,,,,,,,,,,,,,,5
+MiraCosta College - San Elijo Campus,,,,,,,,,,,,,,8
+Mount Saint Mary's University - Doheny Campus,,,,,,,,,,,,,,8
+San Diego State University-Imperial Valley Campus,,,,,,,,,,,,,,8
+San Joaquin General Hospital School of Radiation Technology,,,,,,,,,,,,,,8
+San Joaquin Valley College - Hanford,,,,,,,,,,,,,,8
+San Joaquin Valley College - Online,,,,,,,,,,,,,,8
+San Joaquin Valley College - Bakersfield,,,,,,,,,,,,,,8
+San Joaquin Valley College - Fresno,,,,,,,,,,,,,,8
+San Joaquin Valley College - Fresno Trades Education Center,,,,,,,,,,,,,,8
+San Joaquin Valley College - Ontario,,,,,,,,,,,,,,8
+San Joaquin Valley College - Modesto,,,,,,,,,,,,,,8
+San Joaquin Valley College - Rancho Cordova,,,,,,,,,,,,,,8
+San Joaquin Valley College - Hesperia,,,,,,,,,,,,,,8
+San Joaquin Valley College - Temecula,,,,,,,,,,,,,,8
+San Joaquin Valley College - Lancaster,,,,,,,,,,,,,,8
+San Joaquin Valley College - Madera,,,,,,,,,,,,,,8
+San Joaquin Valley College - Delano,,,,,,,,,,,,,,8
+San Joaquin Valley College - Atascadero,,,,,,,,,,,,,,8
+Jesuit School of Theology of Santa Clara University,,,,,,,,,,,,,,8
+Thomas Aquinas College - New England,,,,,,,,,,,,,,1
+Wright Institute (The) -,,,,,,,,,,,,,,8
+Colorado Technical University-Denver,,,,,,,,,,,,,,7
+Denver Seminary - Washington DC,,,,,,,,,,,,,,2
+Otero Junior College - La Junta High School,,,,,,,,,,,,,,7
+Three Rivers Community College - Corrigan-Radgowski Correctional Cente,,,,,,,,,,,,,,1
+Three Rivers Community College - York Correctional Institution,,,,,,,,,,,,,,1
+Porter and Chester Institute of Rocky Hill,,,,,,,,,,,,,,1
+Porter and Chester Institute of Enfield,,,,,,,,,,,,,,1
+Porter and Chester Institute of Waterbury,,,,,,,,,,,,,,1
+Porter and Chester Institute of Worcester,,,,,,,,,,,,,,1
+Porter and Chester Institute - New London,,,,,,,,,,,,,,1
+Delaware Technical Community College-Owens,,,,,,,,,,,,,,2
+Delaware Technical Community College-Stanton/Wilmington,,,,,,,,,,,,,,2
+Barry University Law School,,,,,,,,,,,,,,5
+Keiser University-Melbourne,,,,,,,,,,,,,,5
+Keiser University-Tallahassee,,,,,,,,,,,,,,5
+Keiser University-Daytona,,,,,,,,,,,,,,5
+Keiser University-Lakeland,,,,,,,,,,,,,,5
+Keiser University- Miami,,,,,,,,,,,,,,5
+Keiser University-Orlando,,,,,,,,,,,,,,5
+Keiser University-Sarasota,,,,,,,,,,,,,,5
+Keiser University-Jacksonville,,,,,,,,,,,,,,5
+Keiser University-Tampa,,,,,,,,,,,,,,5
+Keiser University-Pembroke Pines,,,,,,,,,,,,,,5
+Keiser University-Port St Lucie,,,,,,,,,,,,,,5
+Keiser University-West Palm Beach,,,,,,,,,,,,,,5
+Keiser University-Ft Myers,,,,,,,,,,,,,,5
+Keiser University -  Clearwater,,,,,,,,,,,,,,5
+Keiser University - NPR,,,,,,,,,,,,,,5
+Keiser University - Residential,,,,,,,,,,,,,,5
+Maynard A. Traviss Technical College - Central Florida Aerospace Academy,,,,,,,,,,,,,,5
+Miami Lakes Educational Center and Technical College,,0.6759,,,,,,,,,,,,5
+Rasmussen College-New Port Richey,,,,,,,,,,,,,,5
+Rasmussen College-Fort Myers,,,,,,,,,,,,,,5
+Rasmussen College-Tampa/Brandon,,,,,,,,,,,,,,5
+East Georgia State College - Statesboro,,,,,,,,,,,,,,5
+East Georgia State College - Augusta,,,,,,,,,,,,,,5
+Moody Bible Institute,,0.3011,,,,,,,0.9441,575.0,520.0,,1080.0,3
+Triton College - Intl Union of Operating Engr Local 399 Trning Fac.,,,,,,,,,,,,,,3
+PJ's College of Cosmetology- Brownsburg,,,,,,,,,,,,,,3
+PJ's College of Cosmetology- Jeffersonville,,,,,,,,,,,,,,3
+Ivy Tech Community College-Northcentral,,,,,,,,,,,,,,3
+Ivy Tech Community College-Columbus,,,,,,,,,,,,,,3
+Ivy Tech Community College-East Central,,,,,,,,,,,,,,3
+Ivy Tech Community College-Kokomo,,,,,,,,,,,,,,3
+Ivy Tech Community College-Lafayette,,,,,,,,,,,,,,3
+Ivy Tech Community College-Northeast,,,,,,,,,,,,,,3
+Ivy Tech Community College-South Central,,,,,,,,,,,,,,3
+Ivy Tech Community College-Southwest,,,,,,,,,,,,,,3
+Ivy Tech Community College-Wabash Valley,,,,,,,,,,,,,,3
+Ivy Tech Community College-Richmond,,,,,,,,,,,,,,3
+Ivy Tech Community College-Northwest,,,,,,,,,,,,,,3
+Ivy Tech Community College-Southeast,,,,,,,,,,,,,,3
+Ivy Tech Community College-Bloomington,,,,,,,,,,,,,,3
+Ivy Tech Community College-Central Indiana,,,,,,,,,,,,,,3
+Indiana Wesleyan University - Marion Design Co.,,,,,,,,,,,,,,3
+University of Notre Dame,,0.001,,,,,,,0.1583,720.0,755.0,,1490.0,3
+Graceland University - Independence,,,,,,,,,,,,,,4
+Baker University School of Nursing,,,,,,,,,,,,,,4
+Coffeyville Technical Campus,,,,,,,,,,,,,,4
+Columbus Technical Campus,,,,,,,,,,,,,,4
+Old Town Barber College-Wichita,,0.6024,,,,,,,,,,,,4
+PJ's College of Cosmetology- Greenfield,,,,,,,,,,,,,,3
+PJ's College of Cosmetology- Muncie,,,,,,,,,,,,,,3
+PJ's College of Cosmetology- Indianapolis,,,,,,,,,,,,,,3
+PJ's College of Cosmetology- Plainfield,,,,,,,,,,,,,,3
+PJ's College of Cosmetology- Louisville,,,,,,,,,,,,,,5
+Southeastern Louisiana University - EBR Parish School System Prof Dev,,,,,,,,,,,,,,5
+Southeastern Louisiana University - St Amant High School,,,,,,,,,,,,,,5
+Southeastern Louisiana University - Destrahan High School,,,,,,,,,,,,,,5
+Southeastern Louisiana University - Albert Cammon Middle School,,,,,,,,,,,,,,5
+Empire Beauty School-Bangor,,,,,,,,,,,,,,1
+Cecil College - Elkton Station,,,,,,,,,,,,,,2
+Hillsdale Beauty College,,0.5909,,,,,,,,,,,,3
+Baker College of Auburn Hills,,,,,,,,,,,,,,3
+Baker College of Cadillac,,,,,,,,,,,,,,3
+Baker College of Jackson,,,,,,,,,,,,,,3
+Baker College of Muskegon,,,,,,,,,,,,,,3
+Davenport University-Warren Location,,,,,,,,,,,,,,3
+Davenport University-Kalamazoo Location,,,,,,,,,,,,,,3
+Davenport University-Lansing Location,,,,,,,,,,,,,,3
+Davenport University-Midland Location,,,,,,,,,,,,,,3
+Davenport University-Holland Location,,,,,,,,,,,,,,3
+Davenport University-Traverse City Location,,,,,,,,,,,,,,3
+Davenport University - Wayne CCCD,,,,,,,,,,,,,,3
+Davenport University - Detroit,,,,,,,,,,,,,,3
+Anoka-Ramsey Community College,,0.1886,,,,,,,,,,,,4
+Central Lakes College-Staples Campus,,,,,,,,,,,,,,4
+M State - Detroit Lakes Campus,,,,,,,,,,,,,,4
+M State - Moorhead Campus,,,,,,,,,,,,,,4
+M State - Wadena Campus,,,,,,,,,,,,,,4
+South Central College-Faribault,,,,,,,,,,,,,,4
+Mayo Clinic College of Medicine and Science - Florida,,,,,,,,,,,,,,5
+Mayo Clinic College of Medicine and Science - Arizona,,,,,,,,,,,,,,6
+Mesabi Range College,,0.2929,,,,,,,,,,,,4
+Northland Community and Technical College - East Grand Forks,,,,,,,,,,,,,,4
+Rasmussen College-Bloomington,,,,,,,,,,,,,,4
+Rasmussen College-Eagan,,,,,,,,,,,,,,4
+Rasmussen College-Mankato,,,,,,,,,,,,,,4
+Rasmussen College-Brooklyn Park,,,,,,,,,,,,,,4
+Rasmussen College-Lake Elmo/Woodbury,,,,,,,,,,,,,,4
+Rasmussen College-Blaine,,,,,,,,,,,,,,4
+Minnesota State CollegeSoutheast-Red Wing Campus,,,,,,,,,,,,,,4
+Copiah-Lincoln Community College Simpson County Center,,,,,,,,,,,,,,5
+Copiah-Lincoln Community College-Natchez Campus,,,,,,,,,,,,,,5
+University of Mississippi Medical Center,,,,,,,,,,,,,,5
+Pearl River Community College-Forrest County Center,,,,,,,,,,,,,,5
+Columbia College - Redstone Arsenal,,,,,,,,,,,,,,5
+Columbia College - Denver,,,,,,,,,,,,,,7
+Columbia College - NAS Jacksonville,,,,,,,,,,,,,,5
+Columbia College - Orlando,,,,,,,,,,,,,,5
+Columbia College - Crystal Lake Campus,,,,,,,,,,,,,,3
+Columbia College - Kansas City,,,,,,,,,,,,,,4
+Columbia College - Fort Leonard Wood,,,,,,,,,,,,,,4
+Columbia College - Jefferson City,,,,,,,,,,,,,,4
+Columbia College - Lake Ozark,,,,,,,,,,,,,,4
+Columbia College - Saint Louis,,,,,,,,,,,,,,4
+Columbia College - Fort Worth,,,,,,,,,,,,,,6
+Columbia College - Salt Lake,,,,,,,,,,,,,,7
+Columbia College - Lake County,,,,,,,,,,,,,,3
+Columbia College - Naval Station Everett/Marysville,,,,,,,,,,,,,,8
+Columbia College - Freeport,,,,,,,,,,,,,,3
+Columbia College - Springfield,,,,,,,,,,,,,,4
+Columbia College - Rolla,,,,,,,,,,,,,,4
+Columbia College - Los Alamitos,,,,,,,,,,,,,,8
+Columbia College - Lemoore,,,,,,,,,,,,,,8
+Columbia College - San Luis Obispo,,,,,,,,,,,,,,8
+Columbia College - Fort Stewart,,,,,,,,,,,,,,5
+Columbia College - Hunter Army Airfield,,,,,,,,,,,,,,5
+Columbia College - Elgin,,,,,,,,,,,,,,3
+Columbia College - Whidbey Island,,,,,,,,,,,,,,8
+Columbia College - NAS Jacksonville,,,,,,,,,,,,,,5
+Columbia College - Fort Sill,,,,,,,,,,,,,,6
+Columbia College - San Diego,,,,,,,,,,,,,,8
+Columbia College - Mesquite,,,,,,,,,,,,,,6
+Columbia College - Waynesville,,,,,,,,,,,,,,4
+Columbia College - Naval Base San Diego,,,,,,,,,,,,,,8
+Columbia College - Imperial,,,,,,,,,,,,,,8
+Columbia College - NSB Kings Bay,,,,,,,,,,,,,,5
+Evangel University - Assemblies of God Theological Seminary,,,,,,,,,,,,,,4
+Lindenwood University-Belleville,,,,,,,,,,,,,,3
+City College Montana State University Billings,,,,,,,,,,,,,,7
+University of Montana (The) - Bitterroot College University of Montana,,,,,,,,,,,,,,7
+New Hampshire Institute for Therapeutic Arts,,0.8333,,,,,,,,,,,,1
+American Institute-West Hartford,,0.6471,,,,,,,,,,,,1
+Monmouth University -  Monmouth Park Corporate Center,,,,,,,,,,,,,,2
+Bard College - Holyoke Microcollege,,,,,,,,,,,,,,1
+Bard College - Coxsackie Correctional Facility,,,,,,,,,,,,,,2
+Bard College - Eastern NY Correctional Facility,,,,,,,,,,,,,,2
+Bard College - Fishkill Correctional Facility,,,,,,,,,,,,,,2
+Bard College - Green Haven Correctional Facility,,,,,,,,,,,,,,2
+Bard College - Taconic Correctional Facility,,,,,,,,,,,,,,2
+Bard College - Woodbourne Correctional Facility,,,,,,,,,,,,,,2
+Bard College - BHSEC Newark,,,,,,,,,,,,,,2
+Bard College - Brooklyn Public Library,,,,,,,,,,,,,,2
+Culinary Institute of America,,0.1879,,,,,,,0.9772,,,,,2
+Culinary Institute of America,,0.1879,,,,,,,0.9772,,,,,2
+CUNY Brooklyn College - Feirstein Graduate School of Cinema,,,,,,,,,,,,,,2
+Jamestown Business College,,0.2951,,,,,,,0.9,,,,,2
+Pratt Manhattan-A Division of Pratt Institute,,,,,,,,,,,,,,2
+Rabbinical Seminary of America-Ma'yan HaTorah,,,,,,,,,,,,,,2
+Saint John's University - Staten Island Campus,,,,,,,,,,,,,,2
+Gaston College,,0.2953,,,,,,,,,,,,5
+Winston - Salem Barber School - Satellite,,,,,,,,,,,,,,5
+Hebrew Union College-Jewish Institute of Religion-Cincinnati,,,,,,,,,,,,,,3
+Hebrew Union College-Jewish Institute of Religion-Los Angeles,,,,,,,,,,,,,,8
+Kettering College - Ollie Davis Medical Arts and Education Center,,,,,,,,,,,,,,3
+Mount Carmel College of Nursing - Fairfield,,,,,,,,,,,,,,3
+Marian Health Careers Center-Los Angeles Campus,,0.719,,,,,,,,,,,,8
+Florida Center,,,,,,,,,,,,,,5
+Sacramento Center,,,,,,,,,,,,,,8
+Western Seminary,,,,,,,,,,,,,,8
+Western Seminary,,,,,,,,,,,,,,8
+The Beauty Institute,,0.2821,,,,,,,,,,,,2
+Bucks County Community College-Upper Bucks Campus,,,,,,,,,,,,,,2
+Bucks County Community College-Lower Bucks Campus,,,,,,,,,,,,,,2
+Harrisburg Area Community College-Lancaster,,,,,,,,,,,,,,2
+Harrisburg Area Community College-Gettysburg,,,,,,,,,,,,,,2
+Harrisburg Area Community College-Lebanon,,,,,,,,,,,,,,2
+Harrisburg Area Community College-York,,,,,,,,,,,,,,2
+New Castle School of Trades,,0.5103,,,,,,,1.0,,,,,2
+New Castle School of Trades - East Liverpool Campus,,,,,,,,,,,,,,3
+Northampton County Area Community College-Monroe,,,,,,,,,,,,,,2
+South Hills School of Business and Technology-Altoona,,,,,,,,,,,,,,2
+Galveston College - Charlie Thomas Family Applied Technology Center,,,,,,,,,,,,,,6
+San Jacinto College-North Campus,,,,,,,,,,,,,,6
+San Jacinto College-South Campus,,,,,,,,,,,,,,6
+Snow College-Richfield Campus,,,,,,,,,,,,,,7
+Northern Vermont University - Lyndon,,,,,,,,,,,,,,1
+Bluefield College - Edward Via College of Osteopathic Medicine,,,,,,,,,,,,,,5
+Strayer University-Alexandria Campus,,,,,,,,,,,,,,5
+Strayer University-Woodbridge Campus,,,,,,,,,,,,,,5
+Strayer University-Loudoun Campus,,,,,,,,,,,,,,5
+Strayer University-Fredericksburg Campus,,,,,,,,,,,,,,5
+Strayer University-Chesterfield Campus,,,,,,,,,,,,,,5
+Strayer University-Newport News Campus,,,,,,,,,,,,,,5
+Strayer University-Virginia Beach Campus,,,,,,,,,,,,,,5
+Union Presbyterian Seminary-Charlotte,,,,,,,,,,,,,,5
+Washington State University-Vancouver,,,,,,,,,,,,,,8
+Washington State University-Spokane,,,,,,,,,,,,,,8
+Washington State University-Tri Cities,,,,,,,,,,,,,,8
+NUC University - Arecibo,,,,,,,,,,,,,,9
+NUC University - Rio Grande,,,,,,,,,,,,,,9
+NUC University - Ponce,,,,,,,,,,,,,,9
+NUC University - Caguas,,,,,,,,,,,,,,9
+NUC University - Mayaguez,,,,,,,,,,,,,,9
+University of the Virgin Islands-Albert A. Sheen,,,,,,,,,,,,,,9
+Purdue University - Purdue Polytechnic Anderson,,,,,,,,,,,,,,3
+Purdue University - Purdue Polytechnic Indianapolis,,,,,,,,,,,,,,3
+Purdue University - Purdue Polytechnic South Bend,,,,,,,,,,,,,,3
+Purdue University - Purdue Polytechnic New Albany,,,,,,,,,,,,,,3
+Purdue University - Purdue Polytechnic Columbus,,,,,,,,,,,,,,3
+Purdue University - Purdue Polytechnic Kokomo,,,,,,,,,,,,,,3
+Purdue University - Purdue Polytechnic Richmond,,,,,,,,,,,,,,3
+Purdue University - Purdue Polytechnic Lafayette,,,,,,,,,,,,,,3
+Purdue University - Purdue Polytechnic Vincennes,,,,,,,,,,,,,,3
+ECPI University-Newport News,,,,,,,,,,,,,,5
+ECPI University-Greensboro,,,,,,,,,,,,,,5
+ECPI University-Charlotte,,,,,,,,,,,,,,5
+ECPI University-Greenville,,,,,,,,,,,,,,5
+ECPI University-Manassas,,,,,,,,,,,,,,5
+ECPI University-Charleston,,,,,,,,,,,,,,5
+ECPI University-Raleigh,,,,,,,,,,,,,,5
+ECPI University-Columbia,,,,,,,,,,,,,,5
+ECPI University-Culinary Institute of Virginia,,,,,,,,,,,,,,5
+ECPI University-Virginia Beach Health Sciences,,,,,,,,,,,,,,5
+ECPI University-Richmond South,,,,,,,,,,,,,,5
+ECPI University-Innsbrook,,,,,,,,,,,,,,5
+ECPI University-Richmond West,,,,,,,,,,,,,,5
+ECPI University - Roanoke,,,,,,,,,,,,,,5
+ECPI University - College of Nursing - Orlando,,,,,,,,,,,,,,5
+ECPI University - Culinary Institute of Virginia - Newport News,,,,,,,,,,,,,,5
+ECPI University - San Antonio,,,,,,,,,,,,,,6
+Northwest Technology Center-Fairview,,,,,,,,,,,,,,6
+Rob Roy Academy - Woonsocket,,,,,,,,,,,,,,1
+Nuvani Institute-Uvalde,,,,,,,,,,,,,,6
+Nuvani Institute-Del Rio,,,,,,,,,,,,,,6
+Nuvani Institute-South Campus,,,,,,,,,,,,,,6
+Everglades University-Orlando,,,,,,,,,,,,,,5
+Everglades University-Sarasota,,,,,,,,,,,,,,5
+Everglades University - Tampa,,,,,,,,,,,,,,5
+Everglades University - Miami,,,,,,,,,,,,,,5
+Florida National University-South Campus,,,,,,,,,,,,,,5
+Florida National University Training Center,,,,,,,,,,,,,,5
+Connecticut Aero Tech  School,,,,,,,,,,,,,,1
+Indian Capital Technology Center-Sallisaw,,,,,,,,,,,,,,6
+Indian Capital Technology Center-Stilwell,,,,,,,,,,,,,,6
+Indian Capital Technology Center-Tahlequah,,,,,,,,,,,,,,6
+Central California School of Continuing Education,,0.8085,,,,,,,,,,,,8
+Compu-Med Vocational Careers Corp,,0.7445,,,,,,,,,,,,5
+Osceola Technical College - St. Cloud Campus,,,,,,,,,,,,,,5
+Osceola Technical College - Poinciana Campus,,,,,,,,,,,,,,5
+Southeastern College-Miami Lakes,,,,,,,,,,,,,,5
+Strayer University-Rockville Campus,,,,,,,,,,,,,,2
+Strayer University-Anne Arundel Campus,,,,,,,,,,,,,,2
+Strayer University-White Marsh Campus,,,,,,,,,,,,,,2
+Strayer University-Owings Mills Campus,,,,,,,,,,,,,,2
+Santa Barbara Business College - Ventura,,,,,,,,,,,,,,8
+Blue Cliff College-Metairie,,0.5978,,,,,,,,,,,,5
+Strayer University-Nashville Campus,,,,,,,,,,,,,,5
+Strayer University-Shelby Oaks Campus,,,,,,,,,,,,,,5
+Strayer University-Knoxville Campus,,,,,,,,,,,,,,5
+Strayer University-Delaware County Campus,,,,,,,,,,,,,,2
+Strayer University-Center City Campus,,,,,,,,,,,,,,2
+Strayer University-Allentown Campus,,,,,,,,,,,,,,2
+Advanced College-Stockton,,,,,,,,,,,,,,8
+Advanced College - Salida,,,,,,,,,,,,,,8
+Leston College,,0.4468,,,,,,,,,,,,9
+Rasmussen College-Aurora,,,,,,,,,,,,,,3
+Rasmussen College-Romeoville/Joliet,,,,,,,,,,,,,,3
+Rasmussen College-Mokena/Tinley Park,,,,,,,,,,,,,,3
+Strayer University-Orlando East Campus,,,,,,,,,,,,,,5
+Strayer University-Sand Lake Campus,,,,,,,,,,,,,,5
+Strayer University-Baymeadows Campus,,,,,,,,,,,,,,5
+Strayer University-Miramar Campus,,,,,,,,,,,,,,5
+Make-up Designory,,0.2137,,,,,,,,,,,,8
+Academy Di Capelli-School of Cosmetology,,0.5887,,,,,,,,,,,,1
+Dayton School of Medical Massage-Lima,,,,,,,,,,,,,,3
+Cincinnati School of Medical Massage,,,,,,,,,,,,,,3
+Cleveland Institute of Medical Massage,,,,,,,,,,,,,,3
+Columbus School of Medical Massage,,,,,,,,,,,,,,3
+CCI Training Center-Arlington,,0.8188,,,,,,,,,,,,6
+Strayer University-Huntsville Campus,,,,,,,,,,,,,,5
+Strayer University - Montgomery Campus,,,,,,,,,,,,,,5
+Rasmussen College-Wausau,,,,,,,,,,,,,,3
+Academy of Hair Design - Austin,,,,,,,,,,,,,,6
+Strayer University-North Charlotte,,,,,,,,,,,,,,5
+Strayer University-South Charlotte,,,,,,,,,,,,,,5
+Strayer University-North Raleigh Campus,,,,,,,,,,,,,,5
+Strayer University-Greensboro Campus,,,,,,,,,,,,,,5
+Strayer University-South Raleigh Campus,,,,,,,,,,,,,,5
+Strayer University-Piscataway,,,,,,,,,,,,,,2
+Celebrity School of Beauty - Hialeah,,,,,,,,,,,,,,5
+Utah County Campus,,,,,,,,,,,,,,7
+L'esprit Academy - Royal Oak,,,,,,,,,,,,,,3
+Strayer University-Cobb Campus,,,,,,,,,,,,,,5
+Strayer University-Morrow Campus,,,,,,,,,,,,,,5
+Strayer University-Lithonia Campus,,,,,,,,,,,,,,5
+Strayer University-Savannah Campus,,,,,,,,,,,,,,5
+Strayer University-Augusta Campus,,,,,,,,,,,,,,5
+Strayer University - Macon Campus,,,,,,,,,,,,,,5
+Strayer University-Columbia Campus,,,,,,,,,,,,,,5
+Strayer University-Charleston Campus,,,,,,,,,,,,,,5
+Strayer University-Northwest Houston,,,,,,,,,,,,,,6
+Strayer University-Cedar Hill,,,,,,,,,,,,,,6
+Strayer University-North Dallas,,,,,,,,,,,,,,6
+Strayer University-San Antonio,,,,,,,,,,,,,,6
+Strayer University-Stafford,,,,,,,,,,,,,,6
+Strayer University - Northwest Houston Campus,,,,,,,,,,,,,,6
+Unitek College,,0.8693,,,,,,,,,,,,8
+Keweenaw Bay Ojibwa Community College - Wabanung Campus,,,,,,,,,,,,,,3
+Cinta Aveda Institute - San Jose,,,,,,,,,,,,,,8
+Southern California Health Institute (SOCHI) - North Hollywood,,,,,,,,,,,,,,8
+Relay Graduate School of Education - Newark,,,,,,,,,,,,,,2
+Relay Graduate School of Education - New Orleans,,,,,,,,,,,,,,5
+Relay Graduate School of Education - Delaware,,,,,,,,,,,,,,2
+Relay Graduate School of Education - Memphis,,,,,,,,,,,,,,5
+Relay Graduate School of Education - Houston,,,,,,,,,,,,,,6
+Relay Graduate School of Education - Chicago,,,,,,,,,,,,,,3
+Relay Graduate School of Education - Baton Rouge,,,,,,,,,,,,,,5
+Relay Graduate School of Education - Denver,,,,,,,,,,,,,,7
+Relay Graduate School of Education - Nashville,,,,,,,,,,,,,,5
+Relay Graduate School of Education - San Antonio,,,,,,,,,,,,,,6
+Relay Graduate School of Education - Dallas-Fort Worth,,,,,,,,,,,,,,6
+Relay Graduate School of Education - Washington D.C,,,,,,,,,,,,,,2
+Relay Graduate School of Education - Atlanta,,,,,,,,,,,,,,5
+Relay Graduate School of Education - California,,,,,,,,,,,,,,8
+Relay Graduate School of Education - Indiana,,,,,,,,,,,,,,3
+Salon Institute - Columbus Campus,,,,,,,,,,,,,,3
+Rasmussen College - Overland Park,,,,,,,,,,,,,,4
+Rocky Vista University - Southern Utah,,,,,,,,,,,,,,7
+Sharp Edgez Barber Institute - Buffalo,,,,,,,,,,,,,,2
+Arizona State University at Tucson,,,,,,,,,,,,,,6
+Arizona State University - ASU Colleges at Lake Havasu City,,,,,,,,,,,,,,6
+Arizona State University at The Gila Valley,,,,,,,,,,,,,,6
+Arizona State University at Yuma,,,,,,,,,,,,,,6
+Arizona State University - Pinal,,,,,,,,,,,,,,6
+Arizona State University - Cochise,,,,,,,,,,,,,,6
+Arizona State University - Yavapai College Prescott Valley Campus,,,,,,,,,,,,,,6
+Arizona State University - Pima,,,,,,,,,,,,,,6
+East-West Healing Arts Institute - Milwaukee,,,,,,,,,,,,,,3
+Alliance Computing Solutions - NYC,,,,,,,,,,,,,,2
+Bay Area Medical Academy - San Jose Satellite Location,,,,,,,,,,,,,,8
+High Desert Medical College - Bakerfield,,,,,,,,,,,,,,8
+High Desert Medical College - Temecula,,,,,,,,,,,,,,8
+Georgia Military College - Zebulon,,,,,,,,,,,,,,5
+Georgia Military College - Valdosta,,,,,,,,,,,,,,5
+Georgia Military College - Augusta,,,,,,,,,,,,,,5
+Georgia Military College - Fairburn,,,,,,,,,,,,,,5
+Georgia Military College - Robins,,,,,,,,,,,,,,5
+Georgia Military College - Columbus,,,,,,,,,,,,,,5
+Georgia Military College - Sandersville,,,,,,,,,,,,,,5
+Georgia Military College - Madison,,,,,,,,,,,,,,5
+Georgia Military College - Stone Mountain,,,,,,,,,,,,,,5
+Georgia Military College - Fayetteville,,,,,,,,,,,,,,5
+Georgia Military College - Dublin,,,,,,,,,,,,,,5
+Georgia Military College - Eastman,,,,,,,,,,,,,,5
