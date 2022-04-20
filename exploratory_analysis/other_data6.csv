@@ -1,0 +1,973 @@
+School,enrolled,over_25,over_23,independent,dependent,unemployment,median_family_income,poverty_rate,admissions_rate,sat_mid_reading,sat_mid_math,sat_mid_writing,sat_mid_overall,region
+West Chester University of Pennsylvania,,0.0879,,,,,,,0.7532,565.0,555.0,,1123.0,2
+Western Pennsylvania Hospital School of Nursing,,0.4126,,,,,,,0.7222,,,,,2
+Pittsburgh Institute of Aeronautics,,0.2588,,,,,,,,,,,,2
+Westminster College,,0.127,,,,,,,0.9184,580.0,565.0,,1171.0,7
+Westminster Theological Seminary in California,,,,,,,,,,,,,,8
+Westmoreland County Community College,,0.2781,,,,,,,,,,,,2
+Widener University,,0.1055,,,,,,,0.719,560.0,565.0,,1127.0,2
+Wilkes University,,0.0676,,,,,,,0.7862,559.0,560.0,,1123.0,2
+Williamson College of the Trades,,,,,,,,,0.3238,,,,,2
+Warren Wilson College,,0.0595,,,,,,,0.846,618.0,560.0,,1198.0,5
+Yeshivath Beth Moshe,,,,,,,,,0.8571,,,,,2
+York College of Pennsylvania,,0.0634,,,,,,,0.6896,550.0,555.0,,1107.0,2
+YTI Career Institute-York,,0.3379,,,,,,,,,,,,2
+John Brown University,,0.108,,,,,,,0.7577,590.0,570.0,,1237.0,5
+Bryant University,,0.011,,,,,,,0.7099,,,,,1
+New England Institute of Technology,,0.2893,,,,,,,0.632,530.0,530.0,,1059.0,1
+New England Tractor Trailer Training School of Rhode Island,,0.6527,,,,,,,,,,,,1
+Providence College,,0.0393,,,,,,,0.4746,640.0,640.0,,1298.0,1
+Rhode Island College,,0.2215,,,,,,,0.7839,500.0,480.0,,980.0,1
+Community College of Rhode Island,,0.3352,,,,,,,,,,,,1
+University of Rhode Island,,0.071,,,,,,,0.7477,575.0,570.0,,1156.0,1
+Rhode Island School of Design,,0.0164,,,,,,,0.2576,655.0,695.0,,1349.0,1
+Roger Williams University,,0.0789,,,,,,,0.8535,,,,,1
+Salve Regina University,,0.0314,,,,,,,0.7378,,,,,1
+Empire Beauty School-Warwick,,0.4928,,,,,,,,,,,,1
+Northpoint Bible College,,0.3169,,,,,,,,,,,,1
+Aiken Technical College,,0.3439,,,,,,,,,,,,5
+Allen University,,0.0809,,,,,,,0.5327,,,,,5
+The University of Texas MD Anderson Cancer Center,,0.5071,,,,,,,,,,,,6
+Charleston Southern University,,0.163,,,,,,,0.4965,570.0,540.0,,1165.0,5
+Technical College of the Lowcountry,,0.367,,,,,,,,,,,,5
+College of Saint Benedict,,0.0023,,,,,,,0.8046,573.0,575.0,,1213.0,4
+Bob Jones University,,0.0407,,,,,,,,,,,,5
+Southern Wesleyan University,,0.2661,,,,,,,0.3503,514.0,537.0,,1050.0,5
+Charleston Cosmetology Institute,,0.5909,,,,,,,,,,,,5
+College of Charleston,,0.0797,,,,,,,0.7833,595.0,575.0,,1191.0,5
+Charzanne Beauty College,,0.52,,,,,,,,,,,,5
+Northeastern Technical College,,0.3707,,,,,,,,,,,,5
+Citadel Military College of South Carolina,,0.1067,,,,,,,0.7473,575.0,565.0,,1138.0,5
+Claflin University,,0.0896,,,,,,,0.552,480.0,460.0,,942.0,5
+Clemson University,,0.0342,,,,,,,0.5126,655.0,660.0,,1334.0,5
+Clinton Community College,,0.2168,,,,,,,,,,,,2
+Coker University,,0.1801,,,,,,,0.6329,550.0,515.0,,1101.0,5
+Columbia International University,,0.2196,,,,,,,0.4792,530.0,505.0,,1056.0,5
+Fortis College-Columbia,,0.5453,,,,,,,,,,,,5
+Converse College,,0.0916,,,,,,,0.8934,555.0,560.0,,1099.0,5
+Denmark Technical College,,0.1781,,,,,,,,,,,,5
+Erskine College,,0.0064,,,,,,,0.6965,520.0,505.0,,1027.0,5
+Florence-Darlington Technical College,,0.3319,,,,,,,,,,,,5
+Francis Marion University,,0.0853,,,,,,,0.6804,515.0,490.0,,1002.0,5
+Furman University,,0.0257,,,,,,,0.5681,670.0,660.0,,1356.0,5
+Greenville Technical College,,0.3068,,,,,,,,,,,,5
+Horry-Georgetown Technical College,,0.3062,,,,,,,,,,,,5
+Kenneth Shuler School of Cosmetology-North Augusta,,0.3588,,,,,,,,,,,,5
+Kenneth Shuler School of Cosmetology and Nails-Columbia,,0.4507,,,,,,,,,,,,5
+Lander University,,0.0315,,,,,,,0.4316,530.0,505.0,,1040.0,5
+Limestone University,,0.4447,,,,,,,0.5091,535.0,530.0,,1073.0,5
+Medical University of South Carolina,,0.4892,,,,,,,,,,,,5
+Midlands Technical College,,0.3278,,,,,,,,,,,,5
+Robert Morris University Illinois,,0.1658,,,,,,,0.6341,,,,,3
+Newberry College,,0.0519,,,,,,,0.6275,500.0,485.0,,992.0,5
+North Greenville University,,0.0674,,,,,,,0.6282,515.0,540.0,,1122.0,5
+Orangeburg Calhoun Technical College,,0.2824,,,,,,,,,,,,5
+Piedmont Technical College,,0.3676,,,,,,,,,,,,5
+Presbyterian College,,0.0045,,,,,,,0.7548,560.0,555.0,,1124.0,5
+University of South Carolina Aiken,,0.1848,,,,,,,0.5575,540.0,510.0,,1050.0,5
+University of South Carolina Beaufort,,0.1392,,,,,,,0.6276,520.0,495.0,,1023.0,5
+University of South Carolina-Columbia,,0.0431,,,,,,,0.6865,640.0,635.0,,1289.0,5
+University of South Carolina-Lancaster,,0.086,,,,,,,0.821,510.0,495.0,,988.0,5
+University of South Carolina-Salkehatchie,,0.166,,,,,,,0.7323,475.0,445.0,,901.0,5
+University of South Carolina-Sumter,,0.119,,,,,,,0.8203,520.0,495.0,,987.0,5
+University of South Carolina-Union,,0.0208,,,,,,,0.917,440.0,428.0,,877.0,5
+Coastal Carolina University,,0.0567,,,,,,,0.6887,550.0,540.0,,1097.0,5
+South Carolina State University,,0.0817,,,,,,,0.6644,460.0,455.0,,912.0,5
+University of South Carolina-Upstate,,0.1818,,,,,,,0.5813,520.0,495.0,,1023.0,5
+Sherman College of Chiropractic,,,,,,,,,,,,,,5
+Spartanburg Methodist College,,0.0311,,,,,,,0.611,469.0,450.0,,933.0,5
+Spartanburg Community College,,0.2638,,,,,,,,,,,,5
+Central Carolina Technical College,,0.3222,,,,,,,,,,,,5
+Tri-County Technical College,,0.1657,,,,,,,,,,,,5
+Trident Technical College,,0.3497,,,,,,,,,,,,5
+Voorhees College,,0.102,,,,,,,,,,,,5
+Williamsburg Technical College,,0.2103,,,,,,,,,,,,5
+Winthrop University,,0.0688,,,,,,,0.6878,545.0,510.0,,1067.0,5
+Wofford College,,0.0029,,,,,,,0.5983,640.0,630.0,,1290.0,5
+CUNY New York City College of Technology,,0.2724,,,,,,,0.877,,,,,2
+Augustana University,,0.0363,,,,,,,0.6691,605.0,620.0,,1248.0,4
+The Salon Professional Academy,,0.4035,,,,,,,,,,,,4
+Black Hills State University,,0.203,,,,,,,0.8394,540.0,530.0,,1083.0,4
+North Dakota State University-Main Campus,,0.0709,,,,,,,0.9356,580.0,573.0,,1169.0,4
+Dakota Wesleyan University,,0.1553,,,,,,,0.667,520.0,500.0,,1092.0,4
+Headlines Academy Inc,,0.4,,,,,,,,,,,,4
+Lake Area Technical College,,0.1279,,,,,,,,,,,,4
+Avera McKennan Hospital School of Radiologic Technology,,0.125,,,,,,,,,,,,4
+Mitchell Technical College,,0.1842,,,,,,,,,,,,4
+Mount Marty University,,0.1511,,,,,,,0.7161,475.0,455.0,,1072.0,4
+National American University-Rapid City,,0.9039,,,,,,,,,,,,4
+Sioux Falls Seminary,,,,,,,,,,,,,,4
+Montana State University-Northern,,0.226,,,,,,,,,,,,7
+Oglala Lakota College,,0.6063,,,,,,,,,,,,4
+Presentation College,,0.3835,,,,,,,0.9019,531.0,549.0,,1045.0,4
+Avera Sacred Heart Hospital,,0.125,,,,,,,,,,,,4
+South Dakota School of Mines and Technology,,0.0663,,,,,,,0.766,615.0,640.0,,1266.0,4
+South Dakota State University,,0.0811,,,,,,,0.9004,575.0,580.0,,1136.0,4
+Sinte Gleska University,,0.5579,,,,,,,,,,,,4
+University of Sioux Falls,,0.1453,,,,,,,0.9145,555.0,595.0,,1136.0,4
+Sanford Medical Center,,0.0417,,,,,,,,,,,,4
+Sisseton Wahpeton College,,0.479,,,,,,,,,,,,4
+Minnesota State College Southeast,,0.3026,,,,,,,,,,,,4
+Stewart School,,0.2308,,,,,,,,,,,,4
+South Dakota State University,,0.0811,,,,,,,0.9004,575.0,580.0,,1136.0,4
+Western Dakota Technical College,,0.3353,,,,,,,,,,,,4
+American Baptist College,,0.5051,,,,,,,,,,,,5
+Arnolds Beauty School,,0.3182,,,,,,,,,,,,5
+Tennessee College of Applied Technology-Athens,,0.521,,,,,,,,,,,,5
+Austin Peay State University,,0.2387,,,,,,,0.9498,530.0,535.0,,1104.0,5
+Baptist Health Sciences University,,0.3666,,,,,,,0.5956,,,,1120.0,5
+Belmont University,,0.0538,,,,,,,0.838,625.0,600.0,,1253.0,5
+Bethel Seminary-San Diego,,,,,,,,,,,,,,8
+Bryan College-Dayton,,0.1476,,,,,,,0.5101,,,,,5
+Carson-Newman University,,0.062,,,,,,,0.6924,525.0,526.0,,1164.0,5
+Chattanooga State Community College,,0.2995,,,,,,,,,,,,5
+Christian Brothers University,,0.0901,,,,,,,0.5015,,,,1205.0,5
+Pentecostal Theological Seminary,,,,,,,,,,,,,,5
+Austin's Beauty College Inc,,0.5893,,,,,,,,,,,,5
+Cleveland State Community College,,0.2484,,,,,,,,,,,,5
+Columbia State Community College,,0.2041,,,,,,,,,,,,5
+Concorde Career College-Memphis,,0.4771,,,,,,,0.9338,,,,,5
+Tennessee College of Applied Technology-Covington,,0.3289,,,,,,,,,,,,5
+University of the Cumberlands,,0.3307,,,,,,,0.8004,520.0,515.0,,1077.0,5
+Lipscomb University,,0.0976,,,,,,,0.6311,600.0,585.0,,1234.0,5
+Tennessee College of Applied Technology-Dickson,,0.3325,,,,,,,,,,,,5
+Hussian College-Daymar College Nashville,,0.7348,,,,,,,,,,,,5
+Dyersburg State Community College,,0.325,,,,,,,,,,,,5
+East Tennessee State University,,0.2314,,,,,,,0.8593,550.0,525.0,,1156.0,5
+Chattanooga College Medical Dental and Technical Careers,,0.5805,,,,,,,,,,,,5
+Tennessee College of Applied Technology-Elizabethton,,0.6583,,,,,,,,,,,,5
+The Hair Academy LLC,,0.2941,,,,,,,,,,,,5
+Fisk University,,0.0274,,,,,,,0.9341,525.0,515.0,,1070.0,5
+Welch College,,0.1603,,,,,,,,,,,,5
+Freed-Hardeman University,,0.0407,,,,,,,0.8845,575.0,555.0,,1196.0,5
+Tennessee College of Applied Technology-Harriman,,0.2302,,,,,,,,,,,,5
+Tennessee College of Applied Technology-Hartsville,,0.1285,,,,,,,,,,,,5
+Tennessee College of Applied Technology-Hohenwald,,0.1547,,,,,,,,,,,,5
+Tennessee College of Applied Technology-Jacksboro,,0.2755,,,,,,,,,,,,5
+Jackson State Community College,,0.2592,,,,,,,,,,,,5
+John A Gupton College,,0.5976,,,,,,,0.825,,,,1035.0,5
+Johnson University Florida,,0.0989,,,,,,,0.3073,498.0,475.0,,991.0,5
+Paul Mitchell the School-Murfreesboro,,0.3088,,,,,,,,,,,,5
+Texas A & M University-Kingsville,,0.1175,,,,,,,0.7726,515.0,515.0,,1032.0,6
+South Seattle College,,0.541,,,,,,,,,,,,8
+Laney College,,0.4861,,,,,,,,,,,,8
+Le Moyne-Owen College,,0.2802,,,,,,,0.8043,425.0,400.0,,893.0,5
+Washington and Lee University,,0.0091,,,,,,,0.1857,700.0,730.0,,1453.0,5
+Lincoln Memorial University,,0.2349,,,,,,,0.4958,560.0,540.0,,1118.0,5
+Tennessee College of Applied Technology-Livingston,,0.0892,,,,,,,,,,,,5
+Martin Methodist College,,0.0584,,,,,,,0.9866,520.0,530.0,,1036.0,5
+Maryville College,,0.0542,,,,,,,0.5557,576.0,566.0,,1181.0,5
+Tennessee College of Applied Technology-McKenzie,,0.2875,,,,,,,,,,,,5
+Genesis Career College-Cookeville,,0.4149,,,,,,,,,,,,5
+Meharry Medical College,,,,,,,,,,,,,,5
+Tennessee College of Applied Technology-Memphis,,0.2876,,,,,,,,,,,,5
+University of Memphis,,0.2035,,,,,,,0.8475,565.0,555.0,,1134.0,5
+Memphis Theological Seminary,,,,,,,,,,,,,,5
+Middle Tennessee State University,,0.1598,,,,,,,0.9371,575.0,560.0,,1150.0,5
+Middle Tennessee School of Anesthesia Inc,,,,,,,,,,,,,,5
+Tennessee College of Applied Technology-Morristown,,0.33,,,,,,,,,,,,5
+Motlow State Community College,,0.2331,,,,,,,,,,,,5
+Tennessee College of Applied Technology-Murfreesboro,,0.3768,,,,,,,,,,,,5
+Lincoln College of Technology-Nashville,,0.2111,,,,,,,,,,,,5
+Nashville State Community College,,0.3915,,,,,,,,,,,,5
+Tennessee College of Applied Technology-Newbern,,0.2741,,,,,,,,,,,,5
+Tennessee College of Applied Technology-Paris,,0.3278,,,,,,,,,,,,5
+Tennessee College of Applied Technology-Pulaski,,0.1462,,,,,,,,,,,,5
+James A Rhodes State College,,0.1577,,,,,,,,,,,,3
+Tennessee College of Applied Technology-Ripley,,0.3659,,,,,,,,,,,,5
+Roane State Community College,,0.2851,,,,,,,,,,,,5
+Tennessee College of Applied Technology-Crump,,0.1317,,,,,,,,,,,,5
+Southwest Tennessee Community College,,0.3252,,,,,,,,,,,,5
+Tennessee College of Applied Technology-Shelbyville,,0.3781,,,,,,,,,,,,5
+The University of the South,,0.0029,,,,,,,0.6671,630.0,615.0,,1278.0,5
+Tennessee College of Applied Technology-Oneida-Huntsville,,0.1344,,,,,,,,,,,,5
+Tennessee College of Applied Technology-Crossville,,0.2899,,,,,,,,,,,,5
+Tennessee College of Applied Technology-McMinnville,,0.3467,,,,,,,,,,,,5
+Tennessee College of Applied Technology-Jackson,,0.2669,,,,,,,,,,,,5
+Tennessee College of Applied Technology-Knoxville,,0.2662,,,,,,,,,,,,5
+Tennessee College of Applied Technology-Whiteville,,0.1704,,,,,,,,,,,,5
+Pellissippi State Community College,,0.2748,,,,,,,,,,,,5
+Southern Adventist University,,0.1136,,,,,,,,,,,,5
+Marshall B Ketchum University,,,,,,,,,,,,,,8
+Tennessee Wesleyan University,,0.1547,,,,,,,0.6146,485.0,560.0,,1111.0,5
+The University of Tennessee-Chattanooga,,0.1058,,,,,,,0.8205,575.0,555.0,,1168.0,5
+The University of Tennessee-Knoxville,,0.0528,,,,,,,0.7885,620.0,620.0,,1276.0,5
+The University of Tennessee-Martin,,0.1313,,,,,,,0.6449,,,,1170.0,5
+Tennessee School of Beauty of Knoxville Inc,,0.2579,,,,,,,,,,,,5
+East Tennessee State University,,0.2314,,,,,,,0.8593,550.0,525.0,,1156.0,5
+Tennessee Technological University,,0.0923,,,,,,,0.7902,560.0,565.0,,1187.0,5
+Trevecca Nazarene University,,0.3191,,,,,,,0.6233,590.0,589.0,,1156.0,5
+Northeast Alabama Community College,,0.1852,,,,,,,,,,,,5
+Tusculum University,,0.2046,,,,,,,0.7237,529.0,522.0,,1061.0,5
+Union Institute & University,,0.9222,,,,,,,,,,,,3
+Vanderbilt University,,0.003,,,,,,,0.0912,735.0,775.0,,1515.0,5
+Volunteer State Community College,,0.2897,,,,,,,,,,,,5
+Walters State Community College,,0.2293,,,,,,,,,,,,5
+William R Moore College of Technology,,0.5676,,,,,,,,,,,,5
+Abilene Christian University,,0.0281,,,,,,,0.6148,573.0,550.0,,1164.0,6
+Alvin Community College,,0.2205,,,,,,,,,,,,6
+Amarillo College,,0.2872,,,,,,,,,,,,6
+Amberton University,,0.8984,,,,,,,,,,,,6
+Angelina College,,0.2083,,,,,,,,,,,,6
+Angelo State University,,0.0673,,,,,,,0.7659,520.0,505.0,,1038.0,6
+Arlington Baptist University,,0.2138,,,,,,,,,,,,6
+Arlington Career Institute,,0.7211,,,,,,,,,,,,6
+The Art Institute of Houston,,0.4318,,,,,,,,,,,,6
+Austin's Beauty College Inc,,0.5893,,,,,,,,,,,,5
+Austin Community College District,,0.3167,,,,,,,,,,,,6
+Austin Presbyterian Theological Seminary,,,,,,,,,,,,,,6
+Baldwin Beauty School-South Austin,,0.1731,,,,,,,,,,,,6
+Baptist Health System School of Health Professions,,0.65,,,,,,,,,,,,6
+Baptist Missionary Association Theological Seminary,,0.8095,,,,,,,0.8125,,,,,6
+Baylor College of Medicine,,,,,,,,,,,,,,6
+University of Mary Hardin-Baylor,,0.1226,,,,,,,0.8738,555.0,540.0,,1105.0,6
+Coastal Bend College,,0.3787,,,,,,,,,,,,6
+Blinn College,,0.0959,,,,,,,,,,,,6
+Remington College-Dallas Campus,,0.4839,,,,,,,,,,,,6
+Vet Tech Institute of Houston,,0.269,,,,,,,0.6486,,,,,6
+Brazosport College,,0.2919,,,,,,,,,,,,6
+North Central Texas College,,0.2145,,,,,,,,,,,,6
+Charles and Sues School of Hair Design,,0.1176,,,,,,,,,,,,6
+Cisco College,,0.2167,,,,,,,,,,,,6
+Clarendon College,,0.2114,,,,,,,,,,,,6
+Concordia University Texas,,0.3725,,,,,,,0.9045,520.0,525.0,,1052.0,6
+North Central Texas College,,0.2145,,,,,,,,,,,,6
+Cosmetology Career Center LLC,,0.4159,,,,,,,,,,,,6
+Dallas Baptist University,,0.1609,,,,,,,0.8985,575.0,565.0,,1155.0,6
+Dallas Christian College,,0.2938,,,,,,,0.1305,442.0,448.0,,917.0,6
+Dallas Institute of Funeral Service,,0.6457,,,,,,,,,,,,6
+Dallas Theological Seminary,,,,,,,,,,,,,,6
+The University of Texas at Dallas,,0.1372,,,,,,,0.7859,660.0,690.0,,1355.0,6
+Del Mar College,,0.2962,,,,,,,,,,,,6
+East Texas Baptist University,,0.0857,,,,,,,0.5945,510.0,510.0,,1028.0,6
+Remington College-Dallas Campus,,0.4839,,,,,,,,,,,,6
+El Paso Community College,,0.2026,,,,,,,,,,,,6
+Western Technical College,,0.3561,,,,,,,,,,,,3
+Western Technical College,,0.3561,,,,,,,,,,,,3
+Episcopal Theological Seminary of the Southwest,,,,,,,,,,,,,,6
+Exposito School of Hair Design,,0.4211,,,,,,,,,,,,6
+Fort Worth Beauty School,,0.5067,,,,,,,,,,,,6
+Frank Phillips College,,0.1153,,,,,,,,,,,,6
+Galveston College,,0.3062,,,,,,,,,,,,6
+Grayson College,,0.265,,,,,,,,,,,,6
+Hallmark University,,0.6566,,,,,,,0.7853,,,,,6
+Hardin-Simmons University,,0.0643,,,,,,,0.8378,532.0,525.0,,1061.0,6
+Trinity Valley Community College,,0.2602,,,,,,,,,,,,6
+Indian Hills Community College,,0.1514,,,,,,,,,,,,4
+Houston Baptist University,,0.1641,,,,,,,0.7105,555.0,545.0,,1101.0,6
+University of Houston-Clear Lake,,0.4445,,,,,,,0.7361,555.0,550.0,,1100.0,6
+Houston Community College,,0.414,,,,,,,,,,,,6
+University of Houston-Downtown,,0.4673,,,,,,,0.8868,500.0,500.0,,996.0,6
+University of Houston-Victoria,,0.471,,,,,,,0.5553,514.0,495.0,,999.0,6
+University of Houston-Clear Lake,,0.4445,,,,,,,0.7361,555.0,550.0,,1100.0,6
+Howard Community College,,0.3371,,,,,,,,,,,,2
+Howard Payne University,,0.1011,,,,,,,0.5385,520.0,505.0,,1048.0,6
+Huston-Tillotson University,,0.3408,,,,,,,0.6251,445.0,445.0,,893.0,6
+University of the Incarnate Word,,0.3264,,,,,,,0.9377,535.0,520.0,,1054.0,6
+Jacksonville College-Main Campus,,0.0987,,,,,,,,,,,,6
+Jarvis Christian College,,0.1719,,,,,,,,,,,,6
+KD Conservatory College of Film and Dramatic Arts,,0.1938,,,,,,,0.875,,,,,6
+Kilgore College,,0.2434,,,,,,,,,,,,6
+Lamar University,,0.2578,,,,,,,0.8381,535.0,515.0,,1050.0,6
+Lamar State College-Orange,,0.301,,,,,,,,,,,,6
+Lamar State College-Port Arthur,,0.2503,,,,,,,,,,,,6
+Laredo Beauty College Inc,,0.3769,,,,,,,,,,,,6
+Laredo Beauty College Inc,,0.3769,,,,,,,,,,,,6
+Leeward Community College,,0.3315,,,,,,,,,,,,8
+LeTourneau University,,0.1733,,,,,,,0.4451,600.0,600.0,,1215.0,6
+Lincoln College of Technology-Grand Prairie,,0.3458,,,,,,,,,,,,6
+Lubbock Christian University,,0.1494,,,,,,,0.9066,540.0,525.0,,1079.0,6
+College of the Mainland,,0.278,,,,,,,,,,,,6
+University of Mary Hardin-Baylor,,0.1226,,,,,,,0.8738,555.0,540.0,,1105.0,6
+McLennan Community College,,0.2635,,,,,,,,,,,,6
+McMurry University,,0.2256,,,,,,,0.4546,515.0,505.0,,1033.0,6
+Covenant School of Nursing and Allied Health,,0.4601,,,,,,,,,,,,6
+Midlands Technical College,,0.3278,,,,,,,,,,,,5
+Midwestern State University,,0.2417,,,,,,,0.7925,520.0,505.0,,1029.0,6
+William Edge Institute,,0.2093,,,,,,,,,,,,6
+Wade College,,0.3242,,,,,,,,,,,,6
+Southern Careers Institute-Austin,,0.4681,,,,,,,,,,,,6
+Navarro College,,0.1784,,,,,,,,,,,,6
+Lone Star College System,,0.2253,,,,,,,,,,,,6
+University of North Texas Health Science Center,,,,,,,,,,,,,,6
+Northeast Texas Community College,,0.2282,,,,,,,,,,,,6
+Oblate School of Theology,,,,,,,,,,,,,,6
+Ocean Corporation,,0.544,,,,,,,,,,,,6
+Odessa College,,0.2556,,,,,,,,,,,,6
+Ogle School Hair Skin Nails-Arlington,,0.4701,,,,,,,,,,,,6
+Ogle School Hair Skin Nails-Ft Worth,,0.4317,,,,,,,,,,,,6
+Our Lady of the Lake University,,0.1835,,,,,,,0.6795,500.0,485.0,,989.0,6
+The University of Texas Rio Grande Valley,,0.1493,,,,,,,0.8016,530.0,510.0,,1037.0,6
+Texas Southmost College,,0.0974,,,,,,,,,,,,6
+Panola College,,0.2278,,,,,,,,,,,,6
+Paris Junior College,,0.2071,,,,,,,,,,,,6
+Paul Quinn College,,0.13,,,,,,,0.7916,445.0,410.0,,885.0,6
+Regis University,,0.3906,,,,,,,0.7096,575.0,560.0,,1157.0,7
+Aviation Institute of Maintenance-Houston,,0.524,,,,,,,,,,,,6
+Rice University,,0.0038,,,,,,,0.0872,745.0,775.0,,1520.0,6
+Saint Edward's University,,0.0796,,,,,,,0.8821,585.0,568.0,,1178.0,6
+St Philip's College,,0.3473,,,,,,,,,,,,6
+St. Thomas University,,0.0906,,,,,,,0.5463,505.0,485.0,,996.0,5
+Sam Houston State University,,0.1572,,,,,,,0.834,540.0,525.0,,1071.0,6
+Chamberlain University-Texas,,0.6048,,,,,,,0.8333,,,,,6
+San Jacinto Community College,,0.2361,,,,,,,,,,,,6
+Schreiner University,,0.1432,,,,,,,0.9322,515.0,500.0,,1025.0,6
+Seguin Beauty School-New Braunfels,,0.2174,,,,,,,,,,,,6
+Strayer University-Maryland,,0.908,,,,,,,,,,,,2
+South Plains College,,0.2231,,,,,,,,,,,,6
+South Texas Barber College Inc,,0.28,,,,,,,,,,,,6
+South Texas College of Law Houston,,,,,,,,,,,,,,6
+South Texas Vocational Technical Institute-Weslaco,,0.3779,,,,,,,,,,,,6
+Platt College-STVT-McAllen,,0.3952,,,,,,,,,,,,6
+Southern Methodist University,,0.0237,,,,,,,0.4729,680.0,710.0,,1405.0,6
+Southwest School of Business and Technical Careers-San Antonio,,0.4138,,,,,,,,,,,,6
+Southwest Texas Junior College,,0.1373,,,,,,,,,,,,6
+Southwestern Assemblies of God University,,0.2258,,,,,,,0.8753,515.0,496.0,,1022.0,6
+University of Texas Southwestern Medical Center,,,,,,,,,,,,,,6
+Stephen F Austin State University,,0.0885,,,,,,,0.6795,550.0,535.0,,1093.0,6
+Texas State University,,0.1085,,,,,,,0.8113,555.0,540.0,,1102.0,6
+Southwestern Adventist University,,0.1649,,,,,,,0.577,505.0,480.0,,1008.0,6
+Southwestern Christian College,,0.066,,,,,,,,,,,,6
+Sul Ross State University,,0.2807,,,,,,,0.9963,,,,945.0,6
+Tarleton State University,,0.2062,,,,,,,0.5577,530.0,515.0,,1053.0,6
+Tarrant County College District,,0.2843,,,,,,,,,,,,6
+Temple College,,0.3121,,,,,,,,,,,,6
+University of Texas Southwestern Medical Center,,,,,,,,,,,,,,6
+The University of Texas Health Science Center at San Antonio,,0.5458,,,,,,,,,,,,6
+The University of Texas Medical Branch at Galveston,,0.3969,,,,,,,,,,,,6
+Texarkana College,,0.2554,,,,,,,,,,,,6
+The University of Texas at Arlington,,0.4297,,,,,,,0.8289,570.0,575.0,,1151.0,6
+The University of Texas at Austin,,0.0266,,,,,,,0.3182,670.0,685.0,,1367.0,6
+The University of Texas at Dallas,,0.1372,,,,,,,0.7859,660.0,690.0,,1355.0,6
+The University of Texas at El Paso,,0.2135,,,,,,,0.9999,,,,,6
+The University of Texas at Tyler,,0.2783,,,,,,,0.8319,585.0,570.0,,1170.0,6
+Texas Chiropractic College Foundation Inc,,,,,,,,,,,,,,6
+Texas Christian University,,0.0469,,,,,,,0.4712,625.0,625.0,,1288.0,6
+North Central Texas College,,0.2145,,,,,,,,,,,,6
+University of North Texas Health Science Center,,,,,,,,,,,,,,6
+Texas Lutheran University,,0.0422,,,,,,,0.5575,540.0,535.0,,1081.0,6
+The University of Texas Permian Basin,,0.3009,,,,,,,0.8832,517.0,520.0,,1036.0,6
+The University of Texas at San Antonio,,0.1553,,,,,,,0.7659,570.0,555.0,,1124.0,6
+Texas Southern University,,0.2045,,,,,,,0.9086,465.0,455.0,,921.0,6
+Texas Tech University,,0.0816,,,,,,,0.6891,585.0,580.0,,1181.0,6
+Texas Wesleyan University,,0.1854,,,,,,,0.4207,540.0,525.0,,1076.0,6
+Texas Woman's University,,0.2363,,,,,,,0.9323,530.0,510.0,,1037.0,6
+Trinity Washington University,,0.351,,,,,,,0.9669,,,,,2
+The University of Texas Health Science Center at Houston,,0.4232,,,,,,,,,,,,6
+Texas Tech University Health Sciences Center,,0.4641,,,,,,,,,,,,6
+Tyler Junior College,,0.2255,,,,,,,,,,,,6
+Universal Technical Institute of Texas Inc.,,0.1582,,,,,,,,,,,,6
+Vernon College,,0.3249,,,,,,,,,,,,6
+Victoria Beauty College Inc,,0.4416,,,,,,,,,,,,6
+Victoria Beauty College Inc,,0.4416,,,,,,,,,,,,6
+Vogue College of Cosmetology-McAllen,,0.4045,,,,,,,,,,,,6
+Wayland Baptist University,,0.6262,,,,,,,0.9748,485.0,485.0,,995.0,6
+Weatherford College,,0.2036,,,,,,,,,,,,6
+Western Texas College,,0.1015,,,,,,,,,,,,6
+Wharton County Junior College,,0.1653,,,,,,,,,,,,6
+Wiley College,,0.3287,,,,,,,,,,,,6
+Bridgerland Technical College,,0.3876,,,,,,,,,,,,7
+Brigham Young University-Hawaii,,0.2503,,,,,,,0.9733,595.0,575.0,,1197.0,8
+Brigham Young University-Hawaii,,0.2503,,,,,,,0.9733,595.0,575.0,,1197.0,8
+Broadview University-West Jordan,,0.5594,,,,,,,,,,,,7
+Cameo College of Essential Beauty,,0.3502,,,,,,,,,,,,7
+Collectiv Academy,,0.1818,,,,,,,,,,,,7
+Davis Technical College,,0.2965,,,,,,,,,,,,7
+Dixie State University,,0.144,,,,,,,,,,,,7
+Evans Hairstyling College-Cedar City,,0.125,,,,,,,,,,,,7
+Evans Hairstyling College-St George,,0.0735,,,,,,,,,,,,7
+Paul Mitchell the School-Salt Lake City,,0.3805,,,,,,,,,,,,7
+Eagle Gate College-Murray,,0.7167,,,,,,,,,,,,7
+Ensign College,,0.3147,,,,,,,,,,,,7
+Ogden-Weber Technical College,,0.2084,,,,,,,,,,,,7
+Snow College,,0.0641,,,,,,,,,,,,7
+Southern Utah University,,0.2292,,,,,,,0.7835,570.0,560.0,,1135.0,7
+Uintah Basin Technical College,,0.1614,,,,,,,,,,,,7
+Utah State University,,0.1647,,,,,,,0.9095,595.0,585.0,,1201.0,7
+Utah Valley University,,0.2126,,,,,,,,,,,,7
+Salt Lake Community College,,0.2976,,,,,,,,,,,,7
+Southern Utah University,,0.2292,,,,,,,0.7835,570.0,560.0,,1135.0,7
+Weber State University,,0.219,,,,,,,,,,,,7
+Westminster College,,0.127,,,,,,,0.9184,580.0,565.0,,1171.0,7
+Bennington College,,0.0466,,,,,,,0.6079,,,,,1
+Castleton University,,0.0961,,,,,,,0.8379,515.0,504.0,,1023.0,1
+Champlain College,,0.3786,,,,,,,0.8515,620.0,595.0,,1229.0,1
+Community College of Vermont,,0.4054,,,,,,,,,,,,1
+Goddard College,,0.7939,,,,,,,1.0,,,,,1
+Northern Vermont University - Northern Essex Community College,,,,,,,,,,,,,,1
+Middlebury College,,0.0039,,,,,,,0.1536,710.0,735.0,,1460.0,1
+Norwich University,,0.2192,,,,,,,0.7507,,,,,1
+O'Briens Aveda Institute,,0.3,,,,,,,,,,,,1
+Saint Michael's College,,0.0088,,,,,,,0.8309,,,,,1
+SIT Graduate Institute,,,,,,,,,,,,,,1
+Northeastern Junior College,,0.2158,,,,,,,,,,,,7
+Vermont Law School,,,,,,,,,,,,,,1
+Vermont Technical College,,0.3673,,,,,,,0.6704,,,,,1
+University of Vermont,,0.0547,,,,,,,0.673,640.0,630.0,,1287.0,1
+Paul Mitchell the School-Roanoke,,0.3153,,,,,,,,,,,,5
+Advanced Technology Institute,,0.4683,,,,,,,0.4791,,,,,5
+Averett University-Non-Traditional Programs,,0.8624,,,,,,,0.2364,,,,,5
+Blue Ridge Community College,,0.211,,,,,,,,,,,,5
+Bluefield College - Edward Via College of Osteopathic Medicine,,,,,,,,,,,,,,5
+Bridgewater College,,0.0058,,,,,,,0.6729,545.0,525.0,,1075.0,5
+Regent University,,0.6075,,,,,,,0.8554,575.0,530.0,,1109.0,5
+Central School of Practical Nursing,,0.7468,,,,,,,,,,,,3
+Central Virginia Community College,,0.2151,,,,,,,,,,,,5
+Christopher Newport University,,0.0114,,,,,,,0.7189,610.0,585.0,,1197.0,5
+Suffolk Beauty Academy,,0.6,,,,,,,,,,,,5
+Radford University-Carilion,,0.0893,,,,,,,0.2767,506.0,505.0,,1012.0,5
+Dabney S Lancaster Community College,,0.1357,,,,,,,,,,,,5
+Danville Area Community College,,0.3219,,,,,,,,,,,,3
+Eastern Virginia Medical School,,,,,,,,,,,,,,5
+Centura College-Virginia Beach,,0.6822,,,,,,,,,,,,5
+Eastern Mennonite University,,0.1994,,,,,,,0.646,555.0,545.0,,1106.0,5
+Eastern Shore Community College,,0.2113,,,,,,,,,,,,5
+Ferrum College,,0.0238,,,,,,,0.7316,490.0,470.0,,967.0,5
+George Mason University,,0.1872,,,,,,,0.8674,610.0,605.0,,1222.0,5
+Germanna Community College,,0.2187,,,,,,,,,,,,5
+Hampden-Sydney College,,0.006,,,,,,,0.5743,605.0,585.0,,1185.0,5
+Hampton University,,0.1023,,,,,,,0.36,,,,,5
+Hollins University,,0.0434,,,,,,,0.7124,615.0,570.0,,1200.0,5
+J Sargeant Reynolds Community College,,0.369,,,,,,,,,,,,5
+James Madison University,,0.0296,,,,,,,0.7675,610.0,595.0,,1211.0,5
+John Tyler Community College,,0.2249,,,,,,,,,,,,5
+Liberty University,,0.5382,,,,,,,0.5106,585.0,565.0,,1171.0,5
+Longwood University,,0.0596,,,,,,,0.8989,540.0,515.0,,1057.0,5
+Lord Fairfax Community College,,0.1851,,,,,,,,,,,,5
+University of Lynchburg,,0.0444,,,,,,,0.9104,550.0,520.0,,1079.0,5
+College of Central Florida,,0.2961,,,,,,,,,,,,5
+Mary Baldwin University,,0.2651,,,,,,,0.8439,530.0,500.0,,1036.0,5
+University of Mary Washington,,0.0894,,,,,,,0.7473,610.0,570.0,,1193.0,5
+Loyola Marymount University,,0.0266,,,,,,,0.4384,660.0,660.0,,1331.0,8
+Sovah School of Health Professions,,,,,,,,,,,,,,5
+Mountain Empire Community College,,0.278,,,,,,,,,,,,5
+American National University,,0.7598,,,,,,,,,,,,5
+New River Community College,,0.1851,,,,,,,,,,,,5
+Sentara College of Health Sciences,,0.6667,,,,,,,,,,,,5
+Tidewater Tech-Trades,,0.6929,,,,,,,,,,,,5
+Norfolk State University,,0.1764,,,,,,,0.9169,485.0,465.0,,956.0,5
+Northern Virginia Community College,,0.2483,,,,,,,,,,,,5
+Old Dominion University,,0.2528,,,,,,,0.8933,550.0,530.0,,1081.0,5
+Patrick Henry Community College,,0.206,,,,,,,,,,,,5
+Paul D Camp Community College,,0.2156,,,,,,,,,,,,5
+Southside College of Health Sciences,,0.5893,,,,,,,0.0,,,,,5
+Piedmont Virginia Community College,,0.254,,,,,,,,,,,,5
+Radford University-Carilion,,0.0893,,,,,,,0.2767,506.0,505.0,,1012.0,5
+Sylvain Melloul International Hair Academy,,0.373,,,,,,,,,,,,5
+Randolph College,,0.0442,,,,,,,0.8955,545.0,530.0,,1083.0,5
+Randolph College,,0.0442,,,,,,,0.8955,545.0,530.0,,1083.0,5
+Rappahannock Community College,,0.2025,,,,,,,,,,,,5
+Richard Bland College,,0.0206,,,,,,,0.4955,,,,,5
+Bon Secours Memorial College of Nursing,,0.6473,,,,,,,,,,,,5
+University of Richmond,,0.0593,,,,,,,0.2833,675.0,700.0,,1395.0,5
+Riverside College of Health Careers,,0.5344,,,,,,,0.6,,,,,5
+Roanoke-Chowan Community College,,0.2311,,,,,,,,,,,,5
+Bon Secours St Mary's Hospital School of Medical Imaging,,0.3871,,,,,,,,,,,,5
+Shenandoah University,,0.0941,,,,,,,0.7438,560.0,540.0,,1103.0,5
+Southeastern Free Will Baptist Bible College,,0.0678,,,,,,,,,,,,5
+Southern Virginia University,,0.1404,,,,,,,0.9803,545.0,539.0,,1116.0,5
+Southside Virginia Community College,,0.2547,,,,,,,,,,,,5
+Southwest Virginia Community College,,0.234,,,,,,,,,,,,5
+Staunton School of Cosmetology,,0.5385,,,,,,,,,,,,5
+Strayer University-Virginia,,0.886,,,,,,,,,,,,5
+Sweet Briar College,,0.0342,,,,,,,0.7942,585.0,525.0,,1139.0,5
+Thomas Nelson Community College,,0.3247,,,,,,,,,,,,5
+Tidewater Community College,,0.3882,,,,,,,,,,,,5
+Union Presbyterian Seminary,,,,,,,,,,,,,,5
+The University of Virginia's College at Wise,,0.4297,,,,,,,0.5941,545.0,520.0,,1074.0,5
+Virginia Highlands Community College,,0.2323,,,,,,,,,,,,5
+Virginia Polytechnic Institute and State University,,0.018,,,,,,,0.7004,635.0,650.0,,1292.0,5
+Virginia Western Community College,,0.2269,,,,,,,,,,,,5
+Virginia Commonwealth University,,0.1049,,,,,,,0.8714,595.0,570.0,,1172.0,5
+University of Virginia-Main Campus,,0.038,,,,,,,0.2394,705.0,725.0,,1436.0,5
+Virginia Military Institute,,0.0012,,,,,,,0.5954,595.0,585.0,,1187.0,5
+Asher Institute of Hampton,,0.6316,,,,,,,,,,,,5
+Virginia University of Lynchburg,,0.1485,,,,,,,,,,,,5
+Virginia Polytechnic Institute and State University,,0.018,,,,,,,0.7004,635.0,650.0,,1292.0,5
+Virginia Union University,,0.1162,,,,,,,0.631,435.0,415.0,,855.0,5
+Virginia Wesleyan University,,0.1384,,,,,,,0.7684,540.0,525.0,,1078.0,5
+Washington and Lee University,,0.0091,,,,,,,0.1857,700.0,730.0,,1453.0,5
+Wytheville Community College,,0.2412,,,,,,,,,,,,5
+Bellevue College,,0.297,,,,,,,,,,,,8
+Bellingham Technical College,,0.5049,,,,,,,,,,,,8
+Big Bend Community College,,0.283,,,,,,,,,,,,8
+Central Washington University,,0.1907,,,,,,,0.8492,525.0,535.0,,1062.0,8
+Centralia College,,0.4683,,,,,,,,,,,,8
+City University of Seattle,,0.8538,,,,,,,,,,,,8
+Paul Mitchell the School-Richland,,0.3169,,,,,,,,,,,,8
+Hussian College-Daymar College Clarksville,,0.7204,,,,,,,,,,,,5
+Clover Park Technical College,,0.59,,,,,,,,,,,,8
+Columbia Basin College,,0.3286,,,,,,,,,,,,8
+Cornish College of the Arts,,0.093,,,,,,,0.7347,,,,,8
+Divers Institute of Technology,,0.5281,,,,,,,,,,,,8
+Eastern Washington University,,0.1827,,,,,,,0.957,515.0,510.0,,1033.0,8
+Edmonds College,,0.4036,,,,,,,,,,,,8
+Everett Community College,,0.3073,,,,,,,,,,,,8
+Paroba College of Cosmetology,,0.4771,,,,,,,0.8442,,,,,8
+The Evergreen State College,,0.394,,,,,,,0.9785,569.0,515.0,,1094.0,8
+Pierce College District,,0.3524,,,,,,,,,,,,8
+Glen Dow Academy of Hair Design,,0.4375,,,,,,,,,,,,8
+Gonzaga University,,0.0144,,,,,,,0.617,635.0,645.0,,1288.0,8
+Grays Harbor College,,0.4247,,,,,,,,,,,,8
+Green River College,,0.2293,,,,,,,,,,,,8
+Heritage Christian University,,0.6102,,,,,,,0.2353,,,,,5
+Highline College,,0.3317,,,,,,,,,,,,8
+International Air and Hospitality Academy,,0.4107,,,,,,,,,,,,8
+Bastyr University,,0.4968,,,,,,,,,,,,8
+Highlights Beauty Schools,,0.4037,,,,,,,,,,,,8
+Bates Technical College,,0.6831,,,,,,,,,,,,8
+Lake Washington Institute of Technology,,0.5735,,,,,,,,,,,,8
+Lower Columbia College,,0.414,,,,,,,,,,,,8
+North Seattle College,,0.6187,,,,,,,,,,,,8
+Northwest Nazarene University,,0.2656,,,,,,,0.8553,560.0,530.0,,1114.0,7
+Olympic College,,0.4175,,,,,,,,,,,,8
+Perry Technical Institute,,0.2914,,,,,,,,,,,,8
+Pacific Lutheran University,,0.0924,,,,,,,0.8603,600.0,585.0,,1206.0,8
+Peninsula College,,0.4695,,,,,,,,,,,,8
+University of Puget Sound,,0.0126,,,,,,,0.8381,,,,,8
+Renton Technical College,,0.6546,,,,,,,,,,,,8
+Saint Martin's University,,0.2455,,,,,,,0.9591,535.0,535.0,,1070.0,8
+South Seattle College,,0.541,,,,,,,,,,,,8
+Seattle Central College,,0.4508,,,,,,,,,,,,8
+Seattle Pacific University,,0.0622,,,,,,,0.9061,570.0,565.0,,1135.0,8
+Seattle University,,0.0762,,,,,,,0.7848,620.0,615.0,,1251.0,8
+Shoreline Community College,,0.3878,,,,,,,,,,,,8
+Skagit Valley College,,0.4655,,,,,,,,,,,,8
+South Puget Sound Community College,,0.3343,,,,,,,,,,,,8
+Spokane Community College,,0.6654,,,,,,,,,,,,8
+Spokane Falls Community College,,0.345,,,,,,,,,,,,8
+Stylemaster College of Hair Design,,0.4167,,,,,,,,,,,,8
+Tacoma Community College,,0.4238,,,,,,,,,,,,8
+George C Wallace State Community College-Hanceville,,0.2215,,,,,,,,,,,,5
+Baldwin Wallace University,,0.0931,,,,,,,0.7269,577.0,570.0,,1175.0,3
+Western Washington University,,0.0763,,,,,,,0.9038,595.0,575.0,,1181.0,8
+University of Washington-Seattle Campus,,0.0706,,,,,,,0.5176,650.0,695.0,,1356.0,8
+Wenatchee Valley College,,0.2849,,,,,,,,,,,,8
+Western Washington University,,0.0763,,,,,,,0.9038,595.0,575.0,,1181.0,8
+Whatcom Community College,,0.2726,,,,,,,,,,,,8
+Whitman College,,0.0089,,,,,,,0.5592,670.0,675.0,,1365.0,8
+Whitworth University,,0.0343,,,,,,,0.9138,590.0,580.0,,1183.0,8
+Yakima Valley College,,0.3434,,,,,,,,,,,,8
+Alderson Broaddus University,,0.0598,,,,,,,0.4713,480.0,480.0,,975.0,5
+Appalachian Beauty School,,0.25,,,,,,,,,,,,5
+Appalachian Bible College,,0.16,,,,,,,0.3706,540.0,515.0,,1061.0,5
+B M Spurr School of Practical Nursing,,0.5417,,,,,,,0.3333,,,,,5
+Ben Franklin Career Center,,0.4545,,,,,,,,,,,,5
+Bethany Lutheran College,,0.0283,,,,,,,0.7264,515.0,535.0,,1138.0,4
+Bluefield State College,,0.2828,,,,,,,0.9447,435.0,445.0,,942.0,5
+Cabell County Career Technology Center,,0.5,,,,,,,,,,,,5
+Charleston School of Beauty Culture,,0.4483,,,,,,,,,,,,5
+Charleston Southern University,,0.163,,,,,,,0.4965,570.0,540.0,,1165.0,5
+Clarksburg Beauty Academy and School of Massage Therapy,,0.54,,,,,,,,,,,,5
+Concordia University-Ann Arbor,,0.1051,,,,,,,0.4906,,,,1065.0,3
+Fairmont State University,,0.1886,,,,,,,0.8536,520.0,490.0,,1035.0,5
+Glenville State College,,0.1619,,,,,,,,,,,,5
+Huntington Junior College,,0.722,,,,,,,,,,,,5
+James Rumsey Technical Institute,,0.3689,,,,,,,,,,,,5
+Ralph R Willis Career and Technical Center,,0.4651,,,,,,,,,,,,5
+Marshall B Ketchum University,,,,,,,,,,,,,,8
+Mercer County Technical Education Center,,0.4713,,,,,,,0.8043,,,,,5
+Monongalia County Technical Education Center,,0.56,,,,,,,0.7368,,,,,5
+Morgantown Beauty College Inc,,0.2029,,,,,,,,,,,,5
+Mountain State College,,0.8095,,,,,,,0.75,,,,,5
+Ohio Valley University,,0.102,,,,,,,0.6928,530.0,515.0,,1048.0,5
+West Virginia University at Parkersburg,,0.2445,,,,,,,,,,,,5
+Potomac State College of West Virginia University,,0.0777,,,,,,,,,,,,5
+Academy of Careers and Technology,,0.4783,,,,,,,,,,,,5
+Salem State University,,0.1723,,,,,,,0.8558,550.0,535.0,,1085.0,1
+Shepherd University,,0.2459,,,,,,,0.9628,545.0,525.0,,1088.0,5
+Southern West Virginia Community and Technical College,,0.2664,,,,,,,,,,,,5
+Fred W Eberle Technical Center,,0.3707,,,,,,,,,,,,5
+West Virginia School of Osteopathic Medicine,,,,,,,,,,,,,,5
+West Virginia State University,,0.112,,,,,,,0.9536,490.0,475.0,,1010.0,5
+West Virginia University Hospital Departments of Rad Tech and Nutrition,,0.3684,,,,,,,,,,,,5
+West Liberty University,,0.076,,,,,,,0.7064,,,,1070.0,5
+West Virginia University Institute of Technology,,0.0753,,,,,,,0.5108,520.0,510.0,,1055.0,5
+West Virginia Wesleyan College,,0.0203,,,,,,,0.6415,525.0,505.0,,1053.0,5
+West Virginia Junior College-Charleston,,0.4134,,,,,,,,,,,,5
+West Virginia Junior College-Morgantown,,0.6173,,,,,,,,,,,,5
+International School of Beauty Inc,,0.3427,,,,,,,,,,,,8
+West Virginia Northern Community College,,0.3166,,,,,,,,,,,,5
+West Virginia University Institute of Technology,,0.0753,,,,,,,0.5108,520.0,510.0,,1055.0,5
+Wheeling University,,0.1278,,,,,,,0.6825,505.0,515.0,,1037.0,5
+Wood County School of Practical Nursing,,0.6842,,,,,,,,,,,,5
+VICI Beauty School,,0.1833,,,,,,,,,,,,3
+Alverno College,,0.2507,,,,,,,0.6937,,,,,3
+Madison Area Technical College,,0.3118,,,,,,,,,,,,3
+Bellingham Technical College,,0.5049,,,,,,,,,,,,8
+Beloit College,,0.0114,,,,,,,0.6205,615.0,615.0,,1257.0,3
+Blackhawk Technical College,,0.4617,,,,,,,,,,,,3
+Cardinal Stritch University,,0.2604,,,,,,,0.8149,515.0,540.0,,1052.0,3
+John Carroll University,,0.0116,,,,,,,0.8633,595.0,585.0,,1206.0,3
+Carthage College,,0.0368,,,,,,,0.68,555.0,555.0,,1161.0,3
+Concordia University-Wisconsin,,0.2245,,,,,,,0.6413,,,,1170.0,3
+Edgewood College,,0.15,,,,,,,0.7237,535.0,545.0,,1134.0,3
+Fox Valley Technical College,,0.3115,,,,,,,,,,,,3
+Gateway Community and Technical College,,0.3496,,,,,,,,,,,,5
+The Professional Hair Design Academy,,0.3939,,,,,,,,,,,,3
+Lakeland University,,0.5467,,,,,,,0.7805,488.0,495.0,,1019.0,3
+Lakeshore Technical College,,0.4763,,,,,,,,,,,,3
+Lawrence University,,0.0076,,,,,,,0.6208,650.0,665.0,,1324.0,3
+Maranatha Baptist University,,0.082,,,,,,,0.7668,564.0,542.0,,1131.0,3
+Marian University,,0.1756,,,,,,,0.6461,485.0,495.0,,1025.0,3
+Marquette University,,0.0128,,,,,,,0.8296,605.0,615.0,,1255.0,3
+Medical College of Wisconsin,,,,,,,,,,,,,,3
+Mid-State Technical College,,0.4048,,,,,,,,,,,,3
+Milwaukee Area Technical College,,0.5131,,,,,,,,,,,,3
+Milwaukee School of Engineering,,0.0912,,,,,,,0.6171,615.0,660.0,,1293.0,3
+Moraine Park Technical College,,0.6466,,,,,,,,,,,,3
+Mount St. Mary's University,,0.0843,,,,,,,0.7479,555.0,540.0,,1097.0,2
+Nashotah House,,,,,,,,,,,,,,3
+Nicolet Area Technical College,,0.3482,,,,,,,,,,,,3
+Northcentral Technical College,,0.2603,,,,,,,,,,,,3
+Northeast Wisconsin Technical College,,0.2974,,,,,,,,,,,,3
+Northland Pioneer College,,0.3218,,,,,,,,,,,,6
+Ripon College,,0.0089,,,,,,,0.6952,540.0,565.0,,1117.0,3
+Sacred Heart Seminary and School of Theology,,,,,,,,,,,,,,3
+Saint Norbert College,,0.008,,,,,,,0.7979,580.0,575.0,,1185.0,3
+State College of Beauty Culture Inc,,0.3659,,,,,,,,,,,,3
+Southwest Wisconsin Technical College,,0.239,,,,,,,,,,,,3
+Viterbo University,,0.1936,,,,,,,0.7657,590.0,570.0,,1155.0,3
+Chippewa Valley Technical College,,0.2572,,,,,,,,,,,,3
+Waukesha County Technical College,,0.3434,,,,,,,,,,,,3
+Western Technical College,,0.3561,,,,,,,,,,,,3
+University of Wisconsin-Whitewater,,0.0914,,,,,,,0.7893,,,,1105.0,3
+Wisconsin Indianhead Technical College,,0.4336,,,,,,,,,,,,3
+Wisconsin School of Professional Psychology,,,,,,,,,,,,,,3
+University of Wisconsin-Eau Claire,,0.0449,,,,,,,0.8163,,,,1170.0,3
+University of Wisconsin-Green Bay,,0.2036,,,,,,,0.8524,,,,1085.0,3
+University of Wisconsin-La Crosse,,0.031,,,,,,,0.73,,,,1220.0,3
+Wisconsin Lutheran College,,0.1047,,,,,,,0.8921,585.0,570.0,,1187.0,3
+University of Wisconsin-Oshkosh,,0.1,,,,,,,0.7633,,,,1105.0,3
+University of Wisconsin-Parkside,,0.1938,,,,,,,0.6582,,,,1050.0,3
+Herzing University-Madison,,0.7862,,,,,,,0.9055,,,,,3
+University of Wisconsin-Stout,,0.1508,,,,,,,0.9054,,,,1120.0,3
+University of Wisconsin-Superior,,0.274,,,,,,,0.8199,,,,1065.0,3
+University of Wisconsin-Madison,,0.0372,,,,,,,0.5441,665.0,725.0,,1371.0,3
+Ottawa University-Milwaukee,,0.8939,,,,,,,,,,,,3
+University of Wisconsin-Platteville,,0.0951,,,,,,,0.8484,,,,1150.0,3
+University of Wisconsin-River Falls,,0.0746,,,,,,,0.7888,,,,1135.0,3
+University of Wisconsin-Stevens Point,,0.0917,,,,,,,0.8452,,,,1120.0,3
+Casper College,,0.3534,,,,,,,,,,,,7
+Central Wyoming College,,0.3088,,,,,,,,,,,,7
+Eastern Wyoming College,,0.2055,,,,,,,,,,,,7
+Laramie County Community College,,0.2819,,,,,,,,,,,,7
+Northwest Nazarene University,,0.2656,,,,,,,0.8553,560.0,530.0,,1114.0,7
+Northern Wyoming Community College District,,0.3568,,,,,,,,,,,,7
+Western Wyoming Community College,,0.2829,,,,,,,,,,,,7
+Cheeks Beauty Academy,,0.36,,,,,,,,,,,,7
+WyoTech,,0.1107,,,,,,,,,,,,7
+University of Wyoming,,0.1624,,,,,,,0.9596,590.0,580.0,,1203.0,7
+American Samoa Community College,,0.1565,,,,,,,,,,,,9
+Guam Community College,,0.3,,,,,,,,,,,,9
+University of Guam,,0.1922,,,,,,,,,,,,9
+Northern Marianas College,,0.1979,,,,,,,,,,,,9
+Hollywood Institute of Beauty Careers,,0.6437,,,,,,,,,,,,5
+American University of Puerto Rico,,0.3568,,,,,,,,,,,,9
+American University of Puerto Rico,,0.3568,,,,,,,,,,,,9
+American Educational College,,0.2633,,,,,,,,,,,,9
+Antilles School of Technical Careers,,0.3786,,,,,,,,,,,,9
+Universidad Adventista de las Antillas,,0.1909,,,,,,,0.9874,,,,,9
+Atlantic University College,,0.0878,,,,,,,,,,,,9
+Universidad Central de Bayamon,,0.2379,,,,,,,0.7725,,,,,9
+Columbia Central University-Caguas,,0.2575,,,,,,,,,,,,9
+Albizu University-San Juan,,0.1693,,,,,,,0.6019,,,,,9
+Caribbean University-Bayamon,,0.5237,,,,,,,,,,,,9
+Caribbean University-Carolina,,0.3057,,,,,,,,,,,,9
+Pontifical Catholic University of Puerto Rico-Arecibo,,0.2434,,,,,,,0.9882,,,,,9
+Pontifical Catholic University of Puerto Rico-Ponce,,0.0875,,,,,,,0.9287,,,,,9
+CEM College-San Juan,,0.337,,,,,,,,,,,,9
+Universidad Teologica del Caribe,,0.7512,,,,,,,,,,,,9
+Colegio Universitario de San Juan,,0.3664,,,,,,,0.9505,,,,,9
+Universidad Ana G. Mendez-Cupey Campus,,0.3184,,,,,,,,,,,,9
+Conservatory of Music of Puerto Rico,,0.1351,,,,,,,0.6543,,,,,9
+Center for Advanced Studies On Puerto Rico and the Caribbean,,,,,,,,,,,,,,9
+EDP University of Puerto Rico Inc-San Sebastian,,0.464,,,,,,,0.9706,,,,,9
+Emma's Beauty Academy-Mayaguez,,0.1159,,,,,,,,,,,,9
+Escuela de Artes Plasticas y Diseno de Puerto Rico,,0.1451,,,,,,,0.9091,,,,,9
+Instituto Tecnologico de Puerto Rico-Recinto de Manati,,,,,,,,,0.9894,,,,,9
+Huertas College,,0.3828,,,,,,,,,,,,9
+Humacao Community College,,0.3844,,,,,,,,,,,,9
+ICPR Junior College-Arecibo,,0.2465,,,,,,,,,,,,9
+ICPR Junior College-Mayaguez,,0.4575,,,,,,,,,,,,9
+Richport Technical College,,0.3636,,,,,,,,,,,,9
+Instituto Tecnologico de Puerto Rico-Recinto de Guayama,,0.2434,,,,,,,0.9606,,,,,9
+Instituto Tecnologico de Puerto Rico-Recinto de Ponce,,,,,,,,,0.9667,,,,,9
+Instituto Tecnologico de Puerto Rico-Recinto de San Juan,,0.1685,,,,,,,1.0,,,,,9
+Inter American University of Puerto Rico-San German,,0.1102,,,,,,,0.4375,,,,,9
+Inter American University of Puerto Rico-Aguadilla,,0.1713,,,,,,,0.4306,,,,,9
+Inter American University of Puerto Rico-Arecibo,,0.1836,,,,,,,0.2593,,,,,9
+Inter American University of Puerto Rico-Barranquitas,,0.1737,,,,,,,0.9022,,,,,9
+Inter American University of Puerto Rico-Metro,,0.289,,,,,,,0.2605,,,,,9
+Inter American University of Puerto Rico-Ponce,,0.2084,,,,,,,0.3269,,,,,9
+Inter American University of Puerto Rico-Fajardo,,0.1955,,,,,,,0.5329,,,,,9
+Inter American University of Puerto Rico-Guayama,,0.2365,,,,,,,0.4623,,,,,9
+Inter American University of Puerto Rico-Bayamon,,0.1258,,,,,,,0.2682,,,,,9
+Inter American University of Puerto Rico-School of Law,,,,,,,,,,,,,,9
+Liceo de Arte y Tecnologia,,0.2258,,,,,,,,,,,,9
+Modern Hairstyling Institute-Bayamon,,0.092,,,,,,,0.94,,,,,9
+Modern Hairstyling Institute-Arecibo,,0.027,,,,,,,0.8261,,,,,9
+NUC University,,0.6,,,,,,,0.4907,,,,,9
+Ponce Health Sciences University,,,,,,,,,,,,,,9
+University of Puerto Rico-Aguadilla,,0.0384,,,,,,,0.8676,520.0,509.0,,1029.0,9
+Pontifical Catholic University of Puerto Rico-Arecibo,,0.2434,,,,,,,0.9882,,,,,9
+Inter American University of Puerto Rico-Bayamon,,0.1258,,,,,,,0.2682,,,,,9
+University of Puerto Rico-Carolina,,0.074,,,,,,,0.3865,511.0,480.0,,990.0,9
+University of Puerto Rico-Cayey,,0.0516,,,,,,,0.8776,550.0,535.0,,1085.0,9
+University of Puerto Rico-Humacao,,0.0376,,,,,,,0.4832,,,,,9
+University of Puerto Rico-Utuado,,0.0785,,,,,,,0.6303,,,,,9
+University of Puerto Rico-Mayaguez,,0.0415,,,,,,,0.804,,,,,9
+University of Puerto Rico-Medical Sciences,,0.1854,,,,,,,,,,,,9
+Inter American University of Puerto Rico-Ponce,,0.2084,,,,,,,0.3269,,,,,9
+University of Puerto Rico-Rio Piedras,,0.0516,,,,,,,0.4881,,,,,9
+Universidad Ana G. Mendez-Carolina Campus,,0.311,,,,,,,,,,,,9
+Universidad del Sagrado Corazon,,0.1922,,,,,,,0.3685,,,,,9
+Seminario Evangelico de Puerto Rico,,,,,,,,,,,,,,9
+Universidad Central Del Caribe,,0.2143,,,,,,,1.0,,,,,9
+Universidad Politecnica de Puerto Rico,,0.2428,,,,,,,,,,,,9
+Pontifical Catholic University of Puerto Rico-Mayaguez,,0.2328,,,,,,,0.9786,,,,,9
+Universidad Ana G. Mendez-Gurabo Campus,,0.2959,,,,,,,,,,,,9
+College of Micronesia-FSM,,0.1393,,,,,,,0.8011,,,,,9
+Palau Community College,,0.3018,,,,,,,,,,,,9
+University of the Virgin Islands,,0.2492,,,,,,,0.9836,475.0,435.0,,913.0,9
+Stanford University,,0.0166,,,,,,,0.0434,735.0,770.0,,1503.0,8
+Purdue University-Main Campus,,0.0333,,,,,,,0.5983,640.0,675.0,,1321.0,3
+Blue Hills Regional Technical School,,0.7778,,,,,,,0.0588,,,,,1
+West Virginia University at Parkersburg,,0.2445,,,,,,,,,,,,5
+EDP University of Puerto Rico Inc-San Juan,,0.644,,,,,,,0.7048,,,,,9
+ICPR Junior College-Arecibo,,0.2465,,,,,,,,,,,,9
+City College-Fort Lauderdale,,0.7265,,,,,,,,,,,,5
+Meridian Community College,,0.3266,,,,,,,,,,,,5
+Georgia State University-Perimeter College,,0.2951,,,,,,,0.6932,,,,,5
+Georgia Piedmont Technical College,,0.4469,,,,,,,,,,,,5
+ETI School of Skilled Trades,,0.4832,,,,,,,,,,,,3
+Traxlers School of Hair,,0.5169,,,,,,,,,,,,5
+Warren County Community College,,0.1076,,,,,,,,,,,,2
+Saint Johns River State College,,0.2213,,,,,,,,,,,,5
+Bais Medrash Elyon,,0.1064,,,,,,,0.8065,,,,,2
+Antioch University-Los Angeles,,0.7091,,,,,,,,,,,,8
+Antioch University-Santa Barbara,,0.5769,,,,,,,,,,,,8
+Antioch University-New England,,,,,,,,,,,,,,1
+Antioch University-Seattle,,0.7529,,,,,,,,,,,,8
+Antioch University-Midwest,,1.0,,,,,,,,,,,,3
+Mid-America Christian University,,0.6504,,,,,,,,,,,,6
+Ponca City Beauty College,,0.3889,,,,,,,,,,,,6
+Francis Tuttle Technology Center,,0.1398,,,,,,,,,,,,6
+Central Technology Center,,0.1015,,,,,,,,,,,,6
+Carrington College-Portland,,0.3814,,,,,,,,,,,,8
+Career Technology Center of Lackawanna County,,0.6429,,,,,,,0.75,,,,,2
+Houston Graduate School of Theology,,,,,,,,,,,,,,6
+Palo Alto College,,0.2286,,,,,,,,,,,,6
+Sebring Career Schools-Huntsville,,0.4103,,,,,,,,,,,,6
+Central Texas Beauty College-Round Rock,,0.5897,,,,,,,,,,,,6
+Unification Theological Seminary,,,,,,,,,,,,,,2
+Athens Technical College,,0.2988,,,,,,,,,,,,5
+GateWay Community College-Central City,,0.395,,,,,,,,,,,,6
+Headmasters School of Hair Design,,0.3333,,,,,,,,,,,,7
+The Salon Professional Academy-Nampa,,0.3944,,,,,,,,,,,,7
+Beckfield College-Florence,,0.6155,,,,,,,0.8675,,,,1050.0,5
+Dorsey School of Business-Wayne,,0.6464,,,,,,,,,,,,3
+Ecumenical Theological Seminary,,0.8333,,,,,,,,,,,,3
+Ross Medical Education Center-Saginaw,,0.5517,,,,,,,,,,,,3
+Sussex County Community College,,0.2364,,,,,,,,,,,,2
+Landmark College,,0.0737,,,,,,,0.4702,,,,,1
+Yeshiva Gedolah of Greater Detroit,,,,,,,,,0.92,,,,,3
+Collin County Community College District,,0.2017,,,,,,,,,,,,6
+Owensboro Community and Technical College,,0.278,,,,,,,,,,,,5
+Jenny Lea Academy of Cosmetology,,0.4138,,,,,,,,,,,,5
+Cloyd's Beauty School 1 Inc,,0.4286,,,,,,,,,,,,5
+Moore Norman Technology Center,,0.0477,,,,,,,,,,,,6
+Franklin County Career and Technology Center,,0.5313,,,,,,,0.4737,,,,,2
+Paul Mitchell the School-Knoxville,,0.4326,,,,,,,,,,,,5
+Ogle School Hair Skin Nails-Hurst,,0.4083,,,,,,,,,,,,6
+Tennessee College of Applied Technology Nashville,,0.4061,,,,,,,,,,,,5
+ECPI University,,0.673,,,,,,,0.7381,,,,,5
+Paul Mitchell the School-Houston,,0.4354,,,,,,,,,,,,6
+Fortis Institute-Forty Fort,,0.5357,,,,,,,,,,,,2
+Laurel Business Institute,,0.3583,,,,,,,0.9145,,,,,2
+Aviation Institute of Maintenance-Philadelphia,,0.5812,,,,,,,,,,,,2
+Dorsey School of Business-Roseville,,0.6265,,,,,,,,,,,,3
+Moler-Pickens Beauty Academy,,0.3867,,,,,,,,,,,,3
+Red River Technology Center,,0.0595,,,,,,,,,,,,6
+Southern Union State Community College,,0.1856,,,,,,,,,,,,5
+University of South Carolina-Columbia,,0.0431,,,,,,,0.6865,640.0,635.0,,1289.0,5
+Clinton Technical School,,0.4118,,,,,,,,,,,,4
+Greene County Career and Technology Center,,0.5,,,,,,,1.0,,,,,2
+Lac Courte Oreilles Ojibwe College,,0.6962,,,,,,,,,,,,3
+Diesel Driving Academy-Shreveport,,0.6748,,,,,,,,,,,,5
+Pima Medical Institute-Mesa,,0.5993,,,,,,,,,,,,6
+Platt College-Los Angeles,,0.5254,,,,,,,,,,,,8
+Platt College-Aurora,,0.7056,,,,,,,0.125,,,,,7
+Paul Mitchell the School-Boise,,0.4039,,,,,,,,,,,,7
+Educators of Beauty College of Cosmetology-Rockford,,0.2549,,,,,,,,,,,,3
+Northwestern College,,0.5841,,,,,,,1.0,,,,,3
+Aveda Institute-Chicago,,0.4074,,,,,,,,,,,,3
+Ross Medical Education Center-Brighton,,0.5345,,,,,,,,,,,,3
+Ross Medical Education Center-Ann Arbor,,0.3966,,,,,,,,,,,,3
+Taylortown School of Beauty Inc,,0.5575,,,,,,,,,,,,3
+Pike-Lincoln Technical Center,,0.6471,,,,,,,,,,,,4
+West Virginia Junior College-United Career Institute,,0.3718,,,,,,,,,,,,2
+Bethel Seminary-San Diego,,,,,,,,,,,,,,8
+CUNY Stella and Charles Guttman Community College,,0.0186,,,,,,,,,,,,2
+Brandman University,,0.8959,,,,,,,0.8929,,,,,8
+New College of Florida,,0.0299,,,,,,,0.7308,660.0,610.0,,1286.0,5
+Montana Bible College,,,,,,,,,0.4737,545.0,535.0,,1063.0,7
+Conservatory of Recording Arts and Sciences,,0.2182,,,,,,,,,,,,6
+Adrian's College of Beauty Turlock,,0.3444,,,,,,,,,,,,8
+California Career School,,0.4512,,,,,,,,,,,,8
+Dr. Ida Rolf Institute,,0.9375,,,,,,,,,,,,7
+Sunstate Academy,,0.5968,,,,,,,,,,,,5
+Elizabeth Grady School of Esthetics and Massage Therapy,,0.5556,,,,,,,,,,,,1
+Ross Medical Education Center-Port Huron,,0.3415,,,,,,,,,,,,3
+Capri Institute of Hair Design-Clifton,,0.7154,,,,,,,,,,,,2
+Raphael's School of Beauty Culture Inc-Alliance,,0.4375,,,,,,,,,,,,3
+Metro Technology Centers,,0.1642,,,,,,,,,,,,6
+Hussian College-Daymar College Bowling Green,,0.7293,,,,,,,0.9438,,,,,5
+Luna Community College,,0.4401,,,,,,,,,,,,6
+Grabber School of Hair Design,,0.4787,,,,,,,,,,,,4
+Yeshivah Gedolah Rabbinical College,,0.0333,,,,,,,,,,,,5
+University of the District of Columbia-David A Clarke School of Law,,,,,,,,,,,,,,2
+Raphael's School of Beauty Culture Inc-Brunswick,,0.4912,,,,,,,,,,,,3
+Caribbean University-Ponce,,0.4342,,,,,,,,,,,,9
+Caribbean University-Vega Baja,,0.2639,,,,,,,,,,,,9
+University of Advancing Technology,,0.3276,,,,,,,0.8743,,,,,6
+Paradise Valley Community College,,0.3376,,,,,,,,,,,,6
+Chandler-Gilbert Community College,,0.1774,,,,,,,,,,,,6
+Great Plains Technology Center,,0.3107,,,,,,,,,,,,6
+Roane-Jackson Technical Center,,0.3571,,,,,,,,,,,,5
+Pioneer Technology Center,,0.1339,,,,,,,,,,,,6
+Portage Lakes Career Center,,0.5844,,,,,,,,,,,,3
+Eastern College of Health Vocations-New Orleans,,0.3393,,,,,,,,,,,,5
+Bell Mar Beauty College,,0.7126,,,,,,,,,,,,3
+Caddo Kiowa Technology Center,,0.0929,,,,,,,,,,,,6
+Palomar Institute of Cosmetology,,0.3617,,,,,,,,,,,,8
+Southern Oklahoma Technology Center,,0.0673,,,,,,,,,,,,6
+Autry Technology Center,,0.1267,,,,,,,,,,,,6
+Greene County Vocational School District,,0.2222,,,,,,,,,,,,3
+Canadian Valley Technology Center,,0.0566,,,,,,,,,,,,6
+Wilkes-Barre Area Career and Technical Center Practical Nursing,,0.6438,,,,,,,0.4974,,,,,2
+Meridian Technology Center,,0.0903,,,,,,,,,,,,6
+Waynesville Career Center,,0.5,,,,,,,,,,,,4
+Capitol School of Hairstyling and Esthetics,,0.1329,,,,,,,,,,,,4
+Morris County Vocational School District,,0.5952,,,,,,,1.0,,,,,2
+Ross Medical Education Center-Roosevelt Park,,0.4531,,,,,,,,,,,,3
+Ross Medical Education Center-Kentwood,,0.3964,,,,,,,,,,,,3
+South Florida Bible College and Theological Seminary,,0.7838,,,,,,,,,,,,5
+Cloyd's Barber School 2 Inc,,0.5938,,,,,,,,,,,,5
+Universal Technical Institute of Illinois Inc,,0.1248,,,,,,,,,,,,3
+Pennsylvania College of Technology,,0.1824,,,,,,,,,,,,2
+Commonwealth Institute of Funeral Service,,0.6573,,,,,,,,,,,,6
+InterCoast Colleges-Santa Ana,,0.7611,,,,,,,,,,,,8
+Stone Child College,,0.5472,,,,,,,,,,,,7
+American Academy of Dramatic Arts-New York,,0.1413,,,,,,,0.8404,,,,,2
+Suffolk County Community College,,0.1755,,,,,,,,,,,,2
+Las Positas College,,0.3192,,,,,,,,,,,,8
+Blades School of Hair Design,,0.2333,,,,,,,,,,,,2
+Ogeechee Technical College,,0.3256,,,,,,,,,,,,5
+Remington College-Mobile Campus,,0.5392,,,,,,,,,,,,5
+Southern Regional Technical College,,0.2628,,,,,,,,,,,,5
+Mercy-St Luke's School of Radiologic Technology,,0.1739,,,,,,,,,,,,4
+Southwest Acupuncture College-Santa Fe,,,,,,,,,,,,,,6
+Northwest Technology Center-Alva,,0.0208,,,,,,,,,,,,6
+Mercer County Career Center,,0.8636,,,,,,,,,,,,2
+California State University-San Marcos,,0.2049,,,,,,,0.6167,525.0,520.0,,1043.0,8
+Hairmasters Institute of Cosmetology,,0.3,,,,,,,,,,,,3
+Tricoci University of Beauty Cuture LLC-Bloomington,,0.3218,,,,,,,,,,,,3
+Interactive College of Technology-Newport,,0.806,,,,,,,,,,,,5
+Platt College-McCann-Monroe,,0.7049,,,,,,,,,,,,5
+Ross Medical Education Center-Taylor,,0.4459,,,,,,,,,,,,3
+National Tractor Trailer School Inc-Liverpool,,0.8506,,,,,,,,,,,,2
+Interactive College of Technology-Chamblee,,0.7887,,,,,,,,,,,,5
+Butler Beauty Academy-New Castle Beauty Academy,,0.3684,,,,,,,,,,,,2
+NorthWest Arkansas Community College,,0.2348,,,,,,,,,,,,5
+Brewster Technical College,,0.4933,,,,,,,,,,,,5
+Hodges University,,0.759,,,,,,,0.6121,,,,,5
+University of St. Augustine for Health Sciences,,,,,,,,,,,,,,8
+Capital Area School of Practical Nursing,,0.6378,,,,,,,,,,,,3
+Hair Professionals Career College,,0.5116,,,,,,,,,,,,3
+Empire Beauty School-Bloomfield,,0.4043,,,,,,,,,,,,2
+Southwest Technology Center,,0.1792,,,,,,,,,,,,6
+Hussian College-Daymar College Clarksville,,0.7204,,,,,,,,,,,,5
+Nossi College of Art,,0.2945,,,,,,,0.5022,,,,,5
+Seguin Beauty School-New Braunfels,,0.2174,,,,,,,,,,,,6
+Pima Medical Institute-Seattle,,0.643,,,,,,,,,,,,8
+Mineral County Vocational Technical Center,,0.4444,,,,,,,,,,,,5
+Hypnosis Motivation Institute,,0.9836,,,,,,,,,,,,8
+Thanh Le College School of Cosmetology,,0.9375,,,,,,,,,,,,8
+Southeastern Technical College,,0.2845,,,,,,,,,,,,5
+Massachusetts School of Law,,,,,,,,,,,,,,1
+Alliance Career Center,,0.4545,,,,,,,,,,,,3
+Erwin Technical College,,0.4969,,,,,,,,,,,,5
+Rosel School of Cosmetology,,0.8143,,,,,,,,,,,,3
+Worsham College of Mortuary Science,,0.5339,,,,,,,,,,,,3
+Bryan University,,0.8413,,,,,,,,,,,,6
+Oregon College of Oriental Medicine,,,,,,,,,,,,,,8
+Central Pennsylvania Institute of Science and Technology,,0.2875,,,,,,,0.8977,,,,,2
+Northwest Educational Center,,0.2805,,,,,,,,,,,,6
+Sebring Career Schools-Houston,,0.8864,,,,,,,,,,,,6
+PCI Health Training Center,,0.3357,,,,,,,,,,,,6
+Hamrick School,,0.8762,,,,,,,,,,,,3
+Fortis College,,0.3571,,,,,,,,,,,,5
+Downey Adult School,,0.5383,,,,,,,,,,,,8
+CRU Institute of Cosmetology and Barbering,,0.5538,,,,,,,,,,,,8
+Modern Technology School,,0.5789,,,,,,,,,,,,8
+National Career Education,,0.5273,,,,,,,,,,,,8
+North-West College-Glendale,,0.4156,,,,,,,,,,,,8
+Fremont College,,0.712,,,,,,,,,,,,8
+Pomona Unified School District Adult and Career Education,,0.529,,,,,,,,,,,,8
+Universal College of Beauty Inc-Los Angeles 2,,0.5185,,,,,,,,,,,,8
+IBMC College,,0.3137,,,,,,,,,,,,7
+Avalon School of Cosmetology-Aurora,,0.4231,,,,,,,,,,,,7
+Elite Cosmetology Barber & Spa Academy,,0.567,,,,,,,,,,,,8
+Sunstate Academy,,0.5968,,,,,,,,,,,,5
+Fortis College-Smyrna,,0.4881,,,,,,,,,,,,5
+Ross College-Quad Cities,,0.5926,,,,,,,,,,,,4
+Pivot Point Academy,,0.2278,,,,,,,,,,,,3
+Blalock's Professional Beauty College,,0.4,,,,,,,,,,,,5
+Diesel Driving Academy-Baton Rouge,,0.743,,,,,,,,,,,,5
+New England Hair Academy,,0.5405,,,,,,,,,,,,1
+Rob Roy Academy-Worcester,,0.575,,,,,,,,,,,,1
+Upper Cape Cod Regional Technical School,,0.7471,,,,,,,0.6087,,,,,1
+All-State Career-Baltimore,,0.6108,,,,,,,,,,,,2
+Adler Graduate School,,,,,,,,,,,,,,4
+Academy of Hair Design-Jackson,,0.5323,,,,,,,,,,,,5
+KC's School of Hair Design,,0.1364,,,,,,,,,,,,5
+Lincoln Technical Institute-Moorestown,,0.5494,,,,,,,,,,,,2
+MCVSD,,0.4615,,,,,,,,,,,,2
+Continental School of Beauty Culture-Olean,,0.5625,,,,,,,,,,,,2
+National Tractor Trailer School Inc-Buffalo,,0.7714,,,,,,,,,,,,2
+Yeshiva Gedolah Imrei Yosef D'spinka,,0.1288,,,,,,,,,,,,2
+Knox County Career Center,,0.633,,,,,,,,,,,,3
+Madison Adult Career Center,,0.7282,,,,,,,,,,,,3
+Remington College-Cleveland Campus,,0.6495,,,,,,,,,,,,3
+Toledo Academy of Beauty Culture-East,,0.5952,,,,,,,,,,,,3
+U S Grant Joint Vocational School,,0.5,,,,,,,,,,,,3
+Chisholm Trail Technology Center,,0.0327,,,,,,,,,,,,6
+Gordon Cooper Technology Center,,0.0801,,,,,,,,,,,,6
+Kiamichi Technology Center-McAlester,,0.3713,,,,,,,,,,,,6
+YTI Career Institute-Altoona,,0.3636,,,,,,,,,,,,2
+Eastern Center for Arts and Technology,,0.8026,,,,,,,0.9167,,,,,2
+Empire Beauty School-Center City Philadelphia,,0.4191,,,,,,,,,,,,2
+CEM College-Humacao,,0.3088,,,,,,,,,,,,9
+Colegio Mayor de Tecnologia Inc,,0.1912,,,,,,,,,,,,9
+Institucion Chaviano de Mayaguez,,0.4789,,,,,,,,,,,,9
+Liceo de Arte-Dise-O y Comercio,,0.5055,,,,,,,,,,,,9
+Universal Technology College of Puerto Rico,,0.4553,,,,,,,,,,,,9
+Academy of Hair Technology,,0.6211,,,,,,,,,,,,5
+Mr Wayne's School of Unisex Hair Design,,0.1852,,,,,,,,,,,,5
+Queen City College,,0.6154,,,,,,,,,,,,5
+College of the Marshall Islands,,0.1838,,,,,,,,,,,,9
+Remington College-Fort Worth Campus,,0.5918,,,,,,,,,,,,6
+Nuvani Institute,,0.2857,,,,,,,,,,,,6
+Nuvani Institute,,0.2857,,,,,,,,,,,,6
+Texas College of Cosmetology-Abilene,,0.2329,,,,,,,,,,,,6
+Centura College-Newport News,,0.6648,,,,,,,,,,,,5
+Centura College-Norfolk,,0.4303,,,,,,,,,,,,5
+Virginia Beach City Public Schools School of Practical Nursing,,0.3167,,,,,,,,,,,,5
+University of Washington-Bothell Campus,,0.1761,,,,,,,0.7414,560.0,580.0,,1147.0,8
+University of Washington-Tacoma Campus,,0.2528,,,,,,,0.8731,545.0,540.0,,1081.0,8
+Huntington School of Beauty Culture,,0.299,,,,,,,,,,,,5
+Valley College-Beckley,,0.4444,,,,,,,,,,,,5
+Valley College-Martinsburg,,0.6234,,,,,,,,,,,,5
+Bellus Academy-Poway,,0.4274,,,,,,,,,,,,8
+Capstone College,,0.678,,,,,,,,,,,,8

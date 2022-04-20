@@ -1,0 +1,965 @@
+School,avg_cost_public,avg_cost_private,faculy_salary,ft_faculty_rate,federal_loan_rate,student_count,students_with_any_loan,students_with_pell_grant,married,veteran,grad_students,undergrads_non_degree_seeking,full_program_cost,avg_month_completion,three_yrs_after_not_working_not_enrolled,three_yrs_after_working_not_enrolled,booksupply_cost,test_requirements,ten_yrs_after_entry_earnings,completion_rate
+Yeshivah Gedolah Rabbinical College,,10383.0,5009.0,,0.0,,,,,,,,,,,,,,47975.5,0.5845
+University of the District of Columbia-David A Clarke School of Law,,,14885.0,0.9615,,,,,,,253.0,,,,,,,,,0.5845
+Raphael's School of Beauty Culture Inc-Brunswick,,11136.0,,,0.552,,,,,,,,12450.0,7.0,,,,,27754.0,0.5845
+Caribbean University-Ponce,,2745.0,2493.0,0.198,0.4396,,,,,,178.0,,,,,,1272.0,,47975.5,0.5845
+Caribbean University-Vega Baja,,4073.0,2100.0,0.2083,0.2157,,,,,,9.0,,,,,,1272.0,,47975.5,0.5845
+University of Advancing Technology,,21440.0,5486.0,0.4407,0.6233,,,,,,38.0,,,,,,0.0,2.0,47975.5,0.5845
+Paradise Valley Community College,9239.0,,9275.0,1.0,0.0895,,,,,,,2068.0,,,,,1464.0,,27754.0,0.5845
+Chandler-Gilbert Community College,9926.0,,9093.0,1.0,0.0802,,,,,,,6352.0,,,,,1464.0,,27754.0,0.5845
+Great Plains Technology Center,10217.0,,,,0.0,,,,,,,,4491.0,12.0,,,,,27754.0,0.5845
+Roane-Jackson Technical Center,4458.0,,,,0.0,,,,,,,,6210.0,12.0,,,,,27754.0,0.5845
+Pioneer Technology Center,9710.0,,,,0.0,,,,,,,322.0,4628.0,14.0,,,,,27754.0,0.5845
+Portage Lakes Career Center,17084.0,,,,0.5785,,,,,,,,13995.0,10.0,,,,,27754.0,0.5845
+Eastern College of Health Vocations-New Orleans,,13605.0,,,0.7785,,,,,,,,10700.0,10.0,,,,,27754.0,0.5845
+Bell Mar Beauty College,,6757.0,,,0.0,,,,,,,,11300.0,13.0,,,,,27754.0,0.5845
+Caddo Kiowa Technology Center,4048.0,,,,0.0,,,,,,,297.0,4500.0,14.0,,,,,27754.0,0.5845
+Palomar Institute of Cosmetology,,15541.0,,,0.4355,,,,,,,,21950.0,12.0,,,,,27754.0,0.5845
+Southern Oklahoma Technology Center,4411.0,,,,0.0,,,,,,,544.0,5868.0,20.0,,,,,27754.0,0.5845
+Autry Technology Center,,,,,0.0,,,,,,,371.0,2233.0,10.0,,,,,27754.0,0.5845
+Greene County Vocational School District,11254.0,,,,0.5294,,,,,,,,5796.0,6.0,,,,,27754.0,0.5845
+Canadian Valley Technology Center,6425.0,,,,0.0,,,,,,,875.0,4716.0,19.0,,,,,27754.0,0.5845
+Wilkes-Barre Area Career and Technical Center Practical Nursing,16014.0,,,,0.9524,,,,,,,,21600.0,13.0,,,,3.0,27754.0,0.5845
+Meridian Technology Center,,,,,0.0,,,,,,,752.0,2891.0,9.0,,,,,27754.0,0.5845
+Waynesville Career Center,26452.0,,,,0.5588,,,,,,,,15500.0,12.0,,,,,27754.0,0.5845
+Capitol School of Hairstyling and Esthetics,,12809.0,,,0.4732,,,,,,,,19945.0,13.0,,,,,27754.0,0.5845
+Morris County Vocational School District,14096.0,,,,0.4265,,,,,,,,12079.0,11.0,,,,3.0,27754.0,0.5845
+Ross Medical Education Center-Roosevelt Park,,18987.0,,,0.6412,,,,,,,,15990.0,8.0,,,,,27754.0,0.5845
+Ross Medical Education Center-Kentwood,,19920.0,,,0.6498,,,,,,,,15990.0,8.0,,,,,27754.0,0.5845
+South Florida Bible College and Theological Seminary,,,3379.0,0.3091,0.28,,,,,,88.0,9.0,,,,,600.0,,47975.5,0.5845
+Cloyd's Barber School 2 Inc,,2590.0,,,0.0,,,,,,,,8475.0,15.0,,,,,27754.0,0.5845
+Universal Technical Institute of Illinois Inc,,19326.0,,,0.6567,,,,,,,,46815.0,19.0,,,,,27754.0,0.5845
+Pennsylvania College of Technology,25794.0,,9782.0,0.6396,0.6759,,,,,,,48.0,,,,,1549.0,,36066.0,0.5845
+Commonwealth Institute of Funeral Service,,26767.0,5330.0,,0.4439,,,,,,,,,,,,,,36066.0,0.5845
+InterCoast Colleges-Santa Ana,,23908.0,5413.0,0.5,0.883,,,,,,,,22550.0,13.0,,,,,27754.0,0.5845
+Stone Child College,3506.0,,4993.0,0.3214,0.0,,,,,,,120.0,,,,,1300.0,,36066.0,0.5845
+American Academy of Dramatic Arts-New York,,47801.0,7230.0,0.3448,0.6111,,,,,,,,,,,,570.0,3.0,36066.0,0.5845
+Suffolk County Community College,5533.0,,10665.0,0.3471,0.1099,,,,,,,6368.0,,,,,1500.0,,36066.0,0.5845
+Las Positas College,3307.0,,9608.0,0.3448,0.0032,,,,,,,856.0,,,,,1971.0,,36066.0,0.5845
+Blades School of Hair Design,,14331.0,,,0.8762,,,,,,,,19800.0,13.0,,,,,27754.0,0.5845
+Ogeechee Technical College,391.0,,4586.0,,0.0,,,,,,,337.0,,,,,724.0,,27754.0,0.5845
+Remington College-Mobile Campus,,20110.0,2723.0,,0.6957,,,,,,,,,,,,0.0,,27754.0,0.5845
+Southern Regional Technical College,-884.0,,4681.0,1.0,0.0,,,,,,,2007.0,,,,,1150.0,,27754.0,0.5845
+Mercy-St Luke's School of Radiologic Technology,,,,,0.4091,,,,,,,,,,,,,,27754.0,0.5845
+Southwest Acupuncture College-Santa Fe,,,,,,,,,,,29.0,,,,,,,,,0.5845
+Northwest Technology Center-Alva,,,,,0.0,,,,,,,221.0,2625.0,9.0,,,,,27754.0,0.5845
+Mercer County Career Center,10271.0,,,,0.7143,,,,,,,,17380.0,12.0,,,,,27754.0,0.5845
+California State University-San Marcos,13399.0,,10090.0,0.4717,0.333,,,,,,1216.0,72.0,,,,,2000.0,1.0,47975.5,0.5845
+Hairmasters Institute of Cosmetology,,8066.0,,,0.7479,,,,,,,,16850.0,13.0,,,,,27754.0,0.5845
+Tricoci University of Beauty Cuture LLC-Bloomington,,13650.0,,,0.7609,,,,,,,,19920.0,13.0,,,,,27754.0,0.5845
+Interactive College of Technology-Newport,,14489.0,4036.0,,0.8,,,,,,,,,,,,1800.0,,27754.0,0.5845
+Platt College-McCann-Monroe,,23707.0,3331.0,0.2857,0.7782,,,,,,,,33640.0,18.0,,,,,36066.0,0.5845
+Ross Medical Education Center-Taylor,,18810.0,,,0.7465,,,,,,,,15990.0,8.0,,,,,27754.0,0.5845
+National Tractor Trailer School Inc-Liverpool,,19558.0,,,0.768,,,,,,,,10373.0,5.0,,,,,27754.0,0.5845
+Interactive College of Technology-Chamblee,,14413.0,3516.0,0.2381,0.6301,,,,,,,,,,,,1800.0,,27754.0,0.5845
+Butler Beauty Academy-New Castle Beauty Academy,,10846.0,,,0.4706,,,,,,,,15700.0,15.0,,,,,27754.0,0.5845
+NorthWest Arkansas Community College,6574.0,,6181.0,0.3212,0.1471,,,,,,,2281.0,,,,,1200.0,,36066.0,0.5845
+Brewster Technical College,8276.0,,,,0.0,,,,,,,,2862.0,6.0,,,,,27754.0,0.5845
+Hodges University,,21577.0,6364.0,0.223,0.6213,,,,,,143.0,2.0,,,,,1000.0,2.0,47975.5,0.5845
+University of St. Augustine for Health Sciences,,,8008.0,0.2413,,,,,,,4353.0,,,,,,,,,0.5845
+Capital Area School of Practical Nursing,,,,,0.8723,,,,,,,,14317.0,9.0,,,,,27754.0,0.5845
+Hair Professionals Career College,,13495.0,,,0.5472,,,,,,,,20350.0,13.0,,,,,27754.0,0.5845
+Empire Beauty School-Bloomfield,,15490.0,,,0.5028,,,,,,,,19070.0,9.0,,,,,27754.0,0.5845
+Southwest Technology Center,7670.0,,,,0.0,,,,,,,,3896.0,10.0,,,,,27754.0,0.5845
+Hussian College-Daymar College Clarksville,,20650.0,4018.0,0.1961,0.745,,,,,,,,,,,,,,36066.0,0.5845
+Nossi College of Art,,21995.0,5833.0,0.0952,0.703,,,,,,,,,,,,700.0,2.0,47975.5,0.5845
+Seguin Beauty School-New Braunfels,,17377.0,,,0.2195,,,,,,,,16850.0,13.0,,,,,27754.0,0.5845
+Pima Medical Institute-Seattle,,25955.0,6060.0,0.3378,0.2837,,,,,,,,15660.0,9.0,,,,,27754.0,0.5845
+Mineral County Vocational Technical Center,2592.0,,,,0.0,,,,,,,,6111.0,11.0,,,,3.0,27754.0,0.5845
+Hypnosis Motivation Institute,,37254.0,,,0.7786,,,,,,,,16127.0,13.0,,,,,27754.0,0.5845
+Thanh Le College School of Cosmetology,,23418.0,,,0.0,,,,,,,,11975.0,18.0,,,,,27754.0,0.5845
+Southeastern Technical College,2556.0,,4738.0,0.5547,0.0,,,,,,,692.0,,,,,2100.0,,27754.0,0.5845
+Massachusetts School of Law,,,12730.0,0.3696,,,,,,,283.0,,,,,,,,,0.5845
+Alliance Career Center,9163.0,,,,0.8678,,,,,,,,14603.0,12.0,,,,,27754.0,0.5845
+Erwin Technical College,10845.0,,,,0.0,,,,,,,,5470.0,14.0,,,,,27754.0,0.5845
+Rosel School of Cosmetology,,5238.0,,,0.0,,,,,,,,12900.0,15.0,,,,,27754.0,0.5845
+Worsham College of Mortuary Science,,,4583.0,,0.7158,,,,,,,,,,,,1200.0,,36066.0,0.5845
+Bryan University,,17472.0,5128.0,0.1446,0.684,,,,,,,,,,,,,,36066.0,0.5845
+Oregon College of Oriental Medicine,,,6857.0,0.0909,,,,,,,229.0,,,,,,,,,0.5845
+Central Pennsylvania Institute of Science and Technology,10891.0,,5735.0,1.0,0.4639,,,,,,,,16280.0,12.0,,,,3.0,27754.0,0.5845
+Northwest Educational Center,,8279.0,,,0.0,,,,,,,,8500.0,8.0,,,,,27754.0,0.5845
+Sebring Career Schools-Houston,,12193.0,,,0.006,,,,,,,,10310.0,13.0,,,,,27754.0,0.5845
+PCI Health Training Center,,18422.0,,,0.8197,,,,,,,,15105.0,9.0,,,,,27754.0,0.5845
+Hamrick School,,,,,0.4373,,,,,,,,5495.0,2.0,,,,,27754.0,0.5845
+Fortis College,,17636.0,,,0.6884,,,,,,,,15789.0,9.0,,,,,27754.0,0.5845
+Downey Adult School,8593.0,,,,0.0,,,,,,,,5570.0,5.0,,,,,27754.0,0.5845
+CRU Institute of Cosmetology and Barbering,,16708.0,,,0.4867,,,,,,,,19800.0,12.0,,,,,27754.0,0.5845
+Modern Technology School,,19741.0,,,0.4632,,,,,,,,34483.0,19.0,,,,,27754.0,0.5845
+National Career Education,,27150.0,4683.0,0.3226,0.4745,,,,,,,,14955.0,11.0,,,,,27754.0,0.5845
+North-West College-Glendale,,24843.0,,,0.7664,,,,,,,,16315.0,10.0,,,,,27754.0,0.5845
+Fremont College,,22551.0,5565.0,0.0789,0.8127,,,,,,,,37795.0,15.0,,,,,36066.0,0.5845
+Pomona Unified School District Adult and Career Education,6287.0,,,,0.0,,,,,,,24.0,11208.0,14.0,,,,,27754.0,0.5845
+Universal College of Beauty Inc-Los Angeles 2,,14082.0,,,0.0,,,,,,,,17045.0,14.0,,,,,27754.0,0.5845
+IBMC College,,23127.0,4121.0,0.2639,0.8988,,,,,,,,,,,,0.0,,27754.0,0.5845
+Avalon School of Cosmetology-Aurora,,11872.0,,,0.575,,,,,,,,18360.0,11.0,,,,,27754.0,0.5845
+Elite Cosmetology Barber & Spa Academy,,16934.0,,,0.3886,,,,,,,,15482.0,14.0,,,,,27754.0,0.5845
+Sunstate Academy,,30052.0,,,0.5655,,,,,,,,18350.0,13.0,,,,,27754.0,0.5845
+Fortis College-Smyrna,,19205.0,4701.0,0.1639,0.6061,,,,,,,,,,,,1016.0,,27754.0,0.5845
+Ross College-Quad Cities,,19590.0,2344.0,,0.7064,,,,,,,,15990.0,8.0,,,,,27754.0,0.5845
+Pivot Point Academy,,12332.0,,,0.507,,,,,,,,22399.0,11.0,,,,,27754.0,0.5845
+Blalock's Professional Beauty College,,15708.0,,,1.0,,,,,,,,16189.0,13.0,,,,,27754.0,0.5845
+Diesel Driving Academy-Baton Rouge,,13590.0,,,0.5028,,,,,,,,10900.0,5.0,,,,,27754.0,0.5845
+New England Hair Academy,,18560.0,,,0.0,,,,,,,,14390.0,7.0,,,,,27754.0,0.5845
+Rob Roy Academy-Worcester,,22072.0,,,0.4432,,,,,,,,16217.0,9.0,,,,,27754.0,0.5845
+Upper Cape Cod Regional Technical School,21230.0,,,,0.7717,,,,,,,,11900.0,10.0,,,,3.0,27754.0,0.5845
+All-State Career-Baltimore,,14813.0,,,0.6494,,,,,,,,10945.0,6.0,,,,,27754.0,0.5845
+Adler Graduate School,,,5798.0,0.3036,,,,,,,309.0,,,,,,,,,0.5845
+Academy of Hair Design-Jackson,,17095.0,,,0.7763,,,,,,,,15350.0,12.0,,,,,27754.0,0.5845
+KC's School of Hair Design,,12564.0,,,0.6032,,,,,,,,14500.0,13.0,,,,,27754.0,0.5845
+Lincoln Technical Institute-Moorestown,,25844.0,,,0.8641,,,,,,,,29207.0,13.0,,,,,27754.0,0.5845
+MCVSD,23091.0,,,,0.1852,,,,,,,,10500.0,11.0,,,,,27754.0,0.5845
+Continental School of Beauty Culture-Olean,,25198.0,,,0.7627,,,,,,,,15990.0,8.0,,,,,27754.0,0.5845
+National Tractor Trailer School Inc-Buffalo,,18789.0,,,0.5862,,,,,,,,10373.0,5.0,,,,,27754.0,0.5845
+Yeshiva Gedolah Imrei Yosef D'spinka,,7217.0,5369.0,,0.0,,,,,,,,,,,,200.0,,47975.5,0.5845
+Knox County Career Center,16879.0,,,,0.2958,,,,,,,,17897.0,13.0,,,,,27754.0,0.5845
+Madison Adult Career Center,16383.0,,,,0.2139,,,,,,,,7796.0,15.0,,,,,27754.0,0.5845
+Remington College-Cleveland Campus,,20027.0,2842.0,,0.6867,,,,,,,,,,,,0.0,,27754.0,0.5845
+Toledo Academy of Beauty Culture-East,,8018.0,,,0.3137,,,,,,,,8500.0,5.0,,,,,27754.0,0.5845
+U S Grant Joint Vocational School,,,,,0.0,,,,,,,,850.0,1.0,,,,,27754.0,0.5845
+Chisholm Trail Technology Center,1546.0,,,,0.0,,,,,,,166.0,2070.0,9.0,,,,,27754.0,0.5845
+Gordon Cooper Technology Center,3731.0,,,,0.0,,,,,,,683.0,5982.0,18.0,,,,,27754.0,0.5845
+Kiamichi Technology Center-McAlester,7780.0,,,,0.0,,,,,,,,2500.0,9.0,,,,,27754.0,0.5845
+YTI Career Institute-Altoona,,,5667.0,,0.9048,,,,,,,,28672.0,21.0,,,,,36066.0,0.5845
+Eastern Center for Arts and Technology,21707.0,,,,0.61,,,,,,,,16250.0,11.0,,,,3.0,27754.0,0.5845
+Empire Beauty School-Center City Philadelphia,,16376.0,,,0.6149,,,,,,,,19750.0,9.0,,,,,27754.0,0.5845
+CEM College-Humacao,,7373.0,2700.0,0.0606,0.2672,,,,,,,,,,,,974.0,,47975.5,0.5845
+Colegio Mayor de Tecnologia Inc,,11735.0,,,0.0,,,,,,,,12829.0,17.0,,,,,27754.0,0.5845
+Institucion Chaviano de Mayaguez,,5392.0,,,0.0,,,,,,,,6695.0,8.0,,,,,27754.0,0.5845
+Liceo de Arte-Dise-O y Comercio,,,,,0.0,,,,,,,,,,,,250.0,,27754.0,0.5845
+Universal Technology College of Puerto Rico,,5535.0,1778.0,0.2537,0.0,,,,,,,,21820.0,38.0,,,,,27754.0,0.5845
+Academy of Hair Technology,,14888.0,,,0.3254,,,,,,,,14800.0,13.0,,,,,27754.0,0.5845
+Mr Wayne's School of Unisex Hair Design,,14874.0,,,0.5106,,,,,,,,17000.0,12.0,,,,,27754.0,0.5845
+Queen City College,,6197.0,,,0.3698,,,,,,,,15000.0,13.0,,,,,27754.0,0.5845
+College of the Marshall Islands,3152.0,,2224.0,0.6706,0.0,,,,,,,,,,,,600.0,,36066.0,0.5845
+Remington College-Fort Worth Campus,,21204.0,2999.0,,0.604,,,,,,,,,,,,0.0,,27754.0,0.5845
+Nuvani Institute,,11188.0,,,0.9,,,,,,,,14970.0,13.0,,,,,27754.0,0.5845
+Nuvani Institute,,11188.0,,,0.9,,,,,,,,14970.0,13.0,,,,,27754.0,0.5845
+Texas College of Cosmetology-Abilene,,10951.0,,,0.0,,,,,,,,11450.0,12.0,,,,,27754.0,0.5845
+Centura College-Newport News,,24889.0,4526.0,,0.5873,,,,,,,,,,,,3975.0,,36066.0,0.5845
+Centura College-Norfolk,,22427.0,5230.0,,0.7349,,,,,,,,,,,,3975.0,,27754.0,0.5845
+Virginia Beach City Public Schools School of Practical Nursing,2150.0,,,,0.0,,,,,,,28.0,5692.0,18.0,,,,,27754.0,0.5845
+University of Washington-Bothell Campus,11060.0,,11241.0,0.6391,0.2677,,,,,,563.0,18.0,,,,,900.0,1.0,47975.5,0.5845
+University of Washington-Tacoma Campus,10817.0,,10457.0,0.7771,0.3757,,,,,,741.0,23.0,,,,,900.0,1.0,47975.5,0.5845
+Huntington School of Beauty Culture,,8078.0,,,0.0,,,,,,,,11801.0,13.0,,,,,27754.0,0.5845
+Valley College-Beckley,,17668.0,,,0.7569,,,,,,,,16753.0,10.0,,,,,27754.0,0.5845
+Valley College-Martinsburg,,22393.0,4680.0,0.25,0.6782,,,,,,,,16753.0,10.0,,,,,27754.0,0.5845
+Bellus Academy-Poway,,26675.0,,,0.4974,,,,,,,,15456.0,8.0,,,,,27754.0,0.5845
+Capstone College,,14314.0,,,0.8132,,,,,,,,14700.0,8.0,,,,,27754.0,0.5845
+Central Coast College,,20647.0,5654.0,0.2105,0.2908,,,,,,,,16714.0,12.0,,,,,27754.0,0.5845
+Pacific College of Oriental Medicine-New York,,28032.0,5723.0,0.0879,0.4255,,,,,,426.0,48.0,,,,,1682.0,,36066.0,0.5845
+Artistic Nails and Beauty Academy-Tampa,,9755.0,,,0.4908,,,,,,,,10169.0,5.0,,,,,27754.0,0.5845
+National Aviation Academy of Tampa Bay,,26887.0,,,0.7111,,,,,,,,38500.0,14.0,,,,,27754.0,0.5845
+Madison Oneida BOCES-Practical Nursing Program,19580.0,,,,0.8611,,,,,,,,13701.0,12.0,,,,3.0,27754.0,0.5845
+Center for Advanced Legal Studies,,15625.0,4769.0,,0.5668,,,,,,,,9300.0,8.0,,,,,27754.0,0.5845
+Houston Training School-Main Campus,,4524.0,,,0.0,,,,,,,,12850.0,13.0,,,,,27754.0,0.5845
+Bay Mills Community College,7833.0,,5127.0,0.2239,0.0,,,,,,,48.0,,,,,700.0,,27754.0,0.5845
+Fond du Lac Tribal and Community College,9399.0,,7809.0,0.3077,0.1635,,,,,,,1131.0,,,,,1200.0,,36066.0,0.5845
+Northwest Indian College,8578.0,,4824.0,0.3333,0.0,,,,,,,71.0,,,,,1032.0,,36066.0,0.5845
+AmeriTech College-Provo,,20067.0,,,0.75,,,,,,,,15609.0,11.0,,,,3.0,27754.0,0.5845
+Paul Mitchell the School-Provo,,12264.0,,,0.522,,,,,,,,18000.0,13.0,,,,,27754.0,0.5845
+CET-Coachella,,4963.0,,,0.2692,,,,,,,,14249.0,8.0,,,,,27754.0,0.5845
+CET-Oxnard,,12315.0,,,0.2673,,,,,,,,14249.0,8.0,,,,,27754.0,0.5845
+CET-Santa Maria,,10491.0,,,0.2326,,,,,,,,14249.0,8.0,,,,,27754.0,0.5845
+Colorado School of Traditional Chinese Medicine,,,,,,,,,,,95.0,,,,,,,,,0.5845
+Michigan College of Beauty-Troy,,15672.0,,,0.6606,,,,,,,,19800.0,13.0,,,,,27754.0,0.5845
+Ogle School Hair Skin Nails-Dallas,,17271.0,,,0.5921,,,,,,,,19910.0,12.0,,,,,27754.0,0.5845
+Phoenix Seminary,,,5049.0,0.75,,,,,,,266.0,,,,,,,,,0.5845
+Cheeks Beauty Academy,,7857.0,,,0.75,,,,,,,,18200.0,13.0,,,,,27754.0,0.5845
+Colorado School of Healing Arts,,36961.0,,,0.1842,,,,,,,,,,,,1397.0,,27754.0,0.5845
+Mt. Diablo Adult Education-Mt. Diablo USD,15824.0,,,,0.0,,,,,,,,6698.0,11.0,,,,,27754.0,0.5845
+Greater Lowell Technical School,20341.0,,,,0.4375,,,,,,,,8650.0,10.0,,,,3.0,27754.0,0.5845
+Academy of Hair Design-Pearl,,18334.0,,,0.6575,,,,,,,,15350.0,12.0,,,,,27754.0,0.5845
+Genesis Career College-Lebanon,,14529.0,,,0.7324,,,,,,,,18923.0,13.0,,,,,27754.0,0.5845
+Southwest Collegiate Institute for the Deaf,947.0,,5456.0,1.0,0.0805,,,,,,,,,,,,1655.0,,27754.0,0.5845
+Midwest College of Oriental Medicine-Racine,,,5167.0,,0.6667,,,,,,47.0,,,,,,,,27754.0,0.5845
+Hacienda La Puente Adult Education,3294.0,,6914.0,0.6591,0.0,,,,,,,,4650.0,14.0,,,,,27754.0,0.5845
+La Belle Beauty Academy,,17321.0,,,0.1169,,,,,,,,16395.0,12.0,,,,,27754.0,0.5845
+Hawaii Community College,11430.0,,8226.0,0.5934,0.0623,,,,,,,638.0,,,,,1058.0,,36066.0,0.5845
+Robert Fiance Beauty Schools-North Plainfield,,28479.0,,,0.3538,,,,,,,,21025.0,10.0,,,,,27754.0,0.5845
+Long Island Beauty School-Hauppauge,,26542.0,,,0.3077,,,,,,,,14200.0,9.0,,,,,27754.0,0.5845
+Buckeye Joint Vocational School,5897.0,,,,0.0,,,,,,,,8375.0,9.0,,,,,27754.0,0.5845
+Sandusky Career Center,,,,,0.8165,,,,,,,,18072.0,11.0,,,,,27754.0,0.5845
+Central Texas Beauty College-Temple,,7886.0,,,0.0,,,,,,,,10300.0,12.0,,,,,27754.0,0.5845
+Erie 2 Chautauqua Cattaraugus BOCES-Practical Nursing Program,13735.0,,,,0.7831,,,,,,,,11196.0,13.0,,,,3.0,27754.0,0.5845
+Empire Beauty School-Brooklyn,,16588.0,,,0.5631,,,,,,,,15500.0,7.0,,,,,27754.0,0.5845
+Eastern New Mexico University Ruidoso Branch Community College,5441.0,,6158.0,0.2258,0.086,,,,,,,334.0,,,,,950.0,,36066.0,0.5845
+United Education Institute-Ontario,,26003.0,,,0.777,,,,,,,,19900.0,9.0,,,,,27754.0,0.5845
+United Education Institute-Encino,,25470.0,,,0.7463,,,,,,,,19900.0,9.0,,,,,27754.0,0.5845
+Beacon College,,43600.0,5122.0,0.9487,0.1075,,,,,,,,,,,,1000.0,3.0,47975.5,0.5845
+Acupuncture and Integrative Medicine College-Berkeley,,,,,,,,,,,93.0,,,,,,,,,0.5845
+Estrella Mountain Community College,9200.0,,9090.0,1.0,0.1285,,,,,,,2227.0,,,,,1464.0,,36066.0,0.5845
+Heartland Community College,9703.0,,7400.0,0.301,0.1371,,,,,,,1569.0,,,,,900.0,,36066.0,0.5845
+University of the Potomac-Washington DC Campus,,28402.0,2292.0,1.0,0.1029,,,,,,53.0,,,,,,1200.0,,47975.5,0.5845
+Rabbi Jacob Joseph School,,7733.0,2917.0,,0.0,,,,,,,,,,,,200.0,3.0,47975.5,0.5845
+The Salon Professional Academy-Melbourne,,17608.0,,,0.6471,,,,,,,,15983.0,9.0,,,,,27754.0,0.5845
+Albert Einstein College of Medicine,,,,,,,,,,,962.0,,,,,,,,,0.5845
+Fortis Institute-Scranton,,36781.0,4886.0,,0.769,,,,,,,,,,,,1347.0,,36066.0,0.5845
+Milan Institute of Cosmetology,,22685.0,,,0.4123,,,,,,,,18318.0,13.0,,,,,27754.0,0.5845
+Everglades University,,30841.0,2783.0,0.2043,0.6455,,,,,,347.0,,,,,,2000.0,2.0,47975.5,0.5845
+Seminar L'moros Bais Yaakov,,15158.0,5374.0,0.2045,0.0,,,,,,,,,,,,100.0,3.0,27754.0,0.5845
+Herzing University-Orlando,,24150.0,6367.0,0.3958,0.8641,,,,,,3.0,1.0,,,,,,2.0,36066.0,0.5845
+Cortiva Institute-Pompano,,22175.0,,,0.8362,,,,,,,,12371.0,8.0,,,,,27754.0,0.5845
+College of Biblical Studies-Houston,,5657.0,5288.0,0.4366,0.4813,,,,,,,,,,,,975.0,,47975.5,0.5845
+Mid-EastCTC-Adult Education,18791.0,,,,0.7094,,,,,,,,12356.0,10.0,,,,,27754.0,0.5845
+Polaris Career Center,6565.0,,,,0.569,,,,,,,,9795.0,5.0,,,,,27754.0,0.5845
+Sharps Academy of Hair Styling,,,,,0.4324,,,,,,,,13972.0,13.0,,,,,27754.0,0.5845
+The College of Health Care Professions-Northwest,,28401.0,5315.0,0.3385,0.6975,,,,,,,,17000.0,9.0,,,,,27754.0,0.5845
+School of Professional Horticulture New York Botanical Garden,,28780.0,,,0.25,,,,,,,,,,,,3000.0,3.0,27754.0,0.5845
+Fortis College,,17636.0,,,0.6884,,,,,,,,15789.0,9.0,,,,,27754.0,0.5845
+Alhambra Beauty College,,16555.0,,,0.0,,,,,,,,11371.0,13.0,,,,,27754.0,0.5845
+UEI College-Gardena,,25541.0,,,0.7575,,,,,,,,19900.0,9.0,,,,,27754.0,0.5845
+Asian-American International Beauty College,,,,,0.0,,,,,,,,950.0,4.0,,,,,27754.0,0.5845
+Copper Mountain Community College,5578.0,,9300.0,0.2977,0.0549,,,,,,,122.0,,,,,1971.0,,36066.0,0.5845
+Diversified Vocational College,,21754.0,,,0.2584,,,,,,,,17000.0,8.0,,,,,27754.0,0.5845
+UEI College-Fresno,,29285.0,,,0.7718,,,,,,,,19900.0,9.0,,,,,27754.0,0.5845
+Santiago Canyon College,2543.0,,11005.0,0.2601,0.0076,,,,,,,988.0,,,,,1942.0,,27754.0,0.5845
+Southern California Institute of Technology,,27143.0,6076.0,0.2973,0.6563,,,,,,,,,,,,1500.0,,27754.0,0.5845
+Soka University of America,,13914.0,12391.0,0.6786,0.3879,,,,,,13.0,,,,,,1970.0,1.0,47975.5,0.5845
+Clarks Summit University,,16313.0,4293.0,1.0,0.4906,,,,,,235.0,,,,,,1000.0,2.0,47975.5,0.5845
+Advance Beauty College,,,,,0.0,,,,,,,,1700.0,3.0,,,,,27754.0,0.5845
+Los Angeles Pacific University,,19232.0,7416.0,0.0769,0.7344,,,,,,334.0,56.0,,,,,1200.0,,47975.5,0.5845
+World Mission University,,18723.0,3913.0,0.7273,0.0,,,,,,231.0,,,,,,600.0,,47975.5,0.5845
+Yo San University of Traditional Chinese Medicine,,,4341.0,,,,,,,,142.0,,,,,,,,,0.5845
+Cosmetology Concepts Niles,,3719.0,,,0.0741,,,,,,,,10900.0,12.0,,,,,27754.0,0.5845
+Delta College Inc,,20435.0,,,0.7736,,,,,,,,29774.0,15.0,,,,,27754.0,0.5845
+Tri-State Cosmetology Institute,,10933.0,,,0.6039,,,,,,,,15900.0,13.0,,,,,27754.0,0.5845
+American Institute of Interior Design,,19078.0,,,0.3922,,,,,,,,12475.0,7.0,,,,,27754.0,0.5845
+Brookline College-Tempe,,35025.0,4265.0,0.5,0.7766,,,,,,,,28500.0,9.0,,,,,27754.0,0.5845
+Inter American University of Puerto Rico-School of Optometry,,,6870.0,1.0,,,,,,,221.0,,,,,,,,,0.5845
+Schiller International University,,14632.0,,,0.4898,,,,,,3.0,,,,,,,,47975.5,0.5845
+Coconino Community College,13835.0,,7451.0,0.2632,0.0933,,,,,,,971.0,,,,,1280.0,,36066.0,0.5845
+Emma's Beauty Academy-Juana Diaz,,1970.0,,,0.0,,,,,,,,9778.0,14.0,,,,,27754.0,0.5845
+Brillare Beauty Institute,,18519.0,,,0.6875,,,,,,,,17175.0,15.0,,,,,27754.0,0.5845
+Columbia Central University-Yauco,,2623.0,2306.0,0.25,0.0,,,,,,,,,,,,862.0,,36066.0,0.5845
+Pima Medical Institute-Denver,,23097.0,5817.0,0.5714,0.2908,,,,,,,,15113.0,9.0,,,,,27754.0,0.5845
+ASA College,,26454.0,2348.0,0.3869,0.4647,,,,,,,9.0,,,,,1500.0,,36066.0,0.5845
+Ohio State School of Cosmetology-Heath,,14173.0,,,0.6289,,,,,,,,22800.0,16.0,,,,,27754.0,0.5845
+Yeshivas Novominsk,,8246.0,5139.0,1.0,0.0,,,,,,,,,,,,200.0,3.0,47975.5,0.5845
+Southern Careers Institute-Corpus Christi,,26393.0,,0.5455,0.717,,,,,,,,16800.0,9.0,,,,,27754.0,0.5845
+Rabbinical College of Ohr Shimon Yisroel,,20919.0,1988.0,,0.0,,,,,,,,,,,,300.0,,47975.5,0.5845
+Carroll Community College,3880.0,,6116.0,0.3616,0.0708,,,,,,,798.0,,,,,1500.0,,36066.0,0.5845
+Galen College of Nursing-Tampa Bay,,26220.0,5720.0,0.6906,0.8582,,,,,,,,43760.0,24.0,,,,,36066.0,0.5845
+Galen College of Nursing-San Antonio,,,5376.0,0.5497,0.8248,,,,,,,,32370.0,18.0,,,,,36066.0,0.5845
+Sarasota School of Massage Therapy,,22559.0,,,0.9225,,,,,,,,13675.0,8.0,,,,,27754.0,0.5845
+Schuyler Steuben Chemung Tioga Allegany BOCES,18718.0,,,,0.7435,,,,,,,,13095.0,11.0,,,,,27754.0,0.5845
+Delaware Chenango Madison Otsego BOCES-Practical Nursing Program,29431.0,,,,0.8235,,,,,,,,12500.0,10.0,,,,,27754.0,0.5845
+Central Susquehanna Intermediate Unit LPN Career,8186.0,,,,0.5424,,,,,,,,20540.0,12.0,,,,3.0,27754.0,0.5845
+Myotherapy College of Utah,,21659.0,,,0.6587,,,,,,,,13324.0,8.0,,,,,27754.0,0.5845
+City College-Gainesville,,21734.0,4045.0,0.1154,0.8737,,,,,,,,,,,,1231.0,,36066.0,0.5845
+Arizona State University-West,8101.0,,9457.0,0.7679,0.4295,,,,,,328.0,61.0,,,,,1171.0,1.0,47975.5,0.5845
+Ace Cosmetology and Barber Training Center,,12419.0,,,1.0,,,,,,,,21000.0,13.0,,,,,27754.0,0.5845
+Stage One-The Hair School,,10374.0,,,0.5424,,,,,,,,18000.0,12.0,,,,,27754.0,0.5845
+Empire Beauty School-Malden,,16695.0,,,0.6,,,,,,,,16350.0,7.0,,,,,27754.0,0.5845
+Xenon International Academy-Omaha,,10504.0,,,0.6515,,,,,,,,19587.0,14.0,,,,,27754.0,0.5845
+Capri Institute of Hair Design-Brick,,15274.0,,,0.3391,,,,,,,,15365.0,12.0,,,,,27754.0,0.5845
+Capri Institute of Hair Design-Kenilworth,,,,,0.4378,,,,,,,,15365.0,12.0,,,,,27754.0,0.5845
+Capri Institute of Hair Design-Paramus,,13863.0,,,0.359,,,,,,,,15365.0,12.0,,,,,27754.0,0.5845
+Orlo School of Hair Design and Cosmetology,,13124.0,,,0.8072,,,,,,,,15000.0,9.0,,,,,27754.0,0.5845
+Eastland-Fairfield Career and Technical Schools,15389.0,,,,0.655,,,,,,,,10775.0,9.0,,,,,27754.0,0.5845
+Empire Beauty School-Cincinnati,,15983.0,,,0.5138,,,,,,,,22010.0,11.0,,,,,27754.0,0.5845
+Mahoning County Career and Technical Center,14407.0,,,,0.2013,,,,,,,,10998.0,10.0,,,,,27754.0,0.5845
+Pickaway Ross Joint Vocational School District,,,,,0.2775,,,,,,,,737.0,1.0,,,,,27754.0,0.5845
+Pioneer Career and Technology Center,,,,,0.0,,,,,,,,6148.0,9.0,,,,,27754.0,0.5845
+Raphael's School of Beauty Culture Inc-Boardman,,13302.0,,,0.5491,,,,,,,,20380.0,18.0,,,,,27754.0,0.5845
+Scioto County Career Technical Center,19339.0,,,,0.6107,,,,,,,,12976.0,12.0,,,,,27754.0,0.5845
+Life Pacific University,,20865.0,6382.0,0.2632,0.6906,,,,,,93.0,8.0,,,,,1971.0,1.0,47975.5,0.5845
+Lake Erie College of Osteopathic Medicine,,,9780.0,0.4934,1.0,,,,,,4215.0,,,,,,,,27754.0,0.5845
+Highlights Beauty Schools,,14236.0,,,0.5585,,,,,,,,19960.0,14.0,,,,,27754.0,0.5845
+Empire Beauty School-Green Bay,,13415.0,,,0.7101,,,,,,,,19382.0,11.0,,,,,27754.0,0.5845
+Warren County Career Center,,,,,0.3904,,,,,,,,1475.0,4.0,,,,,27754.0,0.5845
+Paul Mitchell the School-Wichita,,16105.0,,,0.6667,,,,,,,,19075.0,11.0,,,,,27754.0,0.5845
+Pinnacle Institute of Cosmetology,,18851.0,,,0.7429,,,,,,,,19850.0,13.0,,,,,27754.0,0.5845
+Southern Careers Institute-Pharr,,26889.0,,0.5517,0.6926,,,,,,,,16800.0,9.0,,,,,27754.0,0.5845
+Laurel Technical Institute,,5996.0,3357.0,0.5161,0.7798,,,,,,,,,,,,1113.0,3.0,27754.0,0.5845
+Florida National University-Main Campus,,20586.0,4360.0,0.5561,0.6941,,,,,,273.0,679.0,,,,,1500.0,,36066.0,0.5845
+Georgia Institute of Cosmetology,,15361.0,,,0.757,,,,,,,,24395.0,15.0,,,,,27754.0,0.5845
+Nouvelle Institute,,14622.0,,,0.0,,,,,,,,12675.0,15.0,,,,,27754.0,0.5845
+Franklin Technology Center Adult Education,30585.0,,,,0.5821,,,,,,,,14854.0,10.0,,,,,27754.0,0.5845
+Professional Technical Institution,,7366.0,,,0.0,,,,,,,,11600.0,11.0,,,,,27754.0,0.5845
+Erikson Institute,,,8570.0,1.0,,,,,,,421.0,,,,,,,,,0.5845
+South Texas College,1174.0,,6655.0,0.5762,0.0,,,,,,,13756.0,,,,,1200.0,,36066.0,0.5845
+Pike County Joint Vocational School District,,,,,0.0,,,,,,,,1750.0,5.0,,,,,27754.0,0.5845
+Lorain County Joint Vocational School District,,,,,0.1168,,,,,,,,1094.0,2.0,,,,,27754.0,0.5845
+Roger Williams University School of Law,,,14453.0,0.3929,,,,,,,487.0,,,,,,,,,0.5845
+California State University-Monterey Bay,12212.0,,9751.0,0.485,0.4021,,,,,,861.0,174.0,,,,,1854.0,1.0,47975.5,0.5845
+Ohio Media School-Valley View,,24460.0,,,0.8296,,,,,,,,18100.0,8.0,,,,3.0,27754.0,0.5845
+EINE Inc,,27780.0,,,0.3051,,,,,,,,15790.0,12.0,,,,,27754.0,0.5845
+Marian Health Careers Center-Los Angeles Campus,,21834.0,,,0.5158,,,,,,,,22750.0,18.0,,,,,27754.0,0.5845
+Cleveland Clinic Health System-School of Diagnostic Imaging,,,,,0.525,,,,,,,,,,,,,,27754.0,0.5845
+Academy for Nursing and Health Occupations,,25501.0,6630.0,0.6154,0.3658,,,,,,,,43073.0,24.0,,,,,27754.0,0.5845
+Shawsheen Valley School of Practical Nursing,24993.0,,,,0.6923,,,,,,,,13797.0,10.0,,,,,27754.0,0.5845
+Shear Ego International School of Hair Design,,24402.0,,,0.4032,,,,,,,,14900.0,8.0,,,,,27754.0,0.5845
+Remington College-Memphis Campus,,20741.0,2749.0,,0.6478,,,,,,,,,,,,0.0,,27754.0,0.5845
+Fayette Institute of Technology,4484.0,,,,0.0,,,,,,,,7686.0,12.0,,,,,27754.0,0.5845
+Capella University,,17619.0,7103.0,0.1408,0.6103,,,,,,27356.0,8.0,,,,,432.0,,47975.5,0.5845
+College of Menominee Nation,,6469.0,4389.0,0.32,0.0,,,,,,,15.0,,,,,760.0,,36066.0,0.5845
+Leech Lake Tribal College,8536.0,,3657.0,1.0,0.0,,,,,,,11.0,,,,,600.0,,36066.0,0.5845
+Stone Academy-Waterbury,,16782.0,,,0.571,,,,,,,,34225.0,16.0,,,,,27754.0,0.5845
+Yukon Beauty College Inc,,10391.0,,,0.5,,,,,,,,15350.0,11.0,,,,,27754.0,0.5845
+United Education Institute-Morrow,,31283.0,,,0.8141,,,,,,,,19900.0,9.0,,,,,27754.0,0.5845
+Mitchells Academy,,10115.0,,,0.5,,,,,,,,17150.0,13.0,,,,,27754.0,0.5845
+Artistic Academy of Hair Design,,15751.0,,,0.3945,,,,,,,,18230.0,10.0,,,,,27754.0,0.5845
+Motoring Technical Training Institute,,19091.0,,,0.6816,,,,,,,,18250.0,8.0,,,,3.0,27754.0,0.5845
+Ranken Technical College,,15933.0,5353.0,0.5976,0.6669,,,,,,,7.0,,,,,2500.0,,36066.0,0.5845
+Baldwin Beauty School-North Austin,,13025.0,,,0.2658,,,,,,,,15800.0,13.0,,,,,27754.0,0.5845
+Jean Madeline Aveda Institute,,16153.0,,,0.5743,,,,,,,,20080.0,10.0,,,,,27754.0,0.5845
+Pacific College of Oriental Medicine-New York,,28032.0,5723.0,0.0879,0.4255,,,,,,426.0,48.0,,,,,1682.0,,36066.0,0.5845
+Tricoci University of Beauty Culture-Indianapolis,,14723.0,,,0.3424,,,,,,,,21954.0,13.0,,,,,27754.0,0.5845
+Trine University-Regional/Non-Traditional Campuses,,,8567.0,0.4516,0.4851,,,,,,468.0,2.0,,,,,900.0,3.0,47975.5,0.5845
+Pennsylvania Highlands Community College,7583.0,,4900.0,0.26,0.2111,,,,,,,1741.0,,,,,2000.0,,36066.0,0.5845
+Nevada Career Institute,,28349.0,4050.0,,0.6812,,,,,,,,16315.0,11.0,,,,,27754.0,0.5845
+Phillips Theological Seminary,,,7351.0,1.0,,,,,,,160.0,,,,,,,,,0.5845
+Empire Beauty School-Hanover Park,,16314.0,,,0.4026,,,,,,,,22010.0,11.0,,,,,27754.0,0.5845
+Industrial Management Training Institute,,25201.0,,,0.8,,,,,,,,21585.0,19.0,,,,,27754.0,0.5845
+Allen School-Jamaica,,24334.0,,,0.891,,,,,,,,17134.0,9.0,,,,,27754.0,0.5845
+Premiere Career College,,22143.0,,,0.9375,,,,,,,,32590.0,15.0,,,,,27754.0,0.5845
+The University of Texas MD Anderson Cancer Center,,,11443.0,1.0,0.3287,,,,,,25.0,,,,,,,,47975.5,0.5845
+Paul Mitchell the School-Huntsville,,14507.0,,,0.6695,,,,,,,,19500.0,11.0,,,,,27754.0,0.5845
+Estes Institute of Cosmetology Arts and Science,,8910.0,,,0.3263,,,,,,,,18800.0,12.0,,,,,27754.0,0.5845
+Ventura Adult and Continuing Education,12613.0,,,,0.3242,,,,,,,,6965.0,7.0,,,,,27754.0,0.5845
+Lewis University,,18664.0,9240.0,0.4261,0.5684,,,,,,2085.0,149.0,,,,,1500.0,1.0,47975.5,0.5845
+Stratford School for Aviation Maintenance Technicians,10126.0,,,,0.0,,,,,,,,8400.0,22.0,,,,,27754.0,0.5845
+City College-Altamonte Springs,,17435.0,4620.0,0.1613,0.9226,,,,,,,,,,,,1208.0,,36066.0,0.5845
+Career Center of Southern Illinois,18235.0,,,,0.6566,,,,,,,,16105.0,12.0,,,,,27754.0,0.5845
+Crave Beauty Academy,,15903.0,,,0.5978,,,,,,,,18633.0,11.0,,,,,27754.0,0.5845
+Hastings Beauty School,,15378.0,,,0.7576,,,,,,,,18220.0,12.0,,,,,27754.0,0.5845
+Kirksville Area Technical Center,6294.0,,,,0.3455,,,,,,,,11750.0,12.0,,,,3.0,27754.0,0.5845
+South Central Career Center,11108.0,,,,0.531,,,,,,,,14450.0,12.0,,,,,27754.0,0.5845
+Saline County Career Center,13835.0,,,,0.8261,,,,,,,,15029.0,12.0,,,,3.0,27754.0,0.5845
+Warrensburg Area Career Center,13511.0,,,,0.6452,,,,,,,,15873.0,11.0,,,,3.0,27754.0,0.5845
+Cass Career Center,18309.0,,,,0.72,,,,,,,,14713.0,11.0,,,,3.0,27754.0,0.5845
+Applied Technology Services,20077.0,,,,0.7331,,,,,,,,19300.0,13.0,,,,3.0,27754.0,0.5845
+Central College of Cosmetology,,4658.0,,,0.0,,,,,,,,10300.0,13.0,,,,,27754.0,0.5845
+Southeast Missouri Hospital College of Nursing and Health Sciences,,22395.0,6372.0,0.7576,0.7543,,,,,,,3.0,,,,,1053.0,5.0,36066.0,0.5845
+Messenger College,,17349.0,2708.0,,0.8889,,,,,,,,,,,,1000.0,2.0,47975.5,0.5845
+Union County Vocational Technical School,11013.0,,,,0.0435,,,,,,,,5940.0,12.0,,,,,27754.0,0.5845
+Prism Career Institute-Philadelphia,,27419.0,,,0.4891,,,,,,,,28418.0,15.0,,,,,27754.0,0.5845
+Clinton Essex Warren Washington BOCES,13460.0,,,,0.5072,,,,,,,,12509.0,10.0,,,,3.0,27754.0,0.5845
+Jefferson Lewis BOCES-Practical Nursing Program,16363.0,,,,0.7353,,,,,,,,,,,,,,27754.0,0.5845
+Veeb Nassau County School of Practical Nursing,31528.0,,,,0.8213,,,,,,,,,,,,0.0,3.0,27754.0,0.5845
+Cattaraugus Allegany BOCES-Practical Nursing Program,,,,,0.9464,,,,,,,,18800.0,21.0,,,,,27754.0,0.5845
+Orange Ulster BOCES-Practical Nursing Program,20098.0,,,,0.8902,,,,,,,,14950.0,10.0,,,,3.0,27754.0,0.5845
+Wayne Finger Lakes BOCES-Practical Nursing Program,21874.0,,,,0.8446,,,,,,,,17350.0,11.0,,,,,27754.0,0.5845
+Broome Delaware Tioga BOCES-Practical Nursing Program,14337.0,,,,0.8939,,,,,,,,12000.0,10.0,,,,3.0,27754.0,0.5845
+Washington Saratoga Warren Hamilton Essex BOCES-Practical Nursing Program,25759.0,,,,0.7778,,,,,,,,17550.0,9.0,,,,3.0,27754.0,0.5845
+Albany BOCES-Adult Practical Nursing Program,20709.0,,,,0.7682,,,,,,,,17235.0,12.0,,,,,27754.0,0.5845
+Eastern Suffolk BOCES,15515.0,,,,0.434,,,,,,,,16594.0,11.0,,,,3.0,27754.0,0.5845
+Rockland County BOCES-Practical Nursing Program,27962.0,,,,0.8545,,,,,,,,16215.0,10.0,,,,,27754.0,0.5845
+New York College of Health Professions,,41668.0,5275.0,0.1364,0.7853,,,,,,78.0,,,,,,2025.0,,36066.0,0.5845
+Charles Stuart School of Diamond Setting,,23736.0,,,0.0149,,,,,,,,16000.0,11.0,,,,,27754.0,0.5845
+Penta County Joint Vocational School,9375.0,,,,0.0,,,,,,,,6120.0,10.0,,,,,27754.0,0.5845
+Career and Technology Education Centers of Licking County,,,,,0.1801,,,,,,,6.0,842.0,1.0,,,,,27754.0,0.5845
+Northern Career Institute,13072.0,,,,0.5773,,,,,,,,,,,,1300.0,,27754.0,0.5845
+Washington County Career Center-Adult Technical Training,8810.0,,,,0.0,,,,,,,8.0,6261.0,9.0,,,,,27754.0,0.5845
+Ohio Media School-Cincinnati,,24474.0,,,0.7007,,,,,,,,17360.0,8.0,,,,3.0,27754.0,0.5845
+Vantage Career Center,,,,,0.1124,,,,,,,,825.0,1.0,,,,,27754.0,0.5845
+Indian Capital Technology Center-Muskogee,2645.0,,,,0.0,,,,,,,,5813.0,12.0,,,,,27754.0,0.5845
+Western Area Career & Technology Center,7940.0,,,,0.8148,,,,,,,,17765.0,13.0,,,,3.0,27754.0,0.5845
+Mid-America Technology Center,619.0,,,,0.0,,,,,,,,4000.0,11.0,,,,,27754.0,0.5845
+Northeast Technology Center-Pryor,1818.0,,,,0.0,,,,,,,330.0,2675.0,12.0,,,,,27754.0,0.5845
+Eastern Oklahoma County Technology Center,5063.0,,,,0.0,,,,,,,479.0,5096.0,6.0,,,,,27754.0,0.5845
+Wes Watkins Technology Center,2735.0,,,,0.0,,,,,,,,2638.0,5.0,,,,,27754.0,0.5845
+Chester County Intermediate Unit,21829.0,,,,0.7718,,,,,,,,23856.0,12.0,,,,3.0,27754.0,0.5845
+Jefferson County Dubois Area Vocational Technical Practical Nursing Program,14024.0,,,,0.8205,,,,,,,,16000.0,12.0,,,,3.0,27754.0,0.5845
+Greater Johnstown Career and Technology Center,12216.0,,,,0.5,,,,,,,,18550.0,12.0,,,,,27754.0,0.5845
+Mifflin County Academy of Science and Technology,17561.0,,,,0.9,,,,,,,,14749.0,12.0,,,,3.0,27754.0,0.5845
+Lenape Technical School Practical Nursing Program,16589.0,,,,0.5873,,,,,,,,17044.0,12.0,,,,,27754.0,0.5845
+Venango County Area Vocational Technical School,15255.0,,,,0.8657,,,,,,,,17051.0,12.0,,,,3.0,27754.0,0.5845
+Lancaster County Career and Technology Center,10295.0,,6487.0,,0.8383,,,,,,,,15970.0,13.0,,,,,27754.0,0.5845
+Lebanon County Area Vocational Technical School,19539.0,,,,0.7536,,,,,,,,14295.0,11.0,,,,,27754.0,0.5845
+Indiana County Technology Center,12166.0,,,,0.6111,,,,,,,,20990.0,12.0,,,,,27754.0,0.5845
+Northern Tier Career Center,12672.0,,,,0.5,,,,,,,,15874.0,13.0,,,,2.0,27754.0,0.5845
+Hazleton Area Career Center,13257.0,,,,0.7333,,,,,,,,19395.0,13.0,,,,,27754.0,0.5845
+All-State Career School-Pittsburgh,,14898.0,,,0.4103,,,,,,,,11260.0,6.0,,,,,27754.0,0.5845
+Quality Technical and Beauty College,,6697.0,,,0.0,,,,,,,,8535.0,15.0,,,,,27754.0,0.5845
+D'Mart Institute,,10712.0,,,0.0,,,,,,,,10725.0,14.0,,,,,27754.0,0.5845
+Automeca Technical College-Aguadilla,,3099.0,,,0.1576,,,,,,,,,,,,300.0,,27754.0,0.5845
+North Central Institute,,19438.0,3813.0,,0.0444,,,,,,,,18326.0,17.0,,,,,27754.0,0.5845
+Pipo Academy of Hair Design,,5466.0,,,0.0,,,,,,,,10525.0,13.0,,,,,27754.0,0.5845
+Tint School of Makeup and Cosmetology-Dallas,,11641.0,,,0.6387,,,,,,,,17150.0,12.0,,,,,27754.0,0.5845
+United Technical Center,3680.0,,,,0.0,,,,,,,,,,,,3083.0,3.0,27754.0,0.5845
+Charles H McCann Technical School,8042.0,,,,0.0,,,,,,,,5425.0,10.0,,,,,27754.0,0.5845
+Central California School of Continuing Education,,18692.0,,,0.8558,,,,,,,,,,,,500.0,,27754.0,0.5845
+Mercy Hospital School of Practical Nursing-Plantation General Hospital,,6225.0,,,0.0,,,,,,,,9080.0,12.0,,,,3.0,27754.0,0.5845
+Marion Technical College,6137.0,,6011.0,1.0,0.1371,,,,,,,970.0,,,,,900.0,,36066.0,0.5845
+Rivertown School of Beauty Barber Skin Care and Nails,,13537.0,,,0.7473,,,,,,,,18900.0,12.0,,,,,27754.0,0.5845
+Atlanta Institute of Music and Media,,17839.0,4450.0,1.0,0.64,,,,,,,,37990.0,17.0,,,,,27754.0,0.5845
+Illinois Media School,,25176.0,,,0.7711,,,,,,,,17715.0,8.0,,,,3.0,27754.0,0.5845
+New Dimensions School of Hair Design,,7874.0,,,0.5625,,,,,,,,12401.0,10.0,,,,,27754.0,0.5845
+Forbes Road Career and Technology Center,,,,,0.0,,,,,,,,3235.0,9.0,,,,,27754.0,0.5845
+Jna Institute of Culinary Arts,,17753.0,3184.0,,0.8611,,,,,,,,,,,,1890.0,,36066.0,0.5845
+Putnam Career and Technical Center,-525.0,,,,0.0,,,,,,,,6584.0,12.0,,,,,27754.0,0.5845
+Crawford County Career and Technical Center Practical Nursing Program,17954.0,,,,0.907,,,,,,,,18050.0,14.0,,,,,27754.0,0.5845
+Texas College of Cosmetology-San Angelo,,10670.0,,,0.0,,,,,,,,11450.0,13.0,,,,,27754.0,0.5845
+Automeca Technical College-Bayamon,,3634.0,,,0.2308,,,,,,,,,,,,300.0,,27754.0,0.5845
+Automeca Technical College-Caguas,,3253.0,,,0.2296,,,,,,,,,,,,300.0,,27754.0,0.5845
+Automeca Technical College-Ponce,,2771.0,,,0.217,,,,,,,,,,,,300.0,,27754.0,0.5845
+Centura College-Chesapeake,,21988.0,5065.0,,0.6879,,,,,,,,,,,,3975.0,,36066.0,0.5845
+University of Phoenix-Hawaii,,,,0.0364,0.3419,,,,,,9.0,,,,,,1360.0,,47975.5,0.5845
+Prism Career Institute-Cherry Hill,,29341.0,,,0.3607,,,,,,,,28858.0,15.0,,,,,27754.0,0.5845
+Escuela de Peritos Electricistas de Isabela Inc,,6626.0,,,0.0667,,,,,,,,8938.0,13.0,,,,,27754.0,0.5845
+Yeshiva D'monsey Rabbinical College,,4125.0,2917.0,,0.0,,,,,,5.0,,,,,,200.0,3.0,47975.5,0.5845
+Lincoln Technical Institute-Mahwah,,21399.0,,,0.7029,,,,,,,,26756.0,13.0,,,,,27754.0,0.5845
+Pinnacle Career Institute-South Kansas City,,14692.0,4142.0,1.0,0.4025,,,,,,,,19980.0,10.0,,,,,27754.0,0.5845
+Northwest Vista College,5413.0,,6837.0,0.3783,0.0481,,,,,,,4164.0,,,,,1674.0,,36066.0,0.5845
+Oconee Fall Line Technical College,6067.0,,4739.0,,0.0,,,,,,,402.0,,,,,763.0,,27754.0,0.5845
+York County Community College,8359.0,,6544.0,0.1532,0.1507,,,,,,,605.0,,,,,1400.0,,36066.0,0.5845
+Northeast Technology Center-Afton,7187.0,,,,0.0,,,,,,,204.0,2675.0,13.0,,,,,27754.0,0.5845
+Western Suffolk BOCES,20645.0,,,,0.3101,,,,,,,,47050.0,25.0,,,,,27754.0,0.5845
+Arkansas State University-Mountain Home,10259.0,,5246.0,0.506,0.197,,,,,,,386.0,,,,,1600.0,,27754.0,0.5845
+Columbia Gorge Community College,9080.0,,6523.0,0.2561,0.1333,,,,,,,135.0,,,,,1200.0,,36066.0,0.5845
+Arizona State University-Polytechnic,10013.0,,9078.0,0.5879,0.41,,,,,,632.0,5.0,,,,,1171.0,1.0,47975.5,0.5845
+Bakke Graduate University,,,,,,,,,,,81.0,,,,,,,,,0.5845
+Tillamook Bay Community College,5443.0,,6265.0,0.2083,0.0742,,,,,,,272.0,,,,,1146.0,,36066.0,0.5845
+Manhattan School of Computer Technology,,9966.0,,,0.0102,,,,,,,,4114.0,8.0,,,,,27754.0,0.5845
+Ross College-Hopkinsville,,20183.0,2068.0,,0.5588,,,,,,,,15990.0,8.0,,,,,27754.0,0.5845
+Paul Mitchell the School-St. George,,9031.0,,,0.0447,,,,,,,,14378.0,11.0,,,,,27754.0,0.5845
+Cadillac Institute of Cosmetology,,276.0,,,0.0,,,,,,,,10674.0,15.0,,,,,27754.0,0.5845
+Vanguard-Sentinel Adult Career and Technology Center,21204.0,,,,0.0,,,,,,,,7035.0,13.0,,,,,27754.0,0.5845
+House of Heavilin Beauty College-Raymore,,20561.0,,,0.7021,,,,,,,,18925.0,12.0,,,,,27754.0,0.5845
+Living Arts College,,25110.0,3653.0,0.5556,0.6872,,,,,,,,,,,,,3.0,27754.0,0.5845
+New York Conservatory for Dramatic Arts,,37168.0,4389.0,0.087,0.6965,,,,,,,,,,,,250.0,2.0,36066.0,0.5845
+Eastern International College-Jersey City,,20294.0,5528.0,0.6444,0.7065,,,,,,,,,,,,1200.0,,36066.0,0.5845
+Academia Serrant Inc,,6081.0,,,0.0,,,,,,,,8603.0,9.0,,,,,27754.0,0.5845
+Pacific College of Oriental Medicine-New York,,28032.0,5723.0,0.0879,0.4255,,,,,,426.0,48.0,,,,,1682.0,,36066.0,0.5845
+American College of Healthcare and Technology,,17783.0,,,0.7604,,,,,,,,16545.0,9.0,,,,,27754.0,0.5845
+Compu-Med Vocational Careers Corp,,11550.0,,,0.0,,,,,,,,7850.0,11.0,,,,,27754.0,0.5845
+Advantage Technical College,,8117.0,,,0.0,,,,,,,,8750.0,13.0,,,,,27754.0,0.5845
+Mid Cities Barber College,,6909.0,,,0.0,,,,,,,,10900.0,13.0,,,,,27754.0,0.5845
+Midwestern University-Glendale,,,10688.0,0.9227,,,,,,,3910.0,,,,,,,,,0.5845
+Gwinnett College-Sandy Springs,,14802.0,,,0.8101,,,,,,,,14663.0,9.0,,,,,27754.0,0.5845
+Mildred Elley-Pittsfield Campus,,20182.0,,,0.8667,,,,,,,,,,,,2325.0,,27754.0,0.5845
+Embry-Riddle Aeronautical University-Worldwide,,20333.0,7290.0,0.3206,0.1353,,,,,,3469.0,133.0,,,,,1160.0,2.0,47975.5,0.5845
+Merkaz Bnos-Business School,,15820.0,,,0.0,,,,,,,,29900.0,24.0,,,,3.0,27754.0,0.5845
+Lia Schorr Institute of Cosmetic Skin Care Training,,6102.0,,,1.0,,,,,,,,8500.0,5.0,,,,,27754.0,0.5845
+CET-Alexandria,,18609.0,,,0.509,,,,,,,,12736.0,8.0,,,,,27754.0,0.5845
+Aviation Institute of Maintenance-Norfolk,,24378.0,,,0.7448,,,,,,,,,,,,900.0,,27754.0,0.5845
+Centura College-Richmond Main,,26929.0,4783.0,,0.6364,,,,,,,,,,,,3975.0,,27754.0,0.5845
+Osceola Technical College,17411.0,,,,0.0,,,,,,,455.0,6624.0,12.0,,,,,27754.0,0.5845
+Paul Mitchell the School-Miami,,26797.0,,,0.5178,,,,,,,,18150.0,9.0,,,,,27754.0,0.5845
+Green Country Technology Center,7424.0,,,,0.0,,,,,,,208.0,2905.0,10.0,,,,3.0,27754.0,0.5845
+Nova College de Puerto Rico,,2534.0,,,0.0,,,,,,,,10078.0,13.0,,,,,27754.0,0.5845
+John Wesley International Barber and Beauty College,,8252.0,,,0.0,,,,,,,,12075.0,11.0,,,,,27754.0,0.5845
+Southeastern College-West Palm Beach,,28896.0,5400.0,0.4867,0.7719,,,,,,,6.0,,,,,2000.0,,27754.0,0.5845
+Ottawa University-Milwaukee,,,5490.0,,0.6601,,,,,,104.0,,,,,,,,47975.5,0.5845
+Klamath Community College,6920.0,,6662.0,1.0,0.2782,,,,,,,590.0,,,,,1500.0,,27754.0,0.5845
+L3Harris,,106645.0,,,0.1415,,,,,,,,85145.0,16.0,,,,,27754.0,0.5845
+American College of Acupuncture and Oriental Med,,,5063.0,0.5,,,,,,,104.0,,,,,,,,,0.5845
+AOMA Graduate School of Integrative Medicine,,,6311.0,0.3704,,,,,,,140.0,,,,,,,,,0.5845
+Urban College of Boston,,6843.0,4000.0,,0.0,,,,,,,139.0,,,,,900.0,,27754.0,0.5845
+Strayer University-Maryland,,20749.0,7842.0,0.0794,0.7092,,,,,,540.0,7.0,,,,,1350.0,,47975.5,0.5845
+Empire Beauty School-Monroeville,,16060.0,,,0.5595,,,,,,,,19750.0,9.0,,,,,27754.0,0.5845
+Southern Careers Institute-San Antonio,,26339.0,,0.5556,0.6606,,,,,,,,16800.0,9.0,,,,,27754.0,0.5845
+Cayce/Reilly School of Massage,,14879.0,,,0.6071,,,,,,,,11400.0,7.0,,,,,27754.0,0.5845
+Prism Career Institute-West Atlantic City,,28029.0,,,0.445,,,,,,,,28858.0,15.0,,,,,27754.0,0.5845
+Studio Jewelers,,21115.0,,,0.0606,,,,,,,,12325.0,6.0,,,,,27754.0,0.5845
+Praxis Institute,,9649.0,,,0.6485,,,,,,,,8550.0,9.0,,,,,27754.0,0.5845
+San Juan Bautista School of Medicine,,6553.0,,,0.6522,,,,,,274.0,,,,,,900.0,3.0,47975.5,0.5845
+Texas Health and Science University,,,5006.0,0.75,,,,,,,83.0,,,,,,,,,0.5845
+Carver Career Center,3154.0,,5220.0,1.0,0.0,,,,,,,,9222.0,18.0,,,,,27754.0,0.5845
+Cayuga Onondaga BOCES-Practical Nursing Program,12165.0,,,,0.8205,,,,,,,,,,,,,3.0,27754.0,0.5845
+Clearfield County Career and Technology Center,13369.0,,,,0.47,,,,,,,,16813.0,12.0,,,,,27754.0,0.5845
+Colegio de Cinematografia Artes y Television,,2341.0,1541.0,0.3034,0.0,,,,,,,,,,,,360.0,,27754.0,0.5845
+Delaware County Technical School-Practical Nursing Program,19394.0,,,,0.7822,,,,,,,,19750.0,13.0,,,,3.0,27754.0,0.5845
+Mid-Del Technology Center,4169.0,,,,0.0,,,,,,,,4896.0,15.0,,,,,27754.0,0.5845
+New York Institute of Massage Inc,,19568.0,,,0.5755,,,,,,,,18220.0,12.0,,,,,27754.0,0.5845
+Dutchess BOCES-Practical Nursing Program,26108.0,,,,0.7433,,,,,,,,11415.0,10.0,,,,3.0,27754.0,0.5845
+Escuela Tecnica de Electricidad,,6335.0,,,0.0,,,,,,,,,,,,305.0,,27754.0,0.5845
+Institute of Technology,,22585.0,5223.0,0.4269,0.4707,,,,,,,,34193.0,13.0,,,,,27754.0,0.5845
+Garnet Career Center,2647.0,,,,0.0,,,,,,,,7672.0,11.0,,,,,27754.0,0.5845
+Bristol Technical Education Center,4730.0,,,,0.0,,,,,,,,4500.0,10.0,,,,,27754.0,0.5845
+Genesee Valley BOCES-Practical Nursing Program,12983.0,,,,0.8958,,,,,,,,14375.0,13.0,,,,,27754.0,0.5845
+Henrico County-Saint Marys Hospital School of Practical Nursing,,,,,0.2344,,,,,,,,1465.0,18.0,,,,3.0,27754.0,0.5845
+Herkimer County BOCES-Practical Nursing Program,14518.0,,,,0.7419,,,,,,,,15875.0,10.0,,,,,27754.0,0.5845
+International Beauty College,,12575.0,,,0.0,,,,,,,,10554.0,14.0,,,,,27754.0,0.5845
+Cape Coral Technical College,,,,,0.0,,,,,,,10.0,1308.0,2.0,,,,,27754.0,0.5845
+UPMC Mercy School of Nursing,,23656.0,,,0.711,,,,,,,,,,,,2050.0,3.0,27754.0,0.5845
+Ocean County Vocational-Technical School,7506.0,,,,0.3703,,,,,,,,12133.0,11.0,,,,,27754.0,0.5845
+Yeshiva of the Telshe Alumni,,9606.0,6181.0,0.875,0.0,,,,,,,,,,,,200.0,3.0,36066.0,0.5845
+Northeast Technology Center-Kansas,10180.0,,,,0.0,,,,,,,113.0,5800.0,13.0,,,,,27754.0,0.5845
+Kenneth Shuler School of Cosmetology-Rock Hill,,13388.0,,,0.7946,,,,,,,,9895.0,5.0,,,,,27754.0,0.5845
+CET-El Paso,,16104.0,,,0.5618,,,,,,,,12333.0,5.0,,,,,27754.0,0.5845
+Appalachian School of Law,,,9281.0,1.0,,,,,,,164.0,,,,,,,,,0.5845
+Platt College-Ontario,,23287.0,5255.0,0.32,0.8451,,,,,,,,,,,,1104.0,,36066.0,0.5845
+Delaware College of Art and Design,,30910.0,4690.0,0.2,0.8136,,,,,,,9.0,,,,,3200.0,2.0,36066.0,0.5845
+American University of Health Sciences,,21706.0,8869.0,0.5934,0.901,,,,,,25.0,,,,,,1500.0,,47975.5,0.5845
+Career Networks Institute,,25076.0,7166.0,0.2273,0.7265,,,,,,,,75699.0,20.0,,,,,36066.0,0.5845
+Monty Tech,11114.0,,,,0.7429,,,,,,,,12600.0,10.0,,,,3.0,27754.0,0.5845
+Okaloosa Technical College,12721.0,,,,0.0,,,,,,,,5679.0,12.0,,,,,27754.0,0.5845
+Lincoln Technical Institute-Shelton,,20310.0,,,0.7346,,,,,,,,31630.0,13.0,,,,,27754.0,0.5845
+Wayne County Schools Career Center,11181.0,,,,0.6439,,,,,,,,15071.0,13.0,,,,,27754.0,0.5845
+Carolinas College of Health Sciences,48558.0,,7372.0,0.6364,0.5991,,,,,,,1.0,,,,,1605.0,1.0,36066.0,0.5845
+Western Governors University,,9805.0,5251.0,0.7597,0.4735,,,,,,37509.0,,,,,,200.0,,47975.5,0.5845
+California Aeronautical University,,35333.0,4181.0,0.6596,0.8904,,,,,,6.0,,,,,,,,36066.0,0.5845
+Herzing University-New Orleans,,24248.0,6238.0,0.2632,0.8894,,,,,,21.0,2.0,,,,,,2.0,36066.0,0.5845
+Florida Gulf Coast University,11606.0,,8424.0,0.6732,0.3734,,,,,,1255.0,270.0,,,,,1200.0,1.0,47975.5,0.5845
+Little Priest Tribal College,11029.0,,4639.0,1.0,0.0,,,,,,,30.0,,,,,1500.0,,36066.0,0.5845
+South Louisiana Community College,10155.0,,4921.0,0.4524,0.4171,,,,,,,1468.0,,,,,1300.0,,27754.0,0.5845
+Pima Medical Institute-Chula Vista,,19154.0,4922.0,0.6531,0.3713,,,,,,,,15660.0,9.0,,,,,27754.0,0.5845
+Lincoln College of Technology-Marietta,,16507.0,4496.0,0.2424,0.7018,,,,,,,,22852.0,12.0,,,,,27754.0,0.5845
+Academy of Hair Design-Lufkin,,6644.0,,,0.5,,,,,,,,14800.0,13.0,,,,,27754.0,0.5845
+Pathway Vocational Academy,,7010.0,,,0.575,,,,,,,,14500.0,13.0,,,,,27754.0,0.5845
+Cortiva Institute-Baltimore,,20653.0,,,0.9032,,,,,,,,13951.0,8.0,,,,,27754.0,0.5845
+Northwest HVAC/R Training Center,,11657.0,,,0.5854,,,,,,,,8711.0,9.0,,,,3.0,27754.0,0.5845
+Myotherapy Institute,,27674.0,,,0.7273,,,,,,,,,,,,750.0,,36066.0,0.5845
+Florida College of Integrative Medicine,,,4485.0,,,,,,,,71.0,,,,,,,,,0.5845
+New Professions Technical Institute,,19035.0,,,0.2077,,,,,,,,15485.0,10.0,,,,,27754.0,0.5845
+Strand College of Hair Design,,12433.0,,,0.6429,,,,,,,,16800.0,13.0,,,,,27754.0,0.5845
+City College-Miami,,19372.0,3478.0,,0.9133,,,,,,,,,,,,1231.0,,36066.0,0.5845
+Ilisagvik College,15300.0,,10065.0,1.0,0.0,,,,,,,101.0,,,,,800.0,,27754.0,0.5845
+Community College of Baltimore County,8242.0,,7888.0,0.2811,0.1814,,,,,,,1910.0,,,,,1430.0,,36066.0,0.5845
+White Earth Tribal and Community College,,13081.0,4644.0,0.1667,0.0,,,,,,,7.0,,,,,1200.0,,36066.0,0.5845
+Blue Cliff College-Metairie,,18841.0,4126.0,0.5357,0.761,,,,,,,,15881.0,9.0,,,,,27754.0,0.5845
+Creative Images Institute of Cosmetology-North Dayton,,11744.0,,,0.5861,,,,,,,,21210.0,12.0,,,,,27754.0,0.5845
+Dewey University-Carolina,,4951.0,2500.0,1.0,0.0,,,,,,,,,,,,1500.0,,36066.0,0.5845
+Yeshiva College of the Nations Capital,,,6866.0,,0.0,,,,,,,,,,,,200.0,,47975.5,0.5845
+Louisiana State University Health Sciences Center-Shreveport,,,6185.0,0.9123,0.6429,,,,,,906.0,,,,,,,,47975.5,0.5845
+Elite Academy of Hair Design,,11119.0,,,0.5532,,,,,,,,15200.0,13.0,,,,,27754.0,0.5845
+Southwest Acupuncture College-Boulder,,,,,,,,,,,46.0,,,,,,,,,0.5845
+River Parishes Community College,9418.0,,4927.0,0.5487,0.2403,,,,,,,957.0,,,,,1300.0,,27754.0,0.5845
+Los Angeles Film School,,30793.0,5212.0,0.8889,0.6226,,,,,,,,37000.0,18.0,,,,,36066.0,0.5845
+Century College,10808.0,,8313.0,0.4191,0.2709,,,,,,,1426.0,,,,,1200.0,,36066.0,0.5845
+FINE Mortuary College,,39529.0,6700.0,,0.6931,,,,,,,,,,,,0.0,,36066.0,0.5845
+International Baptist College and Seminary,,14216.0,3025.0,,0.1304,,,,,,27.0,1.0,,,,,1000.0,,47975.5,0.5845
+Gwinnett College-Lilburn,,23374.0,1560.0,0.1786,0.6882,,,,,,,,,,,,2400.0,,27754.0,0.5845
+Fortis College-Foley,,14969.0,,,0.6103,,,,,,,,15712.0,9.0,,,,,27754.0,0.5845
+Medical Training College,,17692.0,,,0.7493,,,,,,,,13950.0,8.0,,,,,27754.0,0.5845
+University of Connecticut-Waterbury Campus,8046.0,,15027.0,0.625,0.4382,,,,,,,30.0,,,,,950.0,1.0,47975.5,0.5845
+University of Connecticut-Avery Point,9981.0,,15027.0,0.625,0.4483,,,,,,,33.0,,,,,950.0,1.0,47975.5,0.5845
+University of Connecticut-Stamford,11982.0,,15027.0,0.625,0.3824,,,,,,,114.0,,,,,950.0,1.0,47975.5,0.5845
+University of Management and Technology,,11207.0,3419.0,1.0,0.0935,,,,,,116.0,3.0,,,,,240.0,,47975.5,0.5845
+Baton Rouge Community College,9111.0,,5608.0,0.4571,0.3658,,,,,,,631.0,,,,,1220.0,,27754.0,0.5845
+Linfield University-Online and Continuing Education,,,9841.0,1.0,0.4327,,,,,,23.0,2.0,,,,,,,47975.5,0.5845
+Linfield University-Online and Continuing Education,,,9841.0,1.0,0.4327,,,,,,23.0,2.0,,,,,,,47975.5,0.5845
+Midwest Technical Institute-Springfield,,20166.0,,,0.8716,,,,,,,,15400.0,9.0,,,,,27754.0,0.5845
+Advanced Barber College and Hair Design,,12606.0,,,0.0,,,,,,,,12140.0,14.0,,,,,27754.0,0.5845
+The College of Health Care Professions-Austin,,26832.0,4644.0,0.7857,0.7175,,,,,,,,16400.0,9.0,,,,,27754.0,0.5845
+Professional Golfers Career College,,32558.0,14583.0,,0.3896,,,,,,,,,,,,500.0,,36066.0,0.5845
+Chester Career College,,14422.0,6125.0,0.0455,0.6418,,,,,,,,31625.0,19.0,,,,,27754.0,0.5845
+Milan Institute-San Antonio Ingram,,23924.0,,,0.4453,,,,,,,,18485.0,13.0,,,,,27754.0,0.5845
+Rudae's School of Beauty Culture-Ft Wayne,,18736.0,,,0.5414,,,,,,,,17229.0,13.0,,,,,27754.0,0.5845
+Brookline College-Tucson,,23039.0,3667.0,1.0,0.7548,,,,,,,,15225.0,9.0,,,,,27754.0,0.5845
+Platt College-McCann-Lewisburg,,18291.0,3684.0,0.2083,0.7003,,,,,,,,21040.0,14.0,,,,,36066.0,0.5845
+Cortiva Institute-Maitland,,24902.0,,,0.8958,,,,,,,,12371.0,8.0,,,,,27754.0,0.5845
+Modern Hairstyling Institute-Carolina,,5484.0,,,0.0,,,,,,,,8911.0,13.0,,,,3.0,27754.0,0.5845
+Stratford University,,15927.0,6991.0,,0.6984,,,,,,398.0,30.0,,,,,0.0,,47975.5,0.5845
+Universal Technical Institute of California Inc,,18342.0,5451.0,,0.6214,,,,,,,,47865.0,19.0,,,,,36066.0,0.5845
+American InterContinental University-Atlanta,,14036.0,5904.0,,0.8272,,,,,,236.0,,,,,,1200.0,,47975.5,0.5845
+The Academy of Hair Design Six,,16840.0,,,0.8,,,,,,,,15350.0,12.0,,,,,27754.0,0.5845
+Eastern West Virginia Community and Technical College,3555.0,,4041.0,0.1905,0.1219,,,,,,,269.0,,,,,1415.0,,36066.0,0.5845
+Aviation Institute of Maintenance-Indianapolis,,25568.0,,,0.7679,,,,,,,,,,,,900.0,,27754.0,0.5845
+IVAEM College,,5287.0,,,0.0,,,,,,,,10600.0,12.0,,,,,27754.0,0.5845
+Midwest College of Oriental Medicine-Evanston,,,3583.0,,0.4211,,,,,,48.0,,,,,,,,27754.0,0.5845
+Carrington College-Spokane,,24560.0,4017.0,0.75,0.5595,,,,,,,,16838.0,9.0,,,,,27754.0,0.5845
+Pierce College-Puyallup,9748.0,,7369.0,1.0,0.1201,,,,,,,721.0,,,,,1000.0,,36066.0,0.5845
+Cascadia College,8921.0,,7998.0,0.3534,0.0345,,,,,,,1271.0,,,,,825.0,,36066.0,0.5845
+CBD College,,24329.0,6610.0,0.6071,0.7305,,,,,,,,39993.0,22.0,,,,,36066.0,0.5845
+East West College of Natural Medicine,,,5094.0,,,,,,,,79.0,,,,,,,,,0.5845
+Atlantic Institute of Oriental Medicine,,,4120.0,0.8,0.8857,,,,,,97.0,,,,,,,,47975.5,0.5845
+Bennett Career Institute,,9591.0,,,0.5397,,,,,,,,18000.0,13.0,,,,,27754.0,0.5845
+Blue Cliff College-Lafayette,,20216.0,,,0.7402,,,,,,,,21305.0,13.0,,,,,27754.0,0.5845
+Quest College,,17861.0,3467.0,,0.5704,,,,,,,,17875.0,9.0,,,,,27754.0,0.5845
+Community Care College,,22867.0,3172.0,1.0,0.7514,,,,,,,443.0,18126.0,10.0,,,,,27754.0,0.5845
+Erie 2 Chautauqua Cattaraugus BOCES-Practical Nursing Program,13735.0,,,,0.7831,,,,,,,,11196.0,13.0,,,,3.0,27754.0,0.5845
+HDS Truck Driving Institute,,,,,0.4489,,,,,,,,11015.0,7.0,,,,,27754.0,0.5845
+International Training Careers,,21029.0,,,0.9281,,,,,,,,13595.0,8.0,,,,,27754.0,0.5845
+The King's University,,24344.0,8016.0,0.1714,0.5581,,,,,,294.0,,,,,,1218.0,1.0,47975.5,0.5845
+Fortis College-Baton Rouge,,22158.0,3675.0,0.5778,0.7918,,,,,,,,,,,,718.0,,27754.0,0.5845
+My Le's Beauty College,,,,,0.0,,,,,,,,1940.0,3.0,,,,,27754.0,0.5845
+New Concept Massage and Beauty School,,12188.0,,,0.7534,,,,,,,,16373.0,12.0,,,,,27754.0,0.5845
+New York College of Traditional Chinese Medicine,,,6395.0,,,,,,,,119.0,,,,,,,,,0.5845
+Fortis College-Orange Park,,22160.0,5729.0,0.0976,0.7523,,,,,,,,,,,,913.0,,27754.0,0.5845
+Northeastern Seminary,,,6472.0,0.7778,,,,,,,172.0,,,,,,,,,0.5845
+Omega Institute of Cosmetology,,10183.0,,,0.5395,,,,,,,,15000.0,13.0,,,,,27754.0,0.5845
+Pacific Islands University,,5434.0,2563.0,,0.0,,,,,,2.0,,,,,,300.0,3.0,47975.5,0.5845
+PCI College,,18545.0,5625.0,,0.8014,,,,,,,,37995.0,23.0,,,,,36066.0,0.5845
+Rosedale Bible College,,9872.0,2885.0,,0.3696,,,,,,,1.0,,,,,650.0,,36066.0,0.5845
+Seattle Institute of East Asian Medicine,,,5063.0,,,,,,,,34.0,,,,,,,,,0.5845
+Shawnee Beauty College,,4605.0,,,0.1321,,,,,,,,12950.0,12.0,,,,,27754.0,0.5845
+Acupuncture and Massage College,,23353.0,5284.0,,0.6645,,,,,,125.0,1.0,,,,,250.0,,27754.0,0.5845
+Upper Valley Educators Institute,,,,,,,,,,,23.0,,,,,,,,,0.5845
+Keck Graduate Institute,,,11698.0,0.6296,,,,,,,580.0,,,,,,,,,0.5845
+Aviation Institute of Maintenance-Atlanta,,22058.0,5339.0,,0.8503,,,,,,,,,,,,900.0,,27754.0,0.5845
+Empire Beauty School-Kennesaw,,13865.0,,,0.4947,,,,,,,,22010.0,11.0,,,,,27754.0,0.5845
+Missouri College of Cosmetology North,,7651.0,,,0.618,,,,,,,,15260.0,13.0,,,,,27754.0,0.5845
+New York Automotive and Diesel Institute,,22330.0,5417.0,1.0,0.5709,,,,,,,,37753.0,15.0,,,,,27754.0,0.5845
+Remington College-Baton Rouge Campus,,21275.0,3619.0,,0.8,,,,,,,,,,,,0.0,,36066.0,0.5845
+New Saint Andrews College,,,5204.0,0.6552,,,,,,,31.0,10.0,,,,,1600.0,,47975.5,0.5845
+Arkansas State University-Newport,8337.0,,4876.0,0.4847,0.163,,,,,,,817.0,,,,,548.0,,27754.0,0.5845
+Atenas College,,5135.0,2792.0,0.6494,0.0787,,,,,,,,,,,,1176.0,,36066.0,0.5845
+Onondaga Cortland Madison BOCES,10755.0,,,,0.7203,,,,,,,,14166.0,11.0,,,,,27754.0,0.5845
+National American University-Ellsworth AFB Extension,,,,,0.1004,,,,,,,98.0,,,,,1350.0,,47975.5,0.5845
+Interactive College of Technology-Chamblee,,14413.0,3516.0,0.2381,0.6301,,,,,,,,,,,,1800.0,,27754.0,0.5845
+Pillar College,,18562.0,6268.0,0.1889,0.5413,,,,,,110.0,162.0,,,,,1200.0,,47975.5,0.5845
+Miami Ad School-San Francisco,,,,,0.2264,,,,,,,,,,,,3000.0,,27754.0,0.5845
+Oregon State University-Cascades Campus,16459.0,,10923.0,0.8,0.4233,,,,,,285.0,35.0,,,,,1200.0,1.0,47975.5,0.5845
+Milan Institute-Amarillo,,27328.0,,,0.5076,,,,,,,,14085.0,9.0,,,,,27754.0,0.5845
+Southern University Law Center,,,8253.0,0.3864,,,,,,,669.0,,,,,,,,,0.5845
+South Texas Barber College Inc,,6236.0,,,0.0,,,,,,,,9800.0,13.0,,,,,27754.0,0.5845
+Platt College-Miller-Motte Technical-Charleston,,22302.0,3871.0,0.2286,0.5524,,,,,,,,25240.0,15.0,,,,,27754.0,0.5845
+American Career College-Anaheim,,24834.0,6393.0,,0.604,,,,,,,,37900.0,14.0,,,,,27754.0,0.5845
+Saginaw Chippewa Tribal College,5484.0,,5278.0,0.2381,0.0,,,,,,,20.0,,,,,1200.0,,36066.0,0.5845
+Richmont Graduate University,,,6892.0,0.3939,,,,,,,267.0,,,,,,,,,0.5845
+Northwest College-Hillsboro,,16371.0,,,0.6585,,,,,,,,22245.0,23.0,,,,,27754.0,0.5845
+East Valley Institute of Technology,,,,,0.0,,,,,,,,16005.0,12.0,,,,,27754.0,0.5845
+West Coast Ultrasound Institute,,27530.0,4713.0,,0.8392,,,,,,,106.0,,,,,1000.0,,36066.0,0.5845
+Baltimore Studio of Hair Design,,16661.0,,,1.0,,,,,,,,19615.0,15.0,,,,,27754.0,0.5845
+Ultimate Medical Academy,,18481.0,3297.0,,0.9428,,,,,,,,27900.0,19.0,,,,,36066.0,0.5845
+Florida Barber Academy,,21280.0,,,0.6923,,,,,,,,14945.0,10.0,,,,,27754.0,0.5845
+M-DCPS The English Center,4659.0,,,,0.0,,,,,,,,2220.0,8.0,,,,,27754.0,0.5845
+Florida Education Institute,,19376.0,5012.0,0.8235,0.6071,,,,,,,,16925.0,11.0,,,,,27754.0,0.5845
+Texas County Technical College,,15672.0,4945.0,,0.7143,,,,,,,,,,,,3450.0,3.0,36066.0,0.5845
+Aviation Institute of Maintenance-Kansas City,,24560.0,,,0.2468,,,,,,,,,,,,900.0,,27754.0,0.5845
+Blue Cliff College-Gulfport,,20126.0,,,0.7439,,,,,,,,15881.0,9.0,,,,,27754.0,0.5845
+Institute for Therapeutic Massage,,23363.0,,,0.7727,,,,,,,,12495.0,8.0,,,,,27754.0,0.5845
+Metropolitan Learning Institute,,7760.0,,,0.0,,,,,,,,17560.0,15.0,,,,,27754.0,0.5845
+Orleans Niagara BOCES-Practical Nursing Program,12659.0,,,,0.6761,,,,,,,,14433.0,14.0,,,,3.0,27754.0,0.5845
+Yeshiva Shaarei Torah of Rockland,,,6015.0,0.6667,0.0,,,,,,,,,,,,300.0,3.0,47975.5,0.5845
+Leon Studio One School of Beauty Knowledge,,12562.0,,,0.7857,,,,,,,,12900.0,8.0,,,,,27754.0,0.5845
+American Institute of Alternative Medicine,,22919.0,6386.0,0.2889,0.7105,,,,,,22.0,,,,,,1438.0,3.0,27754.0,0.5845
+Brown Aveda Institute-Mentor,,14349.0,,,0.8404,,,,,,,,19850.0,12.0,,,,,27754.0,0.5845
+Institute of Technology,,22585.0,5223.0,0.4269,0.4707,,,,,,,,34193.0,13.0,,,,,27754.0,0.5845
+Susquehanna County Career and Technology Center,4296.0,,,,0.8788,,,,,,,,14995.0,13.0,,,,,27754.0,0.5845
+Universidad Pentecostal Mizpa,,6290.0,,0.0,0.0,,,,,,22.0,33.0,,,,,1000.0,,36066.0,0.5845
+Caribbean Forensic and Technical College,,2116.0,,,0.0,,,,,,,,,,,,125.0,,27754.0,0.5845
+Concorde Career College-Grand Prairie,,30740.0,5410.0,0.5942,0.7129,,,,,,,,32887.0,13.0,,,,3.0,27754.0,0.5845
+Lamar Institute of Technology,6904.0,,5876.0,0.4485,0.1528,,,,,,,1096.0,,,,,914.0,,36066.0,0.5845
+Aviation Institute of Maintenance-Dallas,,22133.0,,,0.7089,,,,,,,,,,,,900.0,,27754.0,0.5845
+Healing Mountain Massage School,,17029.0,,,0.671,,,,,,,,12650.0,9.0,,,,,27754.0,0.5845
+Eastern Virginia Career College,,,3333.0,0.0746,0.6304,,,,,,,27.0,33479.0,11.0,,,,3.0,27754.0,0.5845
+Nevada State College,12915.0,,7823.0,1.0,0.2227,,,,,,53.0,1425.0,,,,,1300.0,2.0,47975.5,0.5845
+California State University-Channel Islands,13558.0,,10023.0,0.5153,0.3662,,,,,,413.0,20.0,,,,,2002.0,2.0,47975.5,0.5845
+Franklin W Olin College of Engineering,,20540.0,12247.0,0.85,0.2615,,,,,,,39.0,,,,,200.0,1.0,47975.5,0.5845
+Won Institute of Graduate Studies,,,3375.0,0.1207,,,,,,,71.0,,,,,,,,,0.5845
+Lincoln Technical Institute-Paramus,,25212.0,,,0.8191,,,,,,,,29132.0,13.0,,,,,27754.0,0.5845
+Pima Medical Institute-Colorado Springs,,22112.0,3941.0,0.4186,0.3606,,,,,,,,15113.0,9.0,,,,,27754.0,0.5845
+Birthwise Midwifery School,,,,,0.5294,,,,,,,,,,,,,3.0,27754.0,0.5845
+Paul Mitchell the School-Costa Mesa,,13309.0,,,0.5316,,,,,,,,22501.0,13.0,,,,,27754.0,0.5845
+Ave Maria School of Law,,,8765.0,1.0,,,,,,,270.0,,,,,,,,,0.5845
+Tulsa Welding School-Jacksonville,,23302.0,,,0.5269,,,,,,,,20129.0,10.0,,,,,27754.0,0.5845
+Pennsylvania College of Health Sciences,,33512.0,6602.0,0.7778,0.4808,,,,,,123.0,124.0,,,,,2150.0,2.0,36066.0,0.5845
+West Virginia Junior College-Bridgeport,,15463.0,4229.0,,0.8796,,,,,,,,,,,,290.0,,36066.0,0.5845
+Antioch University-PhD Program in Leadership and Change,,,8986.0,,,,,,,,161.0,,,,,,,,,0.5845
+St Louis College of Health Careers-Fenton,,26119.0,3874.0,0.4643,0.6527,,,,,,,,32322.0,15.0,,,,3.0,27754.0,0.5845
+Interactive College of Technology-Gainesville,,13121.0,3214.0,,0.5333,,,,,,,,,,,,1800.0,,27754.0,0.5845
+Alaska Christian College,,6746.0,6491.0,,0.4938,,,,,,,,,,,,80.0,,36066.0,0.5845
+Grantham University,,8409.0,5018.0,0.3039,0.4909,,,,,,1183.0,31.0,,,,,0.0,,47975.5,0.5845
+Carrington College-Albuquerque,,27977.0,5972.0,0.4667,0.5722,,,,,,,,48318.0,24.0,,,,,27754.0,0.5845
+NASCAR Technical Institute,,22176.0,,,0.6191,,,,,,,,36515.0,12.0,,,,,27754.0,0.5845
+University of the Potomac-VA Campus,,21564.0,,,0.1628,,,,,,104.0,,,,,,1200.0,,47975.5,0.5845
+Milan Institute-Palm Desert,,25648.0,,,0.5228,,,,,,,,13735.0,9.0,,,,,27754.0,0.5845
+Tohono O'odham Community College,4845.0,,6107.0,0.3077,0.0,,,,,,,125.0,,,,,1000.0,,36066.0,0.5845
+Bluefield College - Edward Via College of Osteopathic Medicine,,,,,,,,,,,,,,,,,,,,0.5845
+Pacific College of Health Science-Chicago,,27431.0,3625.0,0.0667,0.5833,,,,,,139.0,3.0,,,,,750.0,,27754.0,0.5845
+Southwest Institute of Healing Arts,,40267.0,5000.0,,0.2438,,,,,,,,15110.0,19.0,,,,,27754.0,0.5845
+InterCoast Colleges-Riverside,,20419.0,5590.0,,0.796,,,,,,,,20400.0,13.0,,,,,27754.0,0.5845
+University of Antelope Valley,,,4802.0,0.172,0.4821,,,,,,52.0,,2015.0,3.0,,,,,27754.0,0.5845
+Birthingway College of Midwifery,,,,,0.6667,,,,,,,,,,,,,,47975.5,0.5845
+Brighton Center's Center for Employment Training,,10813.0,,,0.0,,,,,,,,8750.0,9.0,,,,,27754.0,0.5845
+California Healing Arts College,,17937.0,,,0.8143,,,,,,,,17426.0,8.0,,,,,27754.0,0.5845
+NorthShore University HealthSystem School of Nurse Anesthesia,,,,,,,,,,,72.0,,,,,,,,,0.5845
+Faith International University,,17309.0,3866.0,0.3611,0.2378,,,,,,129.0,3.0,,,,,900.0,,47975.5,0.5845
+Family of Faith Christian University,,,1217.0,,0.6,,,,,,85.0,,,,,,1200.0,2.0,47975.5,0.5845
+Hood Theological Seminary,,,4369.0,0.4615,,,,,,,128.0,,,,,,,,,0.5845
+Colegio Educativo Tecnologico Industrial Inc,,9640.0,,,0.0,,,,,,,,9375.0,14.0,,,,,27754.0,0.5845
+International Technological University,,,4221.0,0.5135,,,,,,,532.0,,,,,,,,,0.5845
+Irene's Myomassology Institute,,25792.0,,,0.5541,,,,,,,,12789.0,12.0,,,,,27754.0,0.5845
+Jay's Technical Institute,,12922.0,,,0.45,,,,,,,,16790.0,13.0,,,,,27754.0,0.5845
+NTMA Training Centers of Southern California,,21787.0,,,0.4429,,,,,,,,14990.0,8.0,,,,,27754.0,0.5845
+P C Age-Jersey City,,14630.0,,,0.4206,,,,,,,,21790.0,13.0,,,,,27754.0,0.5845
+PC AGE-Metropark,,22642.0,,,0.3175,,,,,,,,21790.0,13.0,,,,,27754.0,0.5845
+Hollywood Institute,,21051.0,,,0.75,,,,,,,,18719.0,10.0,,,,,27754.0,0.5845
+South Florida Institute of Technology,,8649.0,,,0.4629,,,,,,,,8590.0,11.0,,,,,27754.0,0.5845
+Southeastern College-Charleston,,31212.0,4194.0,0.3462,0.4704,,,,,,,,20219.0,8.0,,,,,27754.0,0.5845
+Trend Barber College,,12861.0,,,0.3409,,,,,,,,16894.0,13.0,,,,,27754.0,0.5845
+Valley Grande Institute for Academic Studies,,10888.0,,,0.7153,,,,,,,,26454.0,13.0,,,,,27754.0,0.5845
+West Coast University-Los Angeles,,38740.0,8663.0,0.2186,0.8818,,,,,,,,,,,,1490.0,,47975.5,0.5845
+Williamson Christian College,,,538.0,,0.2258,,,,,,13.0,,,,,,1000.0,,47975.5,0.5845
+Triangle Tech Inc-Sunbury,,19309.0,3578.0,1.0,0.8462,,,,,,,,,,,,1097.0,,36066.0,0.5845
+DigiPen Institute of Technology,,39022.0,9289.0,0.5435,0.5206,,,,,,90.0,14.0,,,,,1080.0,1.0,47975.5,0.5845
+Pierpont Community and Technical College,9378.0,,5561.0,0.9825,0.3966,,,,,,,618.0,,,,,1000.0,,36066.0,0.5845
+Dewey University-Hato Rey,,4797.0,1768.0,1.0,0.3108,,,,,,130.0,,,,,,1500.0,,47975.5,0.5845
+American College of Healthcare Sciences,,22266.0,4418.0,0.4138,0.519,,,,,,243.0,3.0,,,,,0.0,2.0,27754.0,0.5845
+Colorado Media School,,24722.0,,,0.5843,,,,,,,,17840.0,8.0,,,,3.0,27754.0,0.5845
+Paul Mitchell the School-Rhode Island,,22239.0,,,0.6008,,,,,,,,18669.0,10.0,,,,,27754.0,0.5845
+Milan Institute-Sparks,,25060.0,,,0.5066,,,,,,,,14234.0,9.0,,,,,27754.0,0.5845
+Empire Beauty School-Framingham,,17359.0,,,0.4533,,,,,,,,16350.0,7.0,,,,,27754.0,0.5845
+Interactive College of Technology-Chamblee,,14413.0,3516.0,0.2381,0.6301,,,,,,,,,,,,1800.0,,27754.0,0.5845
+Bexley Hall Seabury Western Theological Seminary Federation Inc.,,,7002.0,,,,,,,,80.0,,,,,,,,,0.5845
+Altierus Career College-Norcross,,17043.0,4504.0,1.0,0.8822,,,,,,,,,,,,0.0,,27754.0,0.5845
+Strayer University-Tennessee,,22257.0,8005.0,0.0926,0.868,,,,,,489.0,,,,,,1350.0,,47975.5,0.5845
+Strayer University-Pennsylvania,,21800.0,6872.0,0.1471,0.7853,,,,,,286.0,1.0,,,,,1350.0,,47975.5,0.5845
+Charlie's Guard-Detective Bureau and Academy Inc,,3994.0,,,0.0,,,,,,,,11200.0,18.0,,,,,27754.0,0.5845
+PCI Academy-Plymouth,,9229.0,,,0.5825,,,,,,,,20012.0,10.0,,,,,27754.0,0.5845
+Creative Images Institute of Cosmetology-South Dayton,,11664.0,,,0.6875,,,,,,,,21210.0,12.0,,,,,27754.0,0.5845
+Brookline College-Albuquerque,,25212.0,4439.0,0.1818,0.7317,,,,,,,,15225.0,9.0,,,,,27754.0,0.5845
+Byzantine Catholic Seminary of Saints Cyril and Methodius,,,1921.0,,,,,,,,36.0,,,,,,,,,0.5845
+Northcentral University,,,6327.0,0.2957,0.3429,,,,,,11058.0,,,,,,,,47975.5,0.5845
+Bayamon Community College,,6502.0,,,0.0,,,,,,,,,,,,670.0,,27754.0,0.5845
+Folsom Lake College,4975.0,,8655.0,0.3869,0.0219,,,,,,,815.0,,,,,1854.0,,36066.0,0.5845
+LeGrand Institute of Cosmetology Inc,,13845.0,,,0.641,,,,,,,,15215.0,13.0,,,,,27754.0,0.5845
+Hussian College-Daymar College Murfreesboro,,20190.0,3777.0,,0.7615,,,,,,,,,,,,,,36066.0,0.5845
+Cambridge Technical Institute,,13351.0,,,0.0,,,,,,,,10725.0,14.0,,,,,27754.0,0.5845
+Empire Beauty School-Midlothian,,15947.0,,,0.6111,,,,,,,,21500.0,11.0,,,,,27754.0,0.5845
+Empire Beauty School-Owings Mills,,15152.0,,,0.5786,,,,,,,,22010.0,11.0,,,,,27754.0,0.5845
+Empire Beauty School-West Mifflin,,16744.0,,,0.6091,,,,,,,,19750.0,9.0,,,,,27754.0,0.5845
+ATI College-Norwalk,,24322.0,,,0.84,,,,,,,,29765.0,18.0,,,,,27754.0,0.5845
+Advance Science International College,,27429.0,1194.0,0.5909,0.1739,,,,,,,,45926.0,24.0,,,,,36066.0,0.5845
+Advanced Barber College and Hair Design,,12606.0,,,0.0,,,,,,,,12140.0,14.0,,,,,27754.0,0.5845
+ATA College,,12745.0,3806.0,,0.8444,,,,,,,,12340.0,9.0,,,,,27754.0,0.5845
+American Advanced Technicians Institute,,21718.0,,,0.6915,,,,,,,,11700.0,10.0,,,,,27754.0,0.5845
+Baptist University of the Americas,,7947.0,4910.0,0.2121,0.0844,,,,,,,,,,,,600.0,,47975.5,0.5845
+The Beauty Institute,,17338.0,,,0.8095,,,,,,,,19800.0,9.0,,,,,27754.0,0.5845
+Beis Medrash Heichal Dovid,,9838.0,10224.0,,0.0,,,,,,12.0,,,,,,200.0,3.0,47975.5,0.5845
+Blue Cliff Career College,,12953.0,,,0.2947,,,,,,,,17725.0,13.0,,,,3.0,27754.0,0.5845
+Career Beauty College,,11924.0,,,0.2692,,,,,,,,10325.0,13.0,,,,,27754.0,0.5845
+Paul Mitchell the School-Gastonia,,13187.0,,,0.5717,,,,,,,,20425.0,11.0,,,,,27754.0,0.5845
+CES College,,24094.0,,,0.7099,,,,,,,,27654.0,15.0,,,,,27754.0,0.5845
+Stellar Career College,,11274.0,,,0.2521,,,,,,,,10170.0,9.0,,,,,27754.0,0.5845
+Auguste Escoffier School of Culinary Arts-Austin,,15267.0,4132.0,1.0,0.7064,,,,,,,,31410.0,15.0,,,,,27754.0,0.5845
+Culinary Institute Inc,,26349.0,3409.0,1.0,0.598,,,,,,,,,,,,2800.0,,36066.0,0.5845
+Escuela Hotelera de San Juan,,14547.0,,,0.2754,,,,,,,,,,,,395.0,,27754.0,0.5845
+Orion Institute,,,,,0.8966,,,,,,,,14122.0,12.0,,,,,27754.0,0.5845
+Moore Career College,,17128.0,,,0.6078,,,,,,,,20995.0,12.0,,,,,27754.0,0.5845
+Industrial Technical College,,3578.0,,,0.0,,,,,,,,,,,,150.0,,27754.0,0.5845
+Gwinnett College-Marietta Campus,,21913.0,3973.0,,0.8143,,,,,,,,16867.0,9.0,,,,,27754.0,0.5845
+Leston College,,5165.0,,,0.0,,,,,,,,10576.0,11.0,,,,,27754.0,0.5845
+Charlotte Christian College and Theological Seminary,,,3333.0,,0.617,,,,,,34.0,,,,,,560.0,,47975.5,0.5845
+Nightingale College,,26487.0,7541.0,0.6979,0.503,,,,,,,,76075.0,32.0,,,,,36066.0,0.5845
+Omnitech Institute,,25985.0,,,0.9,,,,,,,,24999.0,8.0,,,,,27754.0,0.5845
+PITC Institute,,22962.0,7667.0,,0.7911,,,,,,,,29550.0,15.0,,,,,27754.0,0.5845
+Skinworks School of Advanced Skincare,,16176.0,,,0.6204,,,,,,,,15700.0,9.0,,,,,27754.0,0.5845
+Southeastern College-Columbia,,29593.0,3894.0,0.5,0.4724,,,,,,,,20219.0,8.0,,,,,27754.0,0.5845
+Technical Learning Centers Inc,,22711.0,,,0.5349,,,,,,,,17199.0,8.0,,,,,27754.0,0.5845
+Turning Point Beauty College,,8794.0,,,0.0604,,,,,,,,7155.0,5.0,,,,,27754.0,0.5845
+Unitech Training Academy-Lafayette,,20737.0,,,0.7796,,,,,,,,15500.0,9.0,,,,,27754.0,0.5845
+Mountwest Community and Technical College,8122.0,,5150.0,0.4599,0.2792,,,,,,,354.0,,,,,1415.0,,27754.0,0.5845
+American InterContinental University-Atlanta,,14036.0,5904.0,,0.8272,,,,,,236.0,,,,,,1200.0,,47975.5,0.5845
+Toyota Technological Institute at Chicago,,,18295.0,1.0,,,,,,,43.0,,,,,,,,,0.5845
+American InterContinental University-Houston,,14822.0,6906.0,,0.7237,,,,,,69.0,,,,,,1200.0,,47975.5,0.5845
+University of California-Merced,13896.0,,11635.0,0.9378,0.4751,,,,,,696.0,,,,,,1016.0,1.0,47975.5,0.5845
+Remington College-North Houston Campus,,18941.0,2720.0,,0.6682,,,,,,,,,,,,0.0,,27754.0,0.5845
+Paul Mitchell the School-Orlando,,20312.0,,,0.6712,,,,,,,,19400.0,10.0,,,,,27754.0,0.5845
+Pima Medical Institute-Las Vegas,,19935.0,5657.0,0.4762,0.405,,,,,,,,15113.0,9.0,,,,,27754.0,0.5845
+Remington College-Nashville Campus,,20423.0,3054.0,,0.6563,,,,,,,,,,,,0.0,,27754.0,0.5845
+Central Methodist University-College of Graduate and Extended Studies,,15196.0,5399.0,1.0,0.36,,,,,,319.0,1678.0,,,,,1600.0,2.0,47975.5,0.5845
+North-West College-Riverside,,32411.0,,,0.673,,,,,,,,16315.0,10.0,,,,,27754.0,0.5845
+Altierus Career College-Bissonnet,,18808.0,4345.0,1.0,0.8225,,,,,,,,,,,,0.0,,27754.0,0.5845
+Colegio Tecnico de Electricidad Galloza,,7103.0,,,0.0,,,,,,,,8095.0,14.0,,,,,27754.0,0.5845
+Arthur's Beauty College,,11431.0,,,0.6038,,,,,,,,16145.0,13.0,,,,,27754.0,0.5845
+Spa Tech Institute-Ipswich,,23890.0,,,0.6947,,,,,,,,13082.0,7.0,,,,,27754.0,0.5845
+Spa Tech Institute-Westboro,,16459.0,,,0.6154,,,,,,,,11668.0,6.0,,,,,27754.0,0.5845
+Spa Tech Institute-Plymouth,,17489.0,,,0.7149,,,,,,,,11668.0,6.0,,,,,27754.0,0.5845
+Neumont College of Computer Science,,28863.0,9698.0,0.3704,0.8907,,,,,,,,,,,,1200.0,2.0,47975.5,0.5845
+Roseman University of Health Sciences,,,10316.0,0.5544,0.5716,,,,,,1043.0,,,,,,,,47975.5,0.5845
+Fortis Institute-Port Saint Lucie,,21397.0,5791.0,0.4889,0.7803,,,,,,,,,,,,1137.0,,27754.0,0.5845
+Aviation Institute of Maintenance-Manassas,,24403.0,,,0.8085,,,,,,,,,,,,900.0,,27754.0,0.5845
+Cosmetology School of Arts and Science LLC,,15310.0,,,0.7234,,,,,,,,15900.0,15.0,,,,,27754.0,0.5845
+Universal Technical Institute of Pennsylvania Inc,,19324.0,,,0.6079,,,,,,,,46465.0,19.0,,,,,27754.0,0.5845
+Kenneth Shuler School of Cosmetology-Spartanburg,,11366.0,,,0.6437,,,,,,,,9895.0,5.0,,,,,27754.0,0.5845
+Kenneth Shuler School of Cosmetology and Nails-Columbia,,15800.0,,,0.6598,,,,,,,,19887.0,13.0,,,,,27754.0,0.5845
+Divine Mercy University,,,7881.0,1.0,,,,,,,340.0,,,,,,,,,0.5845
+Lincoln Technical Institute-Shelton,,20310.0,,,0.7346,,,,,,,,31630.0,13.0,,,,,27754.0,0.5845
+Northwest Career College,,15475.0,3650.0,0.8837,0.7819,,,,,,,,13990.0,9.0,,,,,27754.0,0.5845
+Soma Institute-The National School of Clinical Massage Therapy,,,,,0.7002,,,,,,,,14495.0,11.0,,,,,27754.0,0.5845
+American Academy of Acupuncture and Oriental Medicine,,,5423.0,,,,,,,,85.0,,,,,,,,,0.5845
+Arizona School of Acupuncture and Oriental Medicine,,,,,,,,,,,35.0,,,,,,,,,0.5845
+Ave Maria University,,15527.0,7630.0,1.0,0.5198,,,,,,48.0,36.0,,,,,1260.0,1.0,47975.5,0.5845
+CALC Institute of Technology,,,,,0.5234,,,,,,,,14203.0,13.0,,,,,27754.0,0.5845
+Cambridge Junior College-Yuba City,,21060.0,,,0.5,,,,,,,,16400.0,9.0,,,,,27754.0,0.5845
+Pinnacle Career Institute-South Kansas City,,14692.0,4142.0,1.0,0.4025,,,,,,,,19980.0,10.0,,,,,27754.0,0.5845
+ATA Career Education,,22270.0,5715.0,0.1176,0.9434,,,,,,,,,,,,3104.0,,27754.0,0.5845
+Community Christian College,,18915.0,5000.0,,0.283,,,,,,,1.0,,,,,600.0,,36066.0,0.5845
+Culpeper Cosmetology Training Center,12982.0,,,,0.8049,,,,,,,,17900.0,13.0,,,,,27754.0,0.5845
+Eastern School of Acupuncture and Traditional Medicine,,,,,0.75,,,,,,68.0,,,,,,,,27754.0,0.5845
+Ecclesia College,,18838.0,963.0,0.4167,0.5111,,,,,,3.0,6.0,,,,,1080.0,2.0,47975.5,0.5845
+Employment Solutions-College for Technical Education,,13787.0,,,0.9843,,,,,,,,18480.0,11.0,,,,,27754.0,0.5845
+Estelle Medical Academy,,8980.0,,,0.3478,,,,,,,,,,,,220.0,,27754.0,0.5845
+Evergreen Beauty and Barber College-Everett,,16986.0,,,0.559,,,,,,,,19089.0,10.0,,,,,27754.0,0.5845
+Paul Mitchell the School-Great Lakes,,13961.0,,,0.65,,,,,,,,17129.0,12.0,,,,,27754.0,0.5845
+Healthcare Training Institute,,12014.0,,,0.6759,,,,,,,,15876.0,9.0,,,,3.0,27754.0,0.5845
+John D Rockefeller IV Career Center,9388.0,,,,0.9667,,,,,,,,,,,,1100.0,,27754.0,0.5845
+Los Angeles College of Music,,36547.0,4722.0,0.0818,0.443,,,,,,,,,,,,900.0,3.0,47975.5,0.5845
+Maple Springs Baptist Bible College and Seminary,,,4204.0,1.0,0.0,,,,,,37.0,,,,,,260.0,,47975.5,0.5845
+Precision Manufacturing Institute,,18678.0,,,0.5714,,,,,,,,,,,,2000.0,,27754.0,0.5845
+Rosslyn Training Academy of Cosmetology,,4250.0,,,0.0,,,,,,,,,,,,340.0,,27754.0,0.5845
+SAE Institute of Technology-Nashville,,41105.0,4125.0,0.4667,0.7157,,,,,,,,,,,,0.0,,36066.0,0.5845
+Southern Regional Technical College,-884.0,,4681.0,1.0,0.0,,,,,,,2007.0,,,,,1150.0,,27754.0,0.5845
+Stanbridge University,,26268.0,3858.0,0.3498,0.8695,,,,,,193.0,,36191.0,13.0,,,,3.0,36066.0,0.5845
+Universal Career School,,25085.0,3768.0,,0.8296,,,,,,,1.0,41900.0,24.0,,,,,36066.0,0.5845
+Universal College of Healing Arts,,,4167.0,,0.8333,,,,,,,,,,,,1600.0,,27754.0,0.5845
+Uta Mesivta of Kiryas Joel,,5310.0,2723.0,1.0,0.0,,,,,,,,,,,,600.0,,47975.5,0.5845
+Harrisburg University of Science and Technology,,14848.0,9295.0,1.0,0.373,,,,,,3590.0,19.0,,,,,1500.0,,47975.5,0.5845
+Blue Ridge Community and Technical College,6293.0,,5616.0,0.4183,0.1414,,,,,,,4763.0,,,,,1440.0,,36066.0,0.5845
+Daytona State College,8789.0,,6917.0,0.2788,0.2151,,,,,,,2649.0,,,,,1800.0,,36066.0,0.5845
+Midwest Technical Institute-Ridgeland,,26185.0,,,0.871,,,,,,,,15490.0,9.0,,,,,27754.0,0.5845
+United States Sports Academy,,,5450.0,0.44,0.1213,,,,,,267.0,21.0,,,,,,,47975.5,0.5845
+Empire Beauty School-Avondale,,14074.0,,,0.4865,,,,,,,,21950.0,12.0,,,,,27754.0,0.5845
+Empire Beauty School-Littleton,,15591.0,,,0.4737,,,,,,,,22100.0,11.0,,,,,27754.0,0.5845
+Empire Beauty School-Aurora,,16742.0,,,0.625,,,,,,,,22100.0,11.0,,,,,27754.0,0.5845
+AmeriTech College-Draper,,24920.0,6776.0,,0.8331,,,,,,,,,,,,0.0,3.0,36066.0,0.5845
+Eagle Gate College-Layton,,15534.0,7491.0,0.8519,0.8571,,,,,,,,,,,,0.0,,47975.5,0.5845
+Academy of Hair Design-Jasper,,6900.0,,,0.9464,,,,,,,,14800.0,13.0,,,,,27754.0,0.5845
+SAE Expression College,,31931.0,6615.0,0.3333,0.4715,,,,,,,,,,,,0.0,,47975.5,0.5845
+Unitech Training Academy-West Monroe,,24689.0,,,0.7262,,,,,,,,15500.0,9.0,,,,,27754.0,0.5845
+New River Community and Technical College,6805.0,,5996.0,0.7027,0.1816,,,,,,,305.0,,,,,1350.0,,36066.0,0.5845
+The College of Health Care Professions-Southwest Houston,,24402.0,4437.0,0.4688,0.6928,,,,,,,,17000.0,9.0,,,,,27754.0,0.5845
+United Education Institute-Chula Vista,,26653.0,,,0.6667,,,,,,,,19900.0,9.0,,,,,27754.0,0.5845
+United Education Institute-West Covina,,25668.0,,,0.7325,,,,,,,,19900.0,9.0,,,,,27754.0,0.5845
+Georgia Gwinnett College,12292.0,,7139.0,0.6873,0.3674,,,,,,,904.0,,,,,1440.0,5.0,47975.5,0.5845
+Tucson College of Beauty,,18386.0,,,0.8045,,,,,,,,17500.0,12.0,,,,,27754.0,0.5845
+California Career College,,53950.0,6667.0,,0.592,,,,,,,,67000.0,23.0,,,,,36066.0,0.5845
+Palladium Technical Academy Inc,,16682.0,,,0.9524,,,,,,,,13500.0,8.0,,,,,27754.0,0.5845
+Palace Beauty College,,14115.0,,,0.1574,,,,,,,,5400.0,6.0,,,,,27754.0,0.5845
+National Polytechnic College,,6122.0,4306.0,0.15,0.5378,,,,,,,,6615.0,6.0,,,,,27754.0,0.5845
+American Career College-Ontario,,26401.0,5876.0,,0.6202,,,,,,,,37900.0,14.0,,,,,27754.0,0.5845
+Asher College,,19086.0,3783.0,,0.4551,,,,,,,,28100.0,18.0,,,,,36066.0,0.5845
+American Institute of Massage Therapy,,24706.0,,,0.1053,,,,,,,,13515.0,13.0,,,,,27754.0,0.5845
+University of East-West Medicine,,,4333.0,,,,,,,,176.0,,,,,,,,,0.5845
+Blake Austin College,,24537.0,,,0.6529,,,,,,,,33575.0,13.0,,,,,27754.0,0.5845
+Aviator College of Aeronautical Science and Technology,,34992.0,2136.0,1.0,0.0946,,,,,,,18.0,,,,,500.0,,27754.0,0.5845
+CDA Technical Institute,,32465.0,,,0.6184,,,,,,,,32224.0,5.0,,,,,27754.0,0.5845
+Hollywood Institute,,21051.0,,,0.75,,,,,,,,18719.0,10.0,,,,,27754.0,0.5845
+North Florida Cosmetology Institute,,19539.0,,,0.6553,,,,,,,,14700.0,10.0,,,,,27754.0,0.5845
+Augusta School of Massage,,8599.0,,,0.6667,,,,,,,,8900.0,6.0,,,,,27754.0,0.5845
+ATA College,,12745.0,3806.0,,0.8444,,,,,,,,12340.0,9.0,,,,,27754.0,0.5845
+SUM Bible College and Theological Seminary,,18366.0,3073.0,0.2097,0.7271,,,,,,167.0,,,,,,900.0,3.0,47975.5,0.5845
+Compass Career College,,21203.0,,,0.694,,,,,,,,9817.0,11.0,,,,,27754.0,0.5845
+Hair Expressions Academy,,14680.0,,,0.6583,,,,,,,,20700.0,13.0,,,,,27754.0,0.5845
+Nuvo College of Cosmetology,,16110.0,,,0.7544,,,,,,,,15950.0,12.0,,,,,27754.0,0.5845
+WellSpring School of Allied Health-Kansas City,,21155.0,4167.0,0.125,0.8443,,,,,,,,16275.0,12.0,,,,,27754.0,0.5845
+The Salon Professional Academy-Fargo,,14201.0,,,0.3232,,,,,,,,20722.0,14.0,,,,,27754.0,0.5845
+Institute of Professional Careers,,,,,0.0,,,,,,,,11700.0,8.0,,,,,27754.0,0.5845
+Aveda Institute-New York,,25512.0,,,0.3853,,,,,,,,20195.0,7.0,,,,,27754.0,0.5845
+MyrAngel Beauty Institute,,7889.0,,,0.0766,,,,,,,,9595.0,14.0,,,,,27754.0,0.5845
+University of Texas Southwestern Medical Center,,,10548.0,0.8052,,,,,,,2299.0,,,,,,,,,0.5845
+Paul Mitchell the School-Logan,,11595.0,,,0.4974,,,,,,,,16371.0,13.0,,,,,27754.0,0.5845
+Cosmetology Careers Unlimited College of Hair Skin and Nails,,10704.0,,,0.65,,,,,,,,17000.0,12.0,,,,,27754.0,0.5845
+Mountainland Technical College,,,,,0.0,,,,,,,1177.0,716.0,2.0,,,,,27754.0,0.5845
+Avi Career Training,,16482.0,,,0.3953,,,,,,,,9840.0,5.0,,,,,27754.0,0.5845
+Mountain State School of Massage,,16053.0,,,0.9111,,,,,,,,12314.0,8.0,,,,,27754.0,0.5845
+Eastern International College-Belleville,,17952.0,5417.0,0.4074,0.8162,,,,,,,,,,,,1200.0,,36066.0,0.5845
+Broken Arrow Beauty College,,11810.0,,,0.5785,,,,,,,,15995.0,12.0,,,,,27754.0,0.5845
+Universal Technical Institute of Northern California Inc,,22809.0,5720.0,,0.6311,,,,,,,,37265.0,13.0,,,,,36066.0,0.5845
+West Hills College-Lemoore,7424.0,,10397.0,0.2583,0.0257,,,,,,,587.0,,,,,1970.0,,36066.0,0.5845
+Stautzenberger College-Brecksville,,18076.0,4552.0,0.44,0.9074,,,,,,,,,,,,600.0,,36066.0,0.5845
+Stone Academy-East Hartford,,24364.0,,,0.6227,,,,,,,,31800.0,16.0,,,,,27754.0,0.5845
+Unitech Training Academy-Houma,,20725.0,,,0.7942,,,,,,,,15500.0,9.0,,,,,27754.0,0.5845
+Rasmussen University-Illinois,,18744.0,5940.0,0.3231,0.8313,,,,,,22.0,2.0,,,,,180.0,,36066.0,0.5845
+International Institute for Restorative Practices,,,4471.0,0.8571,,,,,,,171.0,,,,,,,,,0.5845
+Automotive Training Center-Warminster,,11440.0,,,0.7353,,,,,,,,42900.0,20.0,,,,,27754.0,0.5845
+Empire Beauty School-Milwaukee,,13836.0,,,0.6162,,,,,,,,19382.0,11.0,,,,,27754.0,0.5845
+University of South Florida-St Petersburg,10406.0,,9630.0,0.5719,0.3689,,,,,,555.0,83.0,,,,,1100.0,1.0,47975.5,0.5845
+Triangle Tech Inc-Bethlehem,,20652.0,3607.0,1.0,0.7687,,,,,,,,,,,,1125.0,,36066.0,0.5845
+Arizona State University-Downtown Phoenix,11561.0,,9525.0,0.5617,0.4396,,,,,,2907.0,4.0,,,,,1171.0,1.0,47975.5,0.5845
+Milan Institute-Fresno,,20364.0,,,0.5125,,,,,,,,11018.0,6.0,,,,,27754.0,0.5845
+Strayer University-Florida,,,7861.0,0.0521,0.7438,,,,,,444.0,4.0,,,,,1350.0,,47975.5,0.5845
+Pima Medical Institute-Renton,,26642.0,4688.0,0.3621,0.3579,,,,,,,,15660.0,9.0,,,,,27754.0,0.5845
+College of Business and Technology-Main Campus,,15661.0,4167.0,,0.6716,,,,,,,,,,,,2000.0,,27754.0,0.5845
+College of Business and Technology-Hialeah,,11675.0,3333.0,,0.5385,,,,,,,,,,,,1000.0,,27754.0,0.5845
+Dewey University-Juana Diaz,,4981.0,2500.0,1.0,0.075,,,,,,1.0,,,,,,1500.0,,27754.0,0.5845
+The College of Health Care Professions-San Antonio,,26500.0,4414.0,0.7353,0.6926,,,,,,,,17000.0,9.0,,,,,27754.0,0.5845
+Brittany Beauty Academy,,20006.0,,,0.4175,,,,,,,,15700.0,10.0,,,,,27754.0,0.5845
+Lincoln Technical Institute-Whitestone,,22296.0,,,0.7715,,,,,,,,34886.0,13.0,,,,,27754.0,0.5845
+American Public University System,,10222.0,5667.0,0.192,0.204,,,,,,7914.0,1679.0,,,,,0.0,,47975.5,0.5845
+Huntsville Bible College,,2921.0,,,0.7524,,,,,,34.0,2.0,,,,,550.0,,36066.0,0.5845
+Beaumont Adult School,22453.0,,,,0.9322,,,,,,,,26500.0,18.0,,,,,27754.0,0.5845
+Make-up Designory,,35020.0,,,0.5121,,,,,,,,23841.0,6.0,,,,,27754.0,0.5845
+Gnomon,,38818.0,14733.0,0.0106,0.3666,,,,,,,190.0,,,,,1971.0,3.0,27754.0,0.5845
+Coachella Valley Beauty College,,9119.0,,,0.5114,,,,,,,,14150.0,14.0,,,,,27754.0,0.5845
+Valley College of Medical Careers,,24089.0,4717.0,,0.6731,,,,,,,,14950.0,10.0,,,,,27754.0,0.5845
+Academy of Natural Therapy Inc,,,,,0.8261,,,,,,,,15000.0,10.0,,,,,27754.0,0.5845
+Academy Di Capelli-School of Cosmetology,,14317.0,,,0.6743,,,,,,,,20925.0,12.0,,,,,27754.0,0.5845
+Delaware Learning Institute of Cosmetology,,18506.0,,,0.6506,,,,,,,,20500.0,13.0,,,,,27754.0,0.5845
+Dragon Rises College of Oriental Medicine,,,3042.0,,,,,,,,40.0,,,,,,,,,0.5845
+SABER College,,15287.0,5850.0,0.2857,0.8008,,,,,,,,44823.0,24.0,,,,3.0,36066.0,0.5845
+Taylor Institute of Cosmetology II,,88.0,,,0.0,,,,,,,,6555.0,11.0,,,,,27754.0,0.5845
+Ideal Beauty Academy,,14292.0,,,0.3846,,,,,,,,14732.0,11.0,,,,,27754.0,0.5845
+Denmark Technical College,13440.0,,4791.0,0.6154,0.3824,,,,,,,206.0,,,,,1500.0,,27754.0,0.5845
+Louisiana Culinary Institute,,26565.0,4162.0,1.0,0.568,,,,,,,,,,,,3000.0,2.0,36066.0,0.5845
+Bais Medrash Toras Chesed,,169.0,4790.0,,0.0,,,,,,,,,,,,400.0,3.0,47975.5,0.5845
+Center for Natural Wellness School of Massage Therapy,,29934.0,,,0.1655,,,,,,,,17815.0,9.0,,,,3.0,27754.0,0.5845
+Ace Institute of Technology,,28402.0,,,0.3989,,,,,,,,12500.0,15.0,,,,,27754.0,0.5845
+New Age Training,,10742.0,,,0.8305,,,,,,,,13855.0,9.0,,,,,27754.0,0.5845
+Dayton School of Medical Massage,,28958.0,,,0.7229,,,,,,,,,,,,500.0,,27754.0,0.5845
+Northcoast Medical Training Academy,,22792.0,,,0.6041,,,,,,,,20040.0,12.0,,,,,27754.0,0.5845
+ATA College,,12745.0,3806.0,,0.8444,,,,,,,,12340.0,9.0,,,,,27754.0,0.5845
+Visible Music College,,22807.0,4136.0,0.3182,0.6627,,,,,,12.0,4.0,,,,,,1.0,47975.5,0.5845
+CCI Training Center-Arlington,,16879.0,,,0.536,,,,,,,,14240.0,10.0,,,,,27754.0,0.5845
+Champion Beauty College,,11874.0,,,0.9186,,,,,,,,14885.0,13.0,,,,,27754.0,0.5845
+Southeast Texas Career Institute,,7132.0,,,0.4691,,,,,,,,14810.0,16.0,,,,,27754.0,0.5845
+Southern Regional Technical College,-884.0,,4681.0,1.0,0.0,,,,,,,2007.0,,,,,1150.0,,27754.0,0.5845
+Virginia Beach Theological Seminary,,,4703.0,,,,,,,,28.0,,,,,,,2.0,,0.5845
+Milwaukee Career College,,21853.0,4186.0,0.5882,0.6216,,,,,,,,13480.0,8.0,,,,3.0,27754.0,0.5845
+University of the West,,14835.0,7101.0,0.2807,0.3162,,,,,,131.0,13.0,,,,,1972.0,,47975.5,0.5845
+American Educational College,,539.0,,,0.2174,,,,,,,,,,,,425.0,,27754.0,0.5845
+South University-Tampa,,15676.0,6934.0,0.2273,0.7209,,,,,,314.0,1.0,,,,,1500.0,,47975.5,0.5845
+Milan Institute of Cosmetology-San Antonio Military,,22684.0,,,0.6632,,,,,,,,18485.0,13.0,,,,,27754.0,0.5845
+Appalachian College of Pharmacy,,,8479.0,1.0,,,,,,,216.0,,,,,,,,,0.5845
+Averett University-Non-Traditional Programs,,24027.0,8042.0,1.0,0.5582,,,,,,267.0,,,,,,1000.0,3.0,47975.5,0.5845
+Paul Mitchell the School-Tampa,,18409.0,,,0.5615,,,,,,,,19400.0,10.0,,,,,27754.0,0.5845
+Paul Mitchell the School-San Diego,,26632.0,,,0.4961,,,,,,,,22449.0,12.0,,,,,27754.0,0.5845
+Paul Mitchell the School-Michigan,,15599.0,,,0.6327,,,,,,,,20426.0,12.0,,,,,27754.0,0.5845
+Paul Mitchell the School-Sherman Oaks,,19850.0,,,0.5854,,,,,,,,23601.0,12.0,,,,,27754.0,0.5845
+Paul Mitchell the School-Tysons Corner,,21776.0,,,0.5037,,,,,,,,19945.0,12.0,,,,,27754.0,0.5845
+Blue Cliff College-Houma,,20182.0,,,0.6981,,,,,,,,15881.0,9.0,,,,,27754.0,0.5845
+Fortis College-Columbus,,26256.0,5464.0,0.4875,0.8151,,,,,,,,,,,,893.0,,27754.0,0.5845
+Fortis College-Cincinnati,,21433.0,5400.0,0.3333,0.7736,,,,,,,,,,,,574.0,,27754.0,0.5845
+Blue Cliff College-Fayetteville,,18918.0,,,0.7307,,,,,,,,15881.0,9.0,,,,,27754.0,0.5845
+Blue Cliff College-Alexandria,,20410.0,2997.0,0.44,0.7668,,,,,,,,15881.0,9.0,,,,,27754.0,0.5845
+Strayer University-Delaware,,,,,0.7671,,,,,,52.0,,,,,,1350.0,,47975.5,0.5845
+Brite Divinity School,,,10091.0,1.0,,,,,,,167.0,,,,,,,,,0.5845
+Strayer University-Alabama,,24593.0,7609.0,0.0833,0.8339,,,,,,291.0,,,,,,1350.0,,47975.5,0.5845
+Brown Aveda Institute-Strongsville,,15795.0,,,0.7299,,,,,,,,19850.0,12.0,,,,,27754.0,0.5845
+Clary Sage College,,25260.0,,,0.742,,,,,,,,24584.0,13.0,,,,,27754.0,0.5845
+Rasmussen University-Wisconsin,,19917.0,5825.0,0.2982,0.8,,,,,,6.0,3.0,,,,,180.0,,36066.0,0.5845
+Empire Beauty School-Richmond,,15244.0,,,0.55,,,,,,,,21500.0,11.0,,,,,27754.0,0.5845
+Empire Beauty School-North Hills,,14975.0,,,0.6269,,,,,,,,19750.0,9.0,,,,,27754.0,0.5845
+Empire Beauty School-Manhattan,,16429.0,,,0.5699,,,,,,,,15500.0,7.0,,,,,27754.0,0.5845
+Lexington Healing Arts Academy,,,,,0.2961,,,,,,,,12650.0,10.0,,,,,27754.0,0.5845
+Empire Beauty School-Hooksett,,9084.0,,,0.5165,,,,,,,,20795.0,11.0,,,,,27754.0,0.5845
+The Institute of Beauty and Wellness,,12947.0,,,0.7203,,,,,,,,20800.0,12.0,,,,,27754.0,0.5845
+Trend Barber College,,12861.0,,,0.3409,,,,,,,,16894.0,13.0,,,,,27754.0,0.5845
+Columbia Southern University,,10368.0,4062.0,0.4947,0.2949,,,,,,5670.0,88.0,,,,,704.0,,47975.5,0.5845
+Arizona Culinary Institute,,33552.0,,,0.4252,,,,,,,,27795.0,8.0,,,,,27754.0,0.5845
+Healthcare Career College,,20383.0,3531.0,0.3333,0.6034,,,,,,,,15700.0,12.0,,,,,27754.0,0.5845
+Coastline Beauty College,,11461.0,,,0.0,,,,,,,,4150.0,6.0,,,,,27754.0,0.5845
+Montessori Casa International,,,,,0.1111,,,,,,,,8300.0,12.0,,,,,27754.0,0.5845
+Branford Academy of Hair and Cosmetology,,13468.0,,,0.8983,,,,,,,,21700.0,12.0,,,,,27754.0,0.5845
+Academy of Massage and Bodywork,,,,,0.3901,,,,,,,,10500.0,8.0,,,,,27754.0,0.5845
+Academy for Five Element Acupuncture,,,,,,,,,,,86.0,,,,,,,,,0.5845
+Academy of Career Training,,7194.0,,,0.3629,,,,,,,,13860.0,12.0,,,,,27754.0,0.5845
+Miami Regional University,,26263.0,6483.0,0.6364,0.4799,,,,,,292.0,,44563.0,23.0,,,,,27754.0,0.5845
+Paul Mitchell the School-Miami,,26797.0,,,0.5178,,,,,,,,18150.0,9.0,,,,,27754.0,0.5845
+Aveda Institute-South Florida,,23823.0,,,0.5935,,,,,,,,19700.0,13.0,,,,,27754.0,0.5845
+Aveda Institute-Tallahassee,,21925.0,,,0.4813,,,,,,,,18600.0,13.0,,,,,27754.0,0.5845
+Shear Excellence Hair Academy,,5504.0,,,0.4553,,,,,,,,15249.0,10.0,,,,,27754.0,0.5845
+Carlson College of Massage Therapy,,8954.0,,,0.5313,,,,,,,,10750.0,6.0,,,,,27754.0,0.5845
+MyComputerCareer.com,,31670.0,,,0.8849,,,,,,,,22805.0,11.0,,,,,27754.0,0.5845
+Elite Academy of Hair Design,,11119.0,,,0.5532,,,,,,,,15200.0,13.0,,,,,27754.0,0.5845
+DiGrigoli School of Cosmetology,,14153.0,,,0.6796,,,,,,,,16354.0,8.0,,,,,27754.0,0.5845
+Millennium Training Institute,,21871.0,,,0.4156,,,,,,,,15950.0,11.0,,,,,27754.0,0.5845
+Elevate Salon Institute,,13145.0,,,0.6364,,,,,,,,21500.0,12.0,,,,,27754.0,0.5845
+Lakewood School of Therapeutic Massage,,,,,0.75,,,,,,,,12435.0,10.0,,,,,27754.0,0.5845
+The Salon Professional Academy-Battle Creek,,,,,0.0676,,,,,,,,10265.0,5.0,,,,,27754.0,0.5845
+Trend Setters School,,9966.0,,,0.2542,,,,,,,,10634.0,13.0,,,,,27754.0,0.5845
+Academy of Hair Design-Springfield,,17096.0,,,0.6708,,,,,,,,15950.0,11.0,,,,,27754.0,0.5845
+Corinth Academy of Cosmetology,,21040.0,,,0.5057,,,,,,,,14400.0,13.0,,,,,27754.0,0.5845
+Southeastern College-Charlotte,,28254.0,,,0.5081,,,,,,,,20219.0,8.0,,,,,27754.0,0.5845
+Yeshivas Be'er Yitzchok,,19495.0,3960.0,,0.0,,,,,,,1.0,,,,,200.0,3.0,47975.5,0.5845
+Yeshiva Toras Chaim,,2504.0,4518.0,0.5238,0.0,,,,,,,,,,,,200.0,3.0,47975.5,0.5845
+Talmudical Seminary of Bobov,,7549.0,4258.0,1.0,0.0,,,,,,,,,,,,200.0,3.0,47975.5,0.5845
+Center for Allied Health Education,,43322.0,,,0.2139,,,,,,,,53925.0,19.0,,,,,27754.0,0.5845
+Monroe 2 Orleans BOCES-Center for Workforce Development,14443.0,,,,0.4067,,,,,,,,7700.0,5.0,,,,,27754.0,0.5845
+Aveda Fredric's Institute-Cincinnati,,20653.0,,,0.625,,,,,,,,22050.0,13.0,,,,,27754.0,0.5845
+MyComputerCareer.edu-Columbus,,31826.0,3844.0,,0.7797,,,,,,,,22805.0,11.0,,,,,27754.0,0.5845
+CDE Career Institute,,26753.0,,,0.5794,,,,,,,,12319.0,10.0,,,,,27754.0,0.5845
+Instituto Educativo Premier,,9926.0,,,0.0,,,,,,,,9735.0,12.0,,,,,27754.0,0.5845
+Charleston School of Law,,,12199.0,0.3286,,,,,,,612.0,,,,,,,,,0.5845
+Eves College of Hairstyling,,13133.0,,,0.7246,,,,,,,,16895.0,13.0,,,,,27754.0,0.5845
+Manuel and Theresa's School of Hair Design-Bryan,,7663.0,,,0.7143,,,,,,,,17900.0,13.0,,,,,27754.0,0.5845
+Southwest University at El Paso,,17814.0,3845.0,0.9467,0.8562,,,,,,,7.0,,,,,1400.0,,36066.0,0.5845
+Paul Mitchell the School-Austin,,18228.0,,,0.4605,,,,,,,,20005.0,12.0,,,,,27754.0,0.5845
+Aveda Institute-Provo,,12365.0,,,0.5848,,,,,,,,19500.0,12.0,,,,,27754.0,0.5845
+Dixie Technical College,,,,,0.0,,,,,,,3.0,3619.0,15.0,,,,,27754.0,0.5845
+Victoria's Academy of Cosmetology,,15371.0,,,0.6992,,,,,,,,17737.0,13.0,,,,,27754.0,0.5845

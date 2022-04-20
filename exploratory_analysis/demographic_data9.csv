@@ -1,0 +1,361 @@
+School,white,black,hispanic,asian,aian,nhpi,tom,ntr,unk,men,women,first_gen,mhi,ms_degree,hs_degree,post_hs_ed,highest_degree,ownership
+San Joaquin Valley College - Atascadero,,,,,,,,,,,,,,,,,0,3
+Jesuit School of Theology of Santa Clara University,,,,,,,,,,,,,,,,,0,2
+Thomas Aquinas College - New England,,,,,,,,,,,,,,,,,0,2
+Wright Institute (The) -,,,,,,,,,,,,,,,,,0,2
+Colorado Technical University-Denver,,,,,,,,,,,,,,,,,0,3
+Denver Seminary - Washington DC,,,,,,,,,,,,,,,,,0,2
+Otero Junior College - La Junta High School,,,,,,,,,,,,,,,,,0,1
+Three Rivers Community College - Corrigan-Radgowski Correctional Cente,,,,,,,,,,,,,,,,,0,1
+Three Rivers Community College - York Correctional Institution,,,,,,,,,,,,,,,,,0,1
+Porter and Chester Institute of Rocky Hill,,,,,,,,,,,,,,,,,0,3
+Porter and Chester Institute of Enfield,,,,,,,,,,,,,,,,,0,3
+Porter and Chester Institute of Waterbury,,,,,,,,,,,,,,,,,0,3
+Porter and Chester Institute of Worcester,,,,,,,,,,,,,,,,,0,3
+Porter and Chester Institute - New London,,,,,,,,,,,,,,,,,0,3
+Delaware Technical Community College-Owens,,,,,,,,,,,,,,,,,0,1
+Delaware Technical Community College-Stanton/Wilmington,,,,,,,,,,,,,,,,,0,1
+Barry University Law School,,,,,,,,,,,,,,,,,0,2
+Keiser University-Melbourne,,,,,,,,,,,,,,,,,0,2
+Keiser University-Tallahassee,,,,,,,,,,,,,,,,,0,2
+Keiser University-Daytona,,,,,,,,,,,,,,,,,0,2
+Keiser University-Lakeland,,,,,,,,,,,,,,,,,0,2
+Keiser University- Miami,,,,,,,,,,,,,,,,,0,2
+Keiser University-Orlando,,,,,,,,,,,,,,,,,0,2
+Keiser University-Sarasota,,,,,,,,,,,,,,,,,0,2
+Keiser University-Jacksonville,,,,,,,,,,,,,,,,,0,2
+Keiser University-Tampa,,,,,,,,,,,,,,,,,0,2
+Keiser University-Pembroke Pines,,,,,,,,,,,,,,,,,0,2
+Keiser University-Port St Lucie,,,,,,,,,,,,,,,,,0,2
+Keiser University-West Palm Beach,,,,,,,,,,,,,,,,,0,2
+Keiser University-Ft Myers,,,,,,,,,,,,,,,,,0,2
+Keiser University -  Clearwater,,,,,,,,,,,,,,,,,0,2
+Keiser University - NPR,,,,,,,,,,,,,,,,,0,2
+Keiser University - Residential,,,,,,,,,,,,,,,,,0,2
+Maynard A. Traviss Technical College - Central Florida Aerospace Academy,,,,,,,,,,,,,,,,,0,1
+Miami Lakes Educational Center and Technical College,0.1621,0.4012,0.4111,0.0069,0.0049,0.001,0.0128,0.0,0.0,0.8538,0.1462,,,,,,1,1
+Rasmussen College-New Port Richey,,,,,,,,,,,,,,,,,0,3
+Rasmussen College-Fort Myers,,,,,,,,,,,,,,,,,0,3
+Rasmussen College-Tampa/Brandon,,,,,,,,,,,,,,,,,0,3
+East Georgia State College - Statesboro,,,,,,,,,,,,,,,,,0,1
+East Georgia State College - Augusta,,,,,,,,,,,,,,,,,0,1
+Moody Bible Institute,0.5753,0.0544,0.0683,0.0315,0.0022,0.0022,0.0337,0.0782,0.1542,0.5209,0.4791,,,,,,4,2
+Triton College - Intl Union of Operating Engr Local 399 Trning Fac.,,,,,,,,,,,,,,,,,0,1
+PJ's College of Cosmetology- Brownsburg,,,,,,,,,,,,,,,,,0,3
+PJ's College of Cosmetology- Jeffersonville,,,,,,,,,,,,,,,,,0,3
+Ivy Tech Community College-Northcentral,,,,,,,,,,,,,,,,,0,1
+Ivy Tech Community College-Columbus,,,,,,,,,,,,,,,,,0,1
+Ivy Tech Community College-East Central,,,,,,,,,,,,,,,,,0,1
+Ivy Tech Community College-Kokomo,,,,,,,,,,,,,,,,,0,1
+Ivy Tech Community College-Lafayette,,,,,,,,,,,,,,,,,0,1
+Ivy Tech Community College-Northeast,,,,,,,,,,,,,,,,,0,1
+Ivy Tech Community College-South Central,,,,,,,,,,,,,,,,,0,1
+Ivy Tech Community College-Southwest,,,,,,,,,,,,,,,,,0,1
+Ivy Tech Community College-Wabash Valley,,,,,,,,,,,,,,,,,0,1
+Ivy Tech Community College-Richmond,,,,,,,,,,,,,,,,,0,1
+Ivy Tech Community College-Northwest,,,,,,,,,,,,,,,,,0,1
+Ivy Tech Community College-Southeast,,,,,,,,,,,,,,,,,0,1
+Ivy Tech Community College-Bloomington,,,,,,,,,,,,,,,,,0,1
+Ivy Tech Community College-Central Indiana,,,,,,,,,,,,,,,,,0,1
+Indiana Wesleyan University - Marion Design Co.,,,,,,,,,,,,,,,,,0,2
+University of Notre Dame,0.6738,0.0363,0.1151,0.046,0.0021,0.001,0.0549,0.0611,0.0097,0.5212,0.4788,,,,,,4,2
+Graceland University - Independence,,,,,,,,,,,,,,,,,0,2
+Baker University School of Nursing,,,,,,,,,,,,,,,,,0,2
+Coffeyville Technical Campus,,,,,,,,,,,,,,,,,0,1
+Columbus Technical Campus,,,,,,,,,,,,,,,,,0,1
+Old Town Barber College-Wichita,0.3373,0.4096,0.1566,0.0,0.012,0.0,0.0843,0.0,0.0,0.7711,0.2289,,,,,,1,3
+PJ's College of Cosmetology- Greenfield,,,,,,,,,,,,,,,,,0,3
+PJ's College of Cosmetology- Muncie,,,,,,,,,,,,,,,,,0,3
+PJ's College of Cosmetology- Indianapolis,,,,,,,,,,,,,,,,,0,3
+PJ's College of Cosmetology- Plainfield,,,,,,,,,,,,,,,,,0,3
+PJ's College of Cosmetology- Louisville,,,,,,,,,,,,,,,,,0,3
+Southeastern Louisiana University - EBR Parish School System Prof Dev,,,,,,,,,,,,,,,,,0,1
+Southeastern Louisiana University - St Amant High School,,,,,,,,,,,,,,,,,0,1
+Southeastern Louisiana University - Destrahan High School,,,,,,,,,,,,,,,,,0,1
+Southeastern Louisiana University - Albert Cammon Middle School,,,,,,,,,,,,,,,,,0,1
+Empire Beauty School-Bangor,,,,,,,,,,,,,,,,,0,3
+Cecil College - Elkton Station,,,,,,,,,,,,,,,,,0,1
+Hillsdale Beauty College,0.9091,0.0455,0.0455,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,,,,,1,3
+Baker College of Auburn Hills,,,,,,,,,,,,,,,,,0,2
+Baker College of Cadillac,,,,,,,,,,,,,,,,,0,2
+Baker College of Jackson,,,,,,,,,,,,,,,,,0,2
+Baker College of Muskegon,,,,,,,,,,,,,,,,,0,2
+Davenport University-Warren Location,,,,,,,,,,,,,,,,,0,2
+Davenport University-Kalamazoo Location,,,,,,,,,,,,,,,,,0,2
+Davenport University-Lansing Location,,,,,,,,,,,,,,,,,0,2
+Davenport University-Midland Location,,,,,,,,,,,,,,,,,0,2
+Davenport University-Holland Location,,,,,,,,,,,,,,,,,0,2
+Davenport University-Traverse City Location,,,,,,,,,,,,,,,,,0,2
+Davenport University - Wayne CCCD,,,,,,,,,,,,,,,,,0,2
+Davenport University - Detroit,,,,,,,,,,,,,,,,,0,2
+Anoka-Ramsey Community College,0.6773,0.1183,0.066,0.0662,0.0063,0.0016,0.0521,0.0065,0.0057,0.3791,0.6209,,,,,,2,1
+Central Lakes College-Staples Campus,,,,,,,,,,,,,,,,,0,1
+M State - Detroit Lakes Campus,,,,,,,,,,,,,,,,,0,1
+M State - Moorhead Campus,,,,,,,,,,,,,,,,,0,1
+M State - Wadena Campus,,,,,,,,,,,,,,,,,0,1
+South Central College-Faribault,,,,,,,,,,,,,,,,,0,1
+Mayo Clinic College of Medicine and Science - Florida,,,,,,,,,,,,,,,,,0,2
+Mayo Clinic College of Medicine and Science - Arizona,,,,,,,,,,,,,,,,,0,2
+Mesabi Range College,0.7387,0.1088,0.0297,0.0014,0.0339,0.0014,0.0579,0.0028,0.0254,0.5056,0.4944,,,,,,2,1
+Northland Community and Technical College - East Grand Forks,,,,,,,,,,,,,,,,,0,1
+Rasmussen College-Bloomington,,,,,,,,,,,,,,,,,0,3
+Rasmussen College-Eagan,,,,,,,,,,,,,,,,,0,3
+Rasmussen College-Mankato,,,,,,,,,,,,,,,,,0,3
+Rasmussen College-Brooklyn Park,,,,,,,,,,,,,,,,,0,3
+Rasmussen College-Lake Elmo/Woodbury,,,,,,,,,,,,,,,,,0,3
+Rasmussen College-Blaine,,,,,,,,,,,,,,,,,0,3
+Minnesota State CollegeSoutheast-Red Wing Campus,,,,,,,,,,,,,,,,,0,1
+Copiah-Lincoln Community College Simpson County Center,,,,,,,,,,,,,,,,,0,1
+Copiah-Lincoln Community College-Natchez Campus,,,,,,,,,,,,,,,,,0,1
+University of Mississippi Medical Center,,,,,,,,,,,,,,,,,0,1
+Pearl River Community College-Forrest County Center,,,,,,,,,,,,,,,,,0,1
+Columbia College - Redstone Arsenal,,,,,,,,,,,,,,,,,0,2
+Columbia College - Denver,,,,,,,,,,,,,,,,,0,2
+Columbia College - NAS Jacksonville,,,,,,,,,,,,,,,,,0,2
+Columbia College - Orlando,,,,,,,,,,,,,,,,,0,2
+Columbia College - Crystal Lake Campus,,,,,,,,,,,,,,,,,0,2
+Columbia College - Kansas City,,,,,,,,,,,,,,,,,0,2
+Columbia College - Fort Leonard Wood,,,,,,,,,,,,,,,,,0,2
+Columbia College - Jefferson City,,,,,,,,,,,,,,,,,0,2
+Columbia College - Lake Ozark,,,,,,,,,,,,,,,,,0,2
+Columbia College - Saint Louis,,,,,,,,,,,,,,,,,0,2
+Columbia College - Fort Worth,,,,,,,,,,,,,,,,,0,2
+Columbia College - Salt Lake,,,,,,,,,,,,,,,,,0,2
+Columbia College - Lake County,,,,,,,,,,,,,,,,,0,2
+Columbia College - Naval Station Everett/Marysville,,,,,,,,,,,,,,,,,0,2
+Columbia College - Freeport,,,,,,,,,,,,,,,,,0,2
+Columbia College - Springfield,,,,,,,,,,,,,,,,,0,2
+Columbia College - Rolla,,,,,,,,,,,,,,,,,0,2
+Columbia College - Los Alamitos,,,,,,,,,,,,,,,,,0,2
+Columbia College - Lemoore,,,,,,,,,,,,,,,,,0,2
+Columbia College - San Luis Obispo,,,,,,,,,,,,,,,,,0,2
+Columbia College - Fort Stewart,,,,,,,,,,,,,,,,,0,2
+Columbia College - Hunter Army Airfield,,,,,,,,,,,,,,,,,0,2
+Columbia College - Elgin,,,,,,,,,,,,,,,,,0,2
+Columbia College - Whidbey Island,,,,,,,,,,,,,,,,,0,2
+Columbia College - NAS Jacksonville,,,,,,,,,,,,,,,,,0,2
+Columbia College - Fort Sill,,,,,,,,,,,,,,,,,0,2
+Columbia College - San Diego,,,,,,,,,,,,,,,,,0,2
+Columbia College - Mesquite,,,,,,,,,,,,,,,,,0,2
+Columbia College - Waynesville,,,,,,,,,,,,,,,,,0,2
+Columbia College - Naval Base San Diego,,,,,,,,,,,,,,,,,0,2
+Columbia College - Imperial,,,,,,,,,,,,,,,,,0,2
+Columbia College - NSB Kings Bay,,,,,,,,,,,,,,,,,0,2
+Evangel University - Assemblies of God Theological Seminary,,,,,,,,,,,,,,,,,0,2
+Lindenwood University-Belleville,,,,,,,,,,,,,,,,,0,2
+City College Montana State University Billings,,,,,,,,,,,,,,,,,0,1
+University of Montana (The) - Bitterroot College University of Montana,,,,,,,,,,,,,,,,,0,1
+New Hampshire Institute for Therapeutic Arts,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,,,,,,1,3
+American Institute-West Hartford,0.1961,0.2969,0.4258,0.0224,0.0056,0.0,0.0392,0.0,0.014,0.0616,0.9384,,,,,,1,3
+Monmouth University -  Monmouth Park Corporate Center,,,,,,,,,,,,,,,,,0,2
+Bard College - Holyoke Microcollege,,,,,,,,,,,,,,,,,0,2
+Bard College - Coxsackie Correctional Facility,,,,,,,,,,,,,,,,,0,2
+Bard College - Eastern NY Correctional Facility,,,,,,,,,,,,,,,,,0,2
+Bard College - Fishkill Correctional Facility,,,,,,,,,,,,,,,,,0,2
+Bard College - Green Haven Correctional Facility,,,,,,,,,,,,,,,,,0,2
+Bard College - Taconic Correctional Facility,,,,,,,,,,,,,,,,,0,2
+Bard College - Woodbourne Correctional Facility,,,,,,,,,,,,,,,,,0,2
+Bard College - BHSEC Newark,,,,,,,,,,,,,,,,,0,2
+Bard College - Brooklyn Public Library,,,,,,,,,,,,,,,,,0,2
+Culinary Institute of America,0.4638,0.073,0.1564,0.0704,0.0053,0.003,0.0329,0.1451,0.0501,0.5056,0.4944,,,,,,4,2
+Culinary Institute of America,0.4638,0.073,0.1564,0.0704,0.0053,0.003,0.0329,0.1451,0.0501,0.5056,0.4944,,,,,,4,2
+CUNY Brooklyn College - Feirstein Graduate School of Cinema,,,,,,,,,,,,,,,,,0,1
+Jamestown Business College,0.6885,0.0197,0.1279,0.0033,0.0787,0.0033,0.0787,0.0,0.0,0.2984,0.7016,,,,,,3,3
+Pratt Manhattan-A Division of Pratt Institute,,,,,,,,,,,,,,,,,0,2
+Rabbinical Seminary of America-Ma'yan HaTorah,,,,,,,,,,,,,,,,,0,2
+Saint John's University - Staten Island Campus,,,,,,,,,,,,,,,,,0,2
+Gaston College,0.5375,0.1213,0.0683,0.0088,0.0038,0.0005,0.0248,0.0122,0.2228,0.3435,0.6565,,,,,,2,1
+Winston - Salem Barber School - Satellite,,,,,,,,,,,,,,,,,0,3
+Hebrew Union College-Jewish Institute of Religion-Cincinnati,,,,,,,,,,,,,,,,,0,2
+Hebrew Union College-Jewish Institute of Religion-Los Angeles,,,,,,,,,,,,,,,,,0,2
+Kettering College - Ollie Davis Medical Arts and Education Center,,,,,,,,,,,,,,,,,0,2
+Mount Carmel College of Nursing - Fairfield,,,,,,,,,,,,,,,,,0,2
+Marian Health Careers Center-Los Angeles Campus,0.0333,0.1286,0.3857,0.3952,0.0048,0.0143,0.0,0.0381,0.0,0.2476,0.7524,,,,,,1,3
+Florida Center,,,,,,,,,,,,,,,,,0,2
+Sacramento Center,,,,,,,,,,,,,,,,,0,2
+Western Seminary,,,,,,,,,,,,,,,,,4,2
+Western Seminary,,,,,,,,,,,,,,,,,4,2
+The Beauty Institute,0.3333,0.2821,0.2308,0.0,0.0,0.0,0.1026,0.0,0.0513,0.0513,0.9487,,,,,,1,3
+Bucks County Community College-Upper Bucks Campus,,,,,,,,,,,,,,,,,0,1
+Bucks County Community College-Lower Bucks Campus,,,,,,,,,,,,,,,,,0,1
+Harrisburg Area Community College-Lancaster,,,,,,,,,,,,,,,,,0,1
+Harrisburg Area Community College-Gettysburg,,,,,,,,,,,,,,,,,0,1
+Harrisburg Area Community College-Lebanon,,,,,,,,,,,,,,,,,0,1
+Harrisburg Area Community College-York,,,,,,,,,,,,,,,,,0,1
+New Castle School of Trades,0.8814,0.0962,0.0189,0.0034,0.0,0.0,0.0,0.0,0.0,0.9244,0.0756,,,,,,2,3
+New Castle School of Trades - East Liverpool Campus,,,,,,,,,,,,,,,,,0,3
+Northampton County Area Community College-Monroe,,,,,,,,,,,,,,,,,0,1
+South Hills School of Business and Technology-Altoona,,,,,,,,,,,,,,,,,0,3
+Galveston College - Charlie Thomas Family Applied Technology Center,,,,,,,,,,,,,,,,,0,1
+San Jacinto College-North Campus,,,,,,,,,,,,,,,,,0,1
+San Jacinto College-South Campus,,,,,,,,,,,,,,,,,0,1
+Snow College-Richfield Campus,,,,,,,,,,,,,,,,,0,1
+Northern Vermont University - Lyndon,,,,,,,,,,,,,,,,,0,1
+Bluefield College - Edward Via College of Osteopathic Medicine,,,,,,,,,,,,,,,,,0,2
+Strayer University-Alexandria Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Woodbridge Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Loudoun Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Fredericksburg Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Chesterfield Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Newport News Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Virginia Beach Campus,,,,,,,,,,,,,,,,,0,3
+Union Presbyterian Seminary-Charlotte,,,,,,,,,,,,,,,,,0,2
+Washington State University-Vancouver,,,,,,,,,,,,,,,,,0,1
+Washington State University-Spokane,,,,,,,,,,,,,,,,,0,1
+Washington State University-Tri Cities,,,,,,,,,,,,,,,,,0,1
+NUC University - Arecibo,,,,,,,,,,,,,,,,,0,3
+NUC University - Rio Grande,,,,,,,,,,,,,,,,,0,3
+NUC University - Ponce,,,,,,,,,,,,,,,,,0,3
+NUC University - Caguas,,,,,,,,,,,,,,,,,0,3
+NUC University - Mayaguez,,,,,,,,,,,,,,,,,0,3
+University of the Virgin Islands-Albert A. Sheen,,,,,,,,,,,,,,,,,0,1
+Purdue University - Purdue Polytechnic Anderson,,,,,,,,,,,,,,,,,0,1
+Purdue University - Purdue Polytechnic Indianapolis,,,,,,,,,,,,,,,,,0,1
+Purdue University - Purdue Polytechnic South Bend,,,,,,,,,,,,,,,,,0,1
+Purdue University - Purdue Polytechnic New Albany,,,,,,,,,,,,,,,,,0,1
+Purdue University - Purdue Polytechnic Columbus,,,,,,,,,,,,,,,,,0,1
+Purdue University - Purdue Polytechnic Kokomo,,,,,,,,,,,,,,,,,0,1
+Purdue University - Purdue Polytechnic Richmond,,,,,,,,,,,,,,,,,0,1
+Purdue University - Purdue Polytechnic Lafayette,,,,,,,,,,,,,,,,,0,1
+Purdue University - Purdue Polytechnic Vincennes,,,,,,,,,,,,,,,,,0,1
+ECPI University-Newport News,,,,,,,,,,,,,,,,,0,3
+ECPI University-Greensboro,,,,,,,,,,,,,,,,,0,3
+ECPI University-Charlotte,,,,,,,,,,,,,,,,,0,3
+ECPI University-Greenville,,,,,,,,,,,,,,,,,0,3
+ECPI University-Manassas,,,,,,,,,,,,,,,,,0,3
+ECPI University-Charleston,,,,,,,,,,,,,,,,,0,3
+ECPI University-Raleigh,,,,,,,,,,,,,,,,,0,3
+ECPI University-Columbia,,,,,,,,,,,,,,,,,0,3
+ECPI University-Culinary Institute of Virginia,,,,,,,,,,,,,,,,,0,3
+ECPI University-Virginia Beach Health Sciences,,,,,,,,,,,,,,,,,0,3
+ECPI University-Richmond South,,,,,,,,,,,,,,,,,0,3
+ECPI University-Innsbrook,,,,,,,,,,,,,,,,,0,3
+ECPI University-Richmond West,,,,,,,,,,,,,,,,,0,3
+ECPI University - Roanoke,,,,,,,,,,,,,,,,,0,3
+ECPI University - College of Nursing - Orlando,,,,,,,,,,,,,,,,,0,3
+ECPI University - Culinary Institute of Virginia - Newport News,,,,,,,,,,,,,,,,,0,3
+ECPI University - San Antonio,,,,,,,,,,,,,,,,,0,3
+Northwest Technology Center-Fairview,,,,,,,,,,,,,,,,,0,1
+Rob Roy Academy - Woonsocket,,,,,,,,,,,,,,,,,0,3
+Nuvani Institute-Uvalde,,,,,,,,,,,,,,,,,0,3
+Nuvani Institute-Del Rio,,,,,,,,,,,,,,,,,0,3
+Nuvani Institute-South Campus,,,,,,,,,,,,,,,,,0,3
+Everglades University-Orlando,,,,,,,,,,,,,,,,,0,2
+Everglades University-Sarasota,,,,,,,,,,,,,,,,,0,2
+Everglades University - Tampa,,,,,,,,,,,,,,,,,0,2
+Everglades University - Miami,,,,,,,,,,,,,,,,,0,2
+Florida National University-South Campus,,,,,,,,,,,,,,,,,0,3
+Florida National University Training Center,,,,,,,,,,,,,,,,,0,3
+Connecticut Aero Tech  School,,,,,,,,,,,,,,,,,0,1
+Indian Capital Technology Center-Sallisaw,,,,,,,,,,,,,,,,,0,1
+Indian Capital Technology Center-Stilwell,,,,,,,,,,,,,,,,,0,1
+Indian Capital Technology Center-Tahlequah,,,,,,,,,,,,,,,,,0,1
+Central California School of Continuing Education,0.4521,0.0,0.5319,0.016,0.0,0.0,0.0,0.0,0.0,0.1223,0.8777,,,,,,1,3
+Compu-Med Vocational Careers Corp,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0292,0.9708,,,,,,1,3
+Osceola Technical College - St. Cloud Campus,,,,,,,,,,,,,,,,,0,1
+Osceola Technical College - Poinciana Campus,,,,,,,,,,,,,,,,,0,1
+Southeastern College-Miami Lakes,,,,,,,,,,,,,,,,,0,3
+Strayer University-Rockville Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Anne Arundel Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-White Marsh Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Owings Mills Campus,,,,,,,,,,,,,,,,,0,3
+Santa Barbara Business College - Ventura,,,,,,,,,,,,,,,,,0,3
+Blue Cliff College-Metairie,0.114,0.8223,0.0456,0.006,0.0048,0.0,0.0036,0.0,0.0036,0.072,0.928,,,,,,1,3
+Strayer University-Nashville Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Shelby Oaks Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Knoxville Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Delaware County Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Center City Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Allentown Campus,,,,,,,,,,,,,,,,,0,3
+Advanced College-Stockton,,,,,,,,,,,,,,,,,0,3
+Advanced College - Salida,,,,,,,,,,,,,,,,,0,3
+Leston College,0.0,0.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.1064,0.8936,,,,,,1,3
+Rasmussen College-Aurora,,,,,,,,,,,,,,,,,0,3
+Rasmussen College-Romeoville/Joliet,,,,,,,,,,,,,,,,,0,3
+Rasmussen College-Mokena/Tinley Park,,,,,,,,,,,,,,,,,0,3
+Strayer University-Orlando East Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Sand Lake Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Baymeadows Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Miramar Campus,,,,,,,,,,,,,,,,,0,3
+Make-up Designory,0.5763,0.0458,0.2481,0.0458,0.0,0.0076,0.0458,0.0153,0.0153,0.0496,0.9504,,,,,,1,3
+Academy Di Capelli-School of Cosmetology,0.5,0.1411,0.3427,0.0081,0.0,0.0,0.0,0.0,0.0081,0.2944,0.7056,,,,,,1,3
+Dayton School of Medical Massage-Lima,,,,,,,,,,,,,,,,,0,3
+Cincinnati School of Medical Massage,,,,,,,,,,,,,,,,,0,3
+Cleveland Institute of Medical Massage,,,,,,,,,,,,,,,,,0,3
+Columbus School of Medical Massage,,,,,,,,,,,,,,,,,0,3
+CCI Training Center-Arlington,0.2101,0.5797,0.058,0.0435,0.0072,0.0217,0.0652,0.0,0.0145,0.3261,0.6739,,,,,,1,3
+Strayer University-Huntsville Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University - Montgomery Campus,,,,,,,,,,,,,,,,,0,3
+Rasmussen College-Wausau,,,,,,,,,,,,,,,,,0,3
+Academy of Hair Design - Austin,,,,,,,,,,,,,,,,,0,3
+Strayer University-North Charlotte,,,,,,,,,,,,,,,,,0,3
+Strayer University-South Charlotte,,,,,,,,,,,,,,,,,0,3
+Strayer University-North Raleigh Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Greensboro Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-South Raleigh Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Piscataway,,,,,,,,,,,,,,,,,0,3
+Celebrity School of Beauty - Hialeah,,,,,,,,,,,,,,,,,0,3
+Utah County Campus,,,,,,,,,,,,,,,,,0,3
+L'esprit Academy - Royal Oak,,,,,,,,,,,,,,,,,0,3
+Strayer University-Cobb Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Morrow Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Lithonia Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Savannah Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Augusta Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University - Macon Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Columbia Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Charleston Campus,,,,,,,,,,,,,,,,,0,3
+Strayer University-Northwest Houston,,,,,,,,,,,,,,,,,0,3
+Strayer University-Cedar Hill,,,,,,,,,,,,,,,,,0,3
+Strayer University-North Dallas,,,,,,,,,,,,,,,,,0,3
+Strayer University-San Antonio,,,,,,,,,,,,,,,,,0,3
+Strayer University-Stafford,,,,,,,,,,,,,,,,,0,3
+Strayer University - Northwest Houston Campus,,,,,,,,,,,,,,,,,0,3
+Unitek College,0.0392,0.1634,0.2876,0.3072,0.0,0.0327,0.0261,0.0,0.1438,0.2157,0.7843,,,,,,1,3
+Keweenaw Bay Ojibwa Community College - Wabanung Campus,,,,,,,,,,,,,,,,,0,1
+Cinta Aveda Institute - San Jose,,,,,,,,,,,,,,,,,0,3
+Southern California Health Institute (SOCHI) - North Hollywood,,,,,,,,,,,,,,,,,0,3
+Relay Graduate School of Education - Newark,,,,,,,,,,,,,,,,,0,2
+Relay Graduate School of Education - New Orleans,,,,,,,,,,,,,,,,,0,2
+Relay Graduate School of Education - Delaware,,,,,,,,,,,,,,,,,0,2
+Relay Graduate School of Education - Memphis,,,,,,,,,,,,,,,,,0,2
+Relay Graduate School of Education - Houston,,,,,,,,,,,,,,,,,0,2
+Relay Graduate School of Education - Chicago,,,,,,,,,,,,,,,,,0,2
+Relay Graduate School of Education - Baton Rouge,,,,,,,,,,,,,,,,,0,2
+Relay Graduate School of Education - Denver,,,,,,,,,,,,,,,,,0,2
+Relay Graduate School of Education - Nashville,,,,,,,,,,,,,,,,,0,2
+Relay Graduate School of Education - San Antonio,,,,,,,,,,,,,,,,,0,2
+Relay Graduate School of Education - Dallas-Fort Worth,,,,,,,,,,,,,,,,,0,2
+Relay Graduate School of Education - Washington D.C,,,,,,,,,,,,,,,,,0,2
+Relay Graduate School of Education - Atlanta,,,,,,,,,,,,,,,,,0,2
+Relay Graduate School of Education - California,,,,,,,,,,,,,,,,,0,2
+Relay Graduate School of Education - Indiana,,,,,,,,,,,,,,,,,0,2
+Salon Institute - Columbus Campus,,,,,,,,,,,,,,,,,0,3
+Rasmussen College - Overland Park,,,,,,,,,,,,,,,,,0,3
+Rocky Vista University - Southern Utah,,,,,,,,,,,,,,,,,0,3
+Sharp Edgez Barber Institute - Buffalo,,,,,,,,,,,,,,,,,0,3
+Arizona State University at Tucson,,,,,,,,,,,,,,,,,0,1
+Arizona State University - ASU Colleges at Lake Havasu City,,,,,,,,,,,,,,,,,0,1
+Arizona State University at The Gila Valley,,,,,,,,,,,,,,,,,0,1
+Arizona State University at Yuma,,,,,,,,,,,,,,,,,0,1
+Arizona State University - Pinal,,,,,,,,,,,,,,,,,0,1
+Arizona State University - Cochise,,,,,,,,,,,,,,,,,0,1
+Arizona State University - Yavapai College Prescott Valley Campus,,,,,,,,,,,,,,,,,0,1
+Arizona State University - Pima,,,,,,,,,,,,,,,,,0,1
+East-West Healing Arts Institute - Milwaukee,,,,,,,,,,,,,,,,,0,3
+Alliance Computing Solutions - NYC,,,,,,,,,,,,,,,,,0,3
+Bay Area Medical Academy - San Jose Satellite Location,,,,,,,,,,,,,,,,,0,3
+High Desert Medical College - Bakerfield,,,,,,,,,,,,,,,,,0,3
+High Desert Medical College - Temecula,,,,,,,,,,,,,,,,,0,3
+Georgia Military College - Zebulon,,,,,,,,,,,,,,,,,0,1
+Georgia Military College - Valdosta,,,,,,,,,,,,,,,,,0,1
+Georgia Military College - Augusta,,,,,,,,,,,,,,,,,0,1
+Georgia Military College - Fairburn,,,,,,,,,,,,,,,,,0,1
+Georgia Military College - Robins,,,,,,,,,,,,,,,,,0,1
+Georgia Military College - Columbus,,,,,,,,,,,,,,,,,0,1
+Georgia Military College - Sandersville,,,,,,,,,,,,,,,,,0,1
+Georgia Military College - Madison,,,,,,,,,,,,,,,,,0,1
+Georgia Military College - Stone Mountain,,,,,,,,,,,,,,,,,0,1
+Georgia Military College - Fayetteville,,,,,,,,,,,,,,,,,0,1
+Georgia Military College - Dublin,,,,,,,,,,,,,,,,,0,1
+Georgia Military College - Eastman,,,,,,,,,,,,,,,,,0,1
