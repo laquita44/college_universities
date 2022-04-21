@@ -1,5 +1,10 @@
 # college_universities
 
+## About the data...
+<p> The census data provided education depended on race, age, and gender. The following image displays a bar chart of education. In this data, the majority are people finishing with a high school diploma. </p>
+![Count Plot on Education in Census](https://github.com/laquita44/college_universities/blob/main/sam_data/juypter_notebook/2021%20Images/Education/count_plot.png)
+
+
 ### Get_dummies() Section
 
 #### Example.
@@ -83,5 +88,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 * Education
 * Government Education
+* Census
 * USC Data Visualization
 * CSUN Mathematics
