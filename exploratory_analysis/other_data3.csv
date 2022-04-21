@@ -1,0 +1,479 @@
+School,enrolled,over_25,over_23,independent,dependent,unemployment,median_family_income,poverty_rate,admissions_rate,sat_mid_reading,sat_mid_math,sat_mid_writing,sat_mid_overall,region
+DePauw University,,0.0025,,,,,,,0.6436,610.0,635.0,,1253.0,3
+Don Roberts School of Hair Design,,0.3333,,,,,,,,,,,,3
+Earlham College,,0.0011,,,,,,,0.6343,615.0,620.0,,1246.0,3
+University of Evansville,,0.056,,,,,,,0.7067,595.0,594.0,,1223.0,3
+Franklin and Marshall College,,0.0009,,,,,,,0.3039,,,,,2
+Goshen College,,0.1235,,,,,,,0.6299,552.0,557.0,,1132.0,3
+Grace College and Theological Seminary,,0.0729,,,,,,,0.799,,,,,3
+Empire Beauty School-Hanover Park,,0.425,,,,,,,,,,,,3
+J Michael Harrold Beauty Academy,,0.32,,,,,,,,,,,,3
+College of the Holy Cross,,0.0003,,,,,,,0.3422,665.0,680.0,,1356.0,1
+PJ's College of Cosmetology-Clarksville,,0.3408,,,,,,,,,,,,3
+Huntington University,,0.0888,,,,,,,0.7546,530.0,528.0,,1075.0,3
+Ivy Tech Community College,,0.3835,,,,,,,,,,,,3
+Purdue University Fort Wayne,,0.1303,,,,,,,0.8143,545.0,535.0,,1085.0,3
+Purdue University - Purdue Polytechnic Indianapolis,,,,,,,,,,,,,,3
+Indiana University-Purdue University-Indianapolis,,0.1658,,,,,,,0.8073,550.0,550.0,,1106.0,3
+Indiana Institute of Technology,,0.0635,,,,,,,0.5964,515.0,525.0,,1054.0,3
+University of Southern Indiana,,0.1004,,,,,,,0.9332,540.0,535.0,,1090.0,3
+Indiana State University,,0.1789,,,,,,,0.8957,,,,,3
+Indiana University-Kokomo,,0.1842,,,,,,,0.7364,525.0,525.0,,1053.0,3
+Indiana University-South Bend,,0.205,,,,,,,0.777,520.0,520.0,,1042.0,3
+Indiana University-Bloomington,,0.019,,,,,,,0.7791,625.0,630.0,,1274.0,3
+Indiana University-Northwest,,0.2348,,,,,,,0.7462,510.0,495.0,,1013.0,3
+Indiana University-Southeast,,0.2311,,,,,,,0.8191,525.0,510.0,,1043.0,3
+Indiana University-East,,0.398,,,,,,,0.6252,525.0,510.0,,1041.0,3
+International Business College-Fort Wayne,,0.0161,,,,,,,0.7372,,,,,3
+International Business College-Indianapolis,,0.0748,,,,,,,0.7933,,,,,3
+Tricoci University of Beauty Culture-Lafayette,,0.3462,,,,,,,,,,,,3
+Empire Beauty School-Indianapolis,,0.4298,,,,,,,,,,,,3
+Lincoln College of Technology-Indianapolis,,0.3404,,,,,,,,,,,,3
+University of New Hampshire at Manchester,,0.2365,,,,,,,0.9079,560.0,545.0,,1105.0,1
+Marian University,,0.1756,,,,,,,0.6461,485.0,495.0,,1025.0,3
+Indiana Wesleyan University-Marion,,0.0282,,,,,,,0.67,570.0,555.0,,1135.0,3
+The University of Tennessee-Martin,,0.1313,,,,,,,0.6449,,,,1170.0,5
+Anabaptist Mennonite Biblical Seminary,,,,,,,,,,,,,,3
+Mid-America College of Funeral Service,,0.5862,,,,,,,,,,,,3
+West Michigan College of Barbering and Beauty,,0.0893,,,,,,,,,,,,3
+University of Notre Dame,,0.001,,,,,,,0.1583,720.0,755.0,,1490.0,3
+Oakland City University,,0.1794,,,,,,,0.5475,515.0,510.0,,1023.0,3
+PJ's College of Cosmetology-Richmond,,0.4189,,,,,,,,,,,,3
+Ravenscroft Beauty College,,0.5414,,,,,,,,,,,,3
+Rogers Academy of Hair Design,,0.4421,,,,,,,,,,,,3
+Rose-Hulman Institute of Technology,,0.004,,,,,,,0.7421,650.0,704.0,,1367.0,3
+University of Saint Francis-Fort Wayne,,0.1954,,,,,,,0.9622,534.0,525.0,,1072.0,3
+Saint Mary-of-the-Woods College,,0.3533,,,,,,,0.6723,520.0,505.0,,1031.0,3
+Saint Mary-of-the-Woods College,,0.3533,,,,,,,0.6723,520.0,505.0,,1031.0,3
+Saint Meinrad School of Theology,,,,,,,,,,,,,,3
+Saint Elizabeth School of Nursing,,0.4545,,,,,,,0.6923,455.0,455.0,,910.0,3
+Taylor University,,0.02,,,,,,,0.6813,595.0,600.0,,1205.0,3
+Trine University,,0.0108,,,,,,,0.8157,565.0,585.0,,1170.0,3
+Valparaiso University,,0.0428,,,,,,,0.8585,590.0,590.0,,1202.0,3
+Vincennes Beauty College,,0.2222,,,,,,,,,,,,3
+Vincennes University,,0.0973,,,,,,,,,,,,3
+Wabash Valley College,,0.6829,,,,,,,,,,,,3
+Allen County Community College,,0.1554,,,,,,,,,,,,4
+Briar Cliff University,,0.2076,,,,,,,,,,,,4
+Buena Vista University,,0.364,,,,,,,0.5735,510.0,510.0,,1108.0,4
+Capri College-Dubuque,,0.3066,,,,,,,,,,,,4
+Capri College-Cedar Rapids,,0.303,,,,,,,,,,,,4
+College of Central Florida,,0.2961,,,,,,,,,,,,5
+Clarke University,,0.0628,,,,,,,0.9385,515.0,515.0,,1054.0,4
+Coe College,,0.0154,,,,,,,0.6333,,,,,4
+Weill Medical College of Cornell University,,,,,,,,,,,,,,2
+Des Moines Area Community College,,0.1881,,,,,,,,,,,,4
+Divine Word College,,0.8182,,,,,,,0.625,,,,,4
+Dordt University,,0.0152,,,,,,,0.7546,590.0,595.0,,1202.0,4
+Drake University,,0.0332,,,,,,,0.6764,620.0,615.0,,1285.0,4
+University of Dubuque,,0.2005,,,,,,,0.7269,480.0,480.0,,1004.0,4
+Ellsworth Community College,,0.1026,,,,,,,,,,,,4
+Emmaus Bible College,,0.0837,,,,,,,0.9381,570.0,535.0,,1126.0,4
+Eastern Iowa Community College District,,0.2209,,,,,,,,,,,,4
+Faith Baptist Bible College and Theological Seminary,,0.0345,,,,,,,0.625,,,,,4
+Faust Institute of Cosmetology-Storm Lake,,0.2857,,,,,,,,,,,,4
+Graceland University-Lamoni,,0.1453,,,,,,,0.5811,520.0,500.0,,1067.0,4
+Grand View University,,0.1656,,,,,,,0.9587,500.0,520.0,,1033.0,4
+Grinnell College,,0.0023,,,,,,,0.2308,705.0,745.0,,1457.0,4
+Hamilton Technical College,,0.4925,,,,,,,,,,,,4
+Hawkeye Community College,,0.1586,,,,,,,,,,,,4
+American Hair Academy,,0.2593,,,,,,,,,,,,4
+Indian Hills Community College,,0.1514,,,,,,,,,,,,4
+Iowa Central Community College,,0.1635,,,,,,,,,,,,4
+Iowa Lakes Community College,,0.1376,,,,,,,,,,,,4
+UnityPoint Health-Des Moines School of Radiologic Technology,,0.4706,,,,,,,,,,,,4
+American College of Hairstyling-Des Moines,,0.4091,,,,,,,,,,,,4
+Iowa School of Beauty-Des Moines,,0.1765,,,,,,,,,,,,4
+Iowa State University,,0.0433,,,,,,,0.9205,595.0,625.0,,1220.0,4
+Iowa Wesleyan University,,0.1147,,,,,,,0.5831,500.0,490.0,,1042.0,4
+Iowa Western Community College,,0.186,,,,,,,,,,,,4
+University of Iowa,,0.0658,,,,,,,0.8255,610.0,625.0,,1235.0,4
+Kirkwood Community College,,0.1778,,,,,,,,,,,,4
+La James International College-Cedar Falls,,0.5,,,,,,,,,,,,4
+La James International College-Johnston,,0.3818,,,,,,,,,,,,4
+La James College of Hairstyling and Cosmetology,,0.3148,,,,,,,,,,,,4
+La James International College-Ft Dodge,,0.4375,,,,,,,,,,,,4
+Loras College,,0.042,,,,,,,0.7532,528.0,528.0,,1112.0,4
+Bethany Lutheran College,,0.0283,,,,,,,0.7264,515.0,535.0,,1138.0,4
+Maharishi International University,,0.6061,,,,,,,0.8113,,,,,4
+Marshalltown Community College,,0.114,,,,,,,,,,,,4
+Mercy College of Health Sciences,,0.4717,,,,,,,0.9781,,,,,4
+Morningside College,,0.0736,,,,,,,0.6309,,,,1120.0,4
+Mount Mercy University,,0.2878,,,,,,,0.6599,,,,1085.0,4
+Ashford University,,0.8667,,,,,,,,,,,,8
+North Iowa Area Community College,,0.1493,,,,,,,,,,,,4
+University of Northern Iowa,,0.0772,,,,,,,0.7905,556.0,555.0,,1149.0,4
+Northwestern College,,0.5841,,,,,,,1.0,,,,,3
+Northeast Iowa Community College,,0.1547,,,,,,,,,,,,4
+Northwest Iowa Community College,,0.1694,,,,,,,,,,,,4
+Des Moines University-Osteopathic Medical Center,,,,,,,,,,,,,,4
+Iowa School of Beauty-Ottumwa,,0.25,,,,,,,,,,,,4
+Palmer College of Chiropractic,,0.2069,,,,,,,,,,,,4
+PCI Academy-Ames,,0.1926,,,,,,,,,,,,4
+Saint Ambrose University,,0.1018,,,,,,,0.7679,540.0,630.0,,1149.0,4
+Saint Luke's College of Health Sciences,,0.4842,,,,,,,,,,,,4
+La James International College-Davenport,,0.5606,,,,,,,,,,,,4
+Simpson University,,0.2835,,,,,,,0.5231,520.0,515.0,,1041.0,8
+Southeastern Community College,,0.1945,,,,,,,,,,,,4
+Southwestern College,,0.3077,,,,,,,,,,,,8
+Capri College-Davenport,,0.2422,,,,,,,,,,,,4
+Iowa School of Beauty-Sioux City,,0.1667,,,,,,,,,,,,4
+New England School of Hair Design,,0.1667,,,,,,,,,,,,1
+Upper Iowa University,,0.6484,,,,,,,0.5128,530.0,540.0,,1082.0,4
+Waldorf University,,0.6579,,,,,,,0.6614,510.0,505.0,,1029.0,4
+Wartburg College,,0.0093,,,,,,,0.7514,570.0,560.0,,1166.0,4
+Wartburg Theological Seminary,,,,,,,,,,,,,,4
+The Salon Professional Academy-Cedar Falls,,0.325,,,,,,,,,,,,4
+Western Iowa Tech Community College,,0.1926,,,,,,,,,,,,4
+William Penn University,,0.1732,,,,,,,0.5821,485.0,485.0,,990.0,4
+Allen County Community College,,0.1554,,,,,,,,,,,,4
+Baker University,,0.2087,,,,,,,0.8798,535.0,550.0,,1131.0,4
+Barton County Community College,,0.3537,,,,,,,,,,,,4
+Benedictine College,,0.0187,,,,,,,0.9705,600.0,585.0,,1200.0,4
+Bethany Lutheran College,,0.0283,,,,,,,0.7264,515.0,535.0,,1138.0,4
+Bethel College-North Newton,,0.0461,,,,,,,0.5748,505.0,525.0,,1067.0,4
+Butler Community College,,0.2563,,,,,,,,,,,,4
+Central Christian College of Kansas,,0.4845,,,,,,,,,,,,4
+Cloud County Community College,,0.1465,,,,,,,,,,,,4
+Coffeyville Community College,,0.2184,,,,,,,,,,,,4
+Colby Community College,,0.2021,,,,,,,,,,,,4
+Cowley County Community College,,0.2513,,,,,,,,,,,,4
+Dodge City Community College,,0.1943,,,,,,,,,,,,4
+Donnelly College,,0.495,,,,,,,,,,,,4
+Emporia State University,,0.099,,,,,,,0.8467,498.0,505.0,,1116.0,4
+Flint Hills Technical College,,0.0845,,,,,,,,,,,,4
+Fort Hays State University,,0.2702,,,,,,,0.9115,,,,,4
+Barclay College,,0.2804,,,,,,,0.5125,,,,,4
+Friends University,,0.2169,,,,,,,0.4581,530.0,520.0,,1109.0,4
+Fort Scott Community College,,0.1292,,,,,,,,,,,,4
+Garden City Community College,,0.1771,,,,,,,,,,,,4
+Haskell Indian Nations University,,0.147,,,,,,,0.8821,440.0,440.0,,942.0,4
+Hays Academy of Hair Design,,0.1143,,,,,,,,,,,,4
+Hesston College,,0.1481,,,,,,,,,,,,4
+Pennsylvania Highlands Community College,,0.1435,,,,,,,,,,,,2
+Hutchinson Community College,,0.2455,,,,,,,,,,,,4
+Independence Community College,,0.0921,,,,,,,,,,,,4
+Johnson County Community College,,0.2722,,,,,,,,,,,,4
+Concorde Career College-Kansas City,,0.5118,,,,,,,0.9492,,,,,4
+Kansas City Kansas Community College,,0.3071,,,,,,,,,,,,4
+Central Christian College of Kansas,,0.4845,,,,,,,,,,,,4
+University of Kansas,,0.0782,,,,,,,0.931,,,,1235.0,4
+Newman University,,0.0965,,,,,,,0.6747,540.0,548.0,,1099.0,4
+Old Town Barber College-Wichita,,0.6024,,,,,,,,,,,,4
+Kansas State University,,0.0858,,,,,,,0.9537,,,,,4
+Kansas Wesleyan University,,0.0551,,,,,,,0.6063,527.0,515.0,,1092.0,4
+Washburn Institute of Technology,,0.1689,,,,,,,0.5035,,,,,4
+Labette Community College,,0.2135,,,,,,,,,,,,4
+Manhattan Area Technical College,,0.1809,,,,,,,,,,,,4
+Manhattan Christian College,,0.0643,,,,,,,0.4417,,,,1050.0,4
+McPherson College,,0.0317,,,,,,,0.521,520.0,530.0,,1073.0,4
+MidAmerica Nazarene University,,0.2716,,,,,,,0.5464,,,,,4
+Neosho County Community College,,0.2192,,,,,,,,,,,,4
+North Central Kansas Technical College,,0.1566,,,,,,,,,,,,4
+Northwest Kansas Technical College,,0.1279,,,,,,,,,,,,4
+Ottawa University-Ottawa,,0.0267,,,,,,,0.1454,485.0,490.0,,1020.0,4
+Ottawa University-Kansas City,,0.8693,,,,,,,,,,,,4
+Pittsburg State University,,0.1091,,,,,,,0.9555,539.0,512.0,,1103.0,4
+Pratt Community College,,0.2117,,,,,,,,,,,,4
+Mount St. Mary's University,,0.0843,,,,,,,0.7479,555.0,540.0,,1097.0,2
+Salina Area Technical College,,0.1555,,,,,,,,,,,,4
+Seward County Community College,,0.2058,,,,,,,,,,,,4
+Southwestern College,,0.3077,,,,,,,,,,,,8
+Northeastern Junior College,,0.2158,,,,,,,,,,,,7
+Tabor College,,0.0763,,,,,,,0.5591,525.0,520.0,,1038.0,4
+Washburn University,,0.1893,,,,,,,,,,,,4
+Wichita State University-Campus of Applied Sciences and Technology,,0.2823,,,,,,,,,,,,4
+Wichita State University-Campus of Applied Sciences and Technology,,0.2823,,,,,,,,,,,,4
+Wichita Technical Institute,,0.6777,,,,,,,,,,,,4
+Alice Lloyd College,,0.0278,,,,,,,0.2656,480.0,480.0,,1040.0,5
+Asbury University,,0.2332,,,,,,,0.6441,605.0,585.0,,1201.0,5
+Asbury Theological Seminary,,,,,,,,,,,,,,5
+Ashland Community and Technical College,,0.363,,,,,,,,,,,,5
+Barrett and Company School of Hair Design,,0.4651,,,,,,,,,,,,5
+Bellarmine University,,0.067,,,,,,,0.6622,590.0,570.0,,1209.0,5
+Berea College,,0.0397,,,,,,,0.3026,605.0,589.0,,1216.0,5
+PJ's College of Cosmetology-Bowling Green,,0.3843,,,,,,,,,,,,5
+Southcentral Kentucky Community and Technical College,,0.2612,,,,,,,,,,,,5
+Brescia University,,0.3116,,,,,,,0.4233,550.0,580.0,,1147.0,5
+Campbellsville University,,0.1348,,,,,,,0.7006,,,,,5
+Bluegrass Community and Technical College,,0.3239,,,,,,,,,,,,5
+Centre College,,0.0007,,,,,,,0.7644,610.0,645.0,,1326.0,5
+Clear Creek Baptist Bible College,,0.5935,,,,,,,,,,,,5
+Paul Mitchell the School-Lexington,,0.3838,,,,,,,,,,,,5
+Galen College of Nursing-Louisville,,0.7215,,,,,,,,,,,,5
+University of the Cumberlands,,0.3307,,,,,,,0.8004,520.0,515.0,,1077.0,5
+Eastern Kentucky University,,0.1856,,,,,,,0.9383,540.0,540.0,,1144.0,5
+Elizabethtown Community and Technical College,,0.4105,,,,,,,,,,,,5
+Frontier Nursing University,,,,,,,,,,,,,,5
+Georgetown College,,0.0203,,,,,,,0.6335,585.0,576.0,,1187.0,5
+PJ's College of Cosmetology-Glasgow,,0.2679,,,,,,,,,,,,5
+Hazard Community and Technical College,,0.3948,,,,,,,,,,,,5
+Paul Mitchell the School-Louisville,,0.2366,,,,,,,,,,,,5
+Henderson Community College,,0.2674,,,,,,,,,,,,5
+Hopkinsville Community College,,0.3853,,,,,,,,,,,,5
+Jefferson Community and Technical College,,0.3155,,,,,,,,,,,,5
+Summit Salon Academy-Lexington,,0.1786,,,,,,,,,,,,5
+American National University-Pikeville,,0.7163,,,,,,,,,,,,5
+Kentucky Mountain Bible College,,0.2361,,,,,,,0.4824,520.0,500.0,,1058.0,5
+Kentucky State University,,0.0966,,,,,,,0.8065,490.0,485.0,,1027.0,5
+Kentucky Wesleyan College,,0.0406,,,,,,,0.6243,555.0,544.0,,1141.0,5
+Eastern Kentucky University,,0.1856,,,,,,,0.9383,540.0,540.0,,1144.0,5
+Kentucky Christian University,,0.0778,,,,,,,0.4035,455.0,461.0,,1004.0,5
+Lexington Theological Seminary,,,,,,,,,,,,,,5
+Lindsey Wilson College,,0.1248,,,,,,,,,,,,5
+University of Louisville,,0.1424,,,,,,,0.6928,590.0,590.0,,1226.0,5
+Louisville Presbyterian Theological Seminary,,,,,,,,,,,,,,5
+Madisonville Community College,,0.4038,,,,,,,,,,,,5
+Maysville Community and Technical College,,0.2916,,,,,,,,,,,,5
+Midway University,,0.3313,,,,,,,0.5964,535.0,510.0,,1078.0,5
+Morehead State University,,0.1039,,,,,,,0.776,542.0,544.0,,1147.0,5
+Murray State University,,0.0983,,,,,,,0.8239,580.0,563.0,,1195.0,5
+Gateway Community and Technical College,,0.3496,,,,,,,,,,,,5
+Northern Kentucky University,,0.1637,,,,,,,0.9018,555.0,575.0,,1148.0,5
+West Kentucky Community and Technical College,,0.3833,,,,,,,,,,,,5
+American National University-Pikeville,,0.7163,,,,,,,,,,,,5
+Big Sandy Community and Technical College,,0.3043,,,,,,,,,,,,5
+Empire Beauty School-Chenoweth,,0.3333,,,,,,,,,,,,5
+Empire Beauty School-Elizabethtown,,0.3445,,,,,,,,,,,,5
+Empire Beauty School-Dixie,,0.4694,,,,,,,,,,,,5
+Empire Beauty School-Florence,,0.379,,,,,,,,,,,,5
+Somerset Community College,,0.3749,,,,,,,,,,,,5
+Southeast Kentucky Community,,0.4008,,,,,,,,,,,,5
+The Southern Baptist Theological Seminary,,0.1454,,,,,,,0.68,589.0,550.0,,1136.0,5
+Spalding University,,0.2616,,,,,,,0.7932,505.0,535.0,,1035.0,5
+Sullivan University,,0.5789,,,,,,,,,,,,5
+Thomas More University,,0.1458,,,,,,,0.9058,540.0,535.0,,1116.0,5
+Transylvania University,,0.0063,,,,,,,0.8967,615.0,600.0,,1259.0,5
+Pacific Union College,,0.1623,,,,,,,0.5332,535.0,525.0,,1067.0,8
+Western Kentucky University,,0.1178,,,,,,,0.9726,560.0,545.0,,1150.0,5
+Central Louisiana Technical Community College,,0.3083,,,,,,,,,,,,5
+Ayers Career College,,0.6443,,,,,,,,,,,,5
+Baton Rouge School of Computers,,0.1667,,,,,,,,,,,,5
+Bossier Parish Community College,,0.4347,,,,,,,,,,,,5
+Centenary College of Louisiana,,0.0146,,,,,,,0.5978,580.0,575.0,,1207.0,5
+Cloyd's Beauty School 1 Inc,,0.4286,,,,,,,,,,,,5
+Crescent City Bartending School,,0.8083,,,,,,,,,,,,5
+Delgado Community College,,0.5204,,,,,,,,,,,,5
+Avery James School of Cosmetology,,0.3908,,,,,,,,,,,,5
+Denham Springs Beauty School,,0.1857,,,,,,,,,,,,5
+Dillard University,,0.0686,,,,,,,0.3881,540.0,510.0,,1075.0,5
+Nunez Community College,,0.4793,,,,,,,,,,,,5
+Grambling State University,,0.1447,,,,,,,0.9723,500.0,485.0,,981.0,5
+Guy's Shreveport Academy of Cosmetology Inc,,0.1667,,,,,,,,,,,,5
+ITI Technical College,,0.4385,,,,,,,,,,,,5
+John Jay Beauty College,,0.4471,,,,,,,,,,,,5
+Louisiana State University Health Sciences Center-New Orleans,,0.2899,,,,,,,,,,,,5
+Louisiana State University-Alexandria,,0.3398,,,,,,,0.5628,495.0,500.0,,1032.0,5
+Louisiana State University-Eunice,,0.2041,,,,,,,,,,,,5
+Louisiana State University Health Sciences Center-Shreveport,,0.697,,,,,,,,,,,,5
+Louisiana Academy of Beauty,,0.125,,,,,,,,,,,,5
+Louisiana State University and Agricultural & Mechanical College,,0.0388,,,,,,,0.7458,600.0,595.0,,1242.0,5
+Opelousas School of Cosmetology,,0.0833,,,,,,,,,,,,5
+Louisiana Tech University,,0.042,,,,,,,0.6409,565.0,598.0,,1218.0,5
+Loyola University New Orleans,,0.0987,,,,,,,0.7502,595.0,560.0,,1194.0,5
+McNeese State University,,0.1327,,,,,,,0.8074,560.0,565.0,,1121.0,5
+Louisiana State University Health Sciences Center-New Orleans,,0.2899,,,,,,,,,,,,5
+New Orleans Baptist Theological Seminary,,0.7982,,,,,,,,,,,,5
+Nicholls State University,,0.1487,,,,,,,0.8799,526.0,560.0,,1134.0,5
+University of Louisiana at Monroe,,0.1157,,,,,,,0.8004,,,,1105.0,5
+Northwest Louisiana Technical Community College,,0.4097,,,,,,,,,,,,5
+Northwestern State University of Louisiana,,0.2608,,,,,,,0.8198,555.0,555.0,,1105.0,5
+University of Holy Cross,,0.3961,,,,,,,0.3245,,,,,5
+Franciscan Missionaries of Our Lady University,,0.3664,,,,,,,0.5668,,,,1120.0,5
+Pat Goins Benton Road Beauty School,,0.4074,,,,,,,,,,,,5
+Celebrity Stylist Beauty School,,0.5278,,,,,,,,,,,,5
+Pineville Beauty School,,0.2857,,,,,,,,,,,,5
+Saint Joseph Seminary College,,0.1969,,,,,,,,,,,,5
+LaSalle Tech,,0.4906,,,,,,,,,,,,5
+Fletcher Technical Community College,,0.3394,,,,,,,,,,,,5
+Remington College-Lafayette Campus,,0.6098,,,,,,,,,,,,5
+SOWELA Technical Community College,,0.2703,,,,,,,,,,,,5
+Stevensons Academy of Hair Design,,0.7456,,,,,,,,,,,,5
+Southeastern Louisiana University,,0.0935,,,,,,,0.9021,,,,1105.0,5
+Southern University at New Orleans,,0.4166,,,,,,,0.6033,,,,925.0,5
+Southern University at Shreveport,,0.3503,,,,,,,,,,,,5
+University of Louisiana at Lafayette,,0.1342,,,,,,,0.6791,564.0,580.0,,1169.0,5
+Northshore Technical Community College,,0.1774,,,,,,,,,,,,5
+Tulane University of Louisiana,,0.0744,,,,,,,0.1287,705.0,735.0,,1444.0,5
+Xavier University of Louisiana,,0.0209,,,,,,,0.5998,545.0,530.0,,1120.0,5
+College of the Atlantic,,0.0394,,,,,,,0.7206,,,,,1
+Bates College,,0.0011,,,,,,,0.1214,,,,,1
+Beal University,,0.6077,,,,,,,,,,,,1
+Bowdoin College,,0.0011,,,,,,,0.0905,,,,,1
+Maine College of Health Professions,,0.5683,,,,,,,0.5217,495.0,475.0,,970.0,1
+Central Maine Community College,,0.2629,,,,,,,,,,,,1
+Colby-Sawyer College,,0.0494,,,,,,,0.8961,,,,,1
+Eastern Maine Community College,,0.2796,,,,,,,,,,,,1
+Kennebec Valley Community College,,0.3092,,,,,,,,,,,,1
+The Landing School,,0.463,,,,,,,,,,,,1
+University of Maine at Augusta,,0.5402,,,,,,,,,,,,1
+University of Maine at Farmington,,0.0532,,,,,,,0.9094,,,,,1
+University of Maine at Fort Kent,,0.2524,,,,,,,0.9933,490.0,485.0,,976.0,1
+University of Maine at Augusta,,0.5402,,,,,,,,,,,,1
+Maine Maritime Academy,,0.0514,,,,,,,0.4532,555.0,550.0,,1115.0,1
+University of Maine at Presque Isle,,0.209,,,,,,,0.9905,,,,,1
+Antioch University-New England,,,,,,,,,,,,,,1
+Northern Maine Community College,,0.3136,,,,,,,,,,,,1
+Empire Beauty School-Maine,,0.3561,,,,,,,,,,,,1
+Maine College of Art,,0.0625,,,,,,,0.6236,,,,,1
+Saint Joseph's College of Maine,,0.303,,,,,,,0.8716,532.0,539.0,,1072.0,1
+Spa Tech Institute-Westbrook,,0.4026,,,,,,,,,,,,1
+Southern Maine Community College,,0.3216,,,,,,,,,,,,1
+University of Southern Maine,,0.2256,,,,,,,0.809,535.0,520.0,,1058.0,1
+Thomas Edison State University,,0.872,,,,,,,,,,,,2
+Unity College,,0.1334,,,,,,,0.9827,,,,,1
+Washington County Community College,,0.3722,,,,,,,,,,,,1
+Allegany College of Maryland,,0.2403,,,,,,,,,,,,2
+Anne Arundel Community College,,0.3334,,,,,,,,,,,,2
+Award Beauty School,,0.4673,,,,,,,,,,,,2
+Baltimore Studio of Hair Design,,0.3947,,,,,,,,,,,,2
+Baltimore City Community College,,0.5209,,,,,,,,,,,,2
+University of Baltimore,,0.5236,,,,,,,0.7804,543.0,510.0,,1052.0,2
+Bowie State University,,0.1628,,,,,,,0.7967,480.0,465.0,,949.0,2
+Capitol Technology University,,0.225,,,,,,,0.8338,560.0,565.0,,1124.0,2
+Cecil College,,0.2751,,,,,,,,,,,,2
+College of Southern Maryland,,0.2596,,,,,,,,,,,,2
+Chesapeake College,,0.2482,,,,,,,,,,,,2
+Washington Adventist University,,0.3418,,,,,,,0.5877,470.0,455.0,,948.0,2
+Coppin State University,,0.3634,,,,,,,0.2798,455.0,440.0,,903.0,2
+Delmarva Beauty Academy,,0.4423,,,,,,,,,,,,2
+North American Trade Schools,,0.9492,,,,,,,,,,,,2
+Frederick Community College,,0.2614,,,,,,,,,,,,2
+Frostburg State University,,0.1337,,,,,,,0.8014,525.0,505.0,,1033.0,2
+Garrett College,,0.1091,,,,,,,,,,,,2
+Goucher College,,0.0918,,,,,,,0.813,590.0,555.0,,1166.0,2
+Hagerstown Community College,,0.29,,,,,,,,,,,,2
+Harford Community College,,0.2708,,,,,,,,,,,,2
+Hood College,,0.0995,,,,,,,0.6533,,,,,2
+Howard Community College,,0.3371,,,,,,,,,,,,2
+Aveda Institute-Maryland,,0.381,,,,,,,,,,,,2
+Johns Hopkins University,,0.0516,,,,,,,0.1117,735.0,775.0,,1514.0,2
+Loyola University Maryland,,0.0089,,,,,,,0.802,,,,,2
+University of Maryland Global Campus,,0.733,,,,,,,,,,,,2
+University of Maryland Baltimore,,0.4954,,,,,,,,,,,,2
+University of Maryland-Baltimore County,,0.1424,,,,,,,0.6103,630.0,640.0,,1270.0,2
+University of Maryland-College Park,,0.0589,,,,,,,0.4418,670.0,705.0,,1389.0,2
+Maryland Institute College of Art,,0.0646,,,,,,,0.6389,620.0,595.0,,1230.0,2
+University of Maryland Eastern Shore,,0.1277,,,,,,,0.6467,480.0,460.0,,941.0,2
+Fortis Institute-Towson,,0.3743,,,,,,,,,,,,2
+Montgomery Beauty School,,0.6143,,,,,,,,,,,,2
+Montgomery College,,0.3031,,,,,,,,,,,,2
+Morgan State University,,0.1466,,,,,,,0.6784,385.0,320.0,,737.0,2
+Mount St. Mary's University,,0.0843,,,,,,,0.7479,555.0,540.0,,1097.0,2
+Ner Israel Rabbinical College,,0.0931,,,,,,,0.7778,,,,,2
+Elite Academy of Hair Design,,0.25,,,,,,,,,,,,3
+Notre Dame of Maryland University,,0.3602,,,,,,,0.6173,530.0,490.0,,1026.0,2
+Prince George's Community College,,0.348,,,,,,,,,,,,2
+Maryland Beauty Academy of Essex,,0.25,,,,,,,,,,,,2
+Salisbury University,,0.066,,,,,,,0.7351,,,,,2
+St. Mary's College of Maryland,,0.0349,,,,,,,0.8427,595.0,580.0,,1184.0,2
+Saint Johns River State College,,0.2213,,,,,,,,,,,,5
+Towson University,,0.1059,,,,,,,0.7631,580.0,560.0,,1139.0,2
+Maryland University of Integrative Health,,,,,,,,,,,,,,2
+United States Naval Academy,,0.0095,,,,,,,0.0833,665.0,685.0,,1348.0,0
+Washington State Community College,,0.2012,,,,,,,,,,,,3
+McDaniel College,,0.0173,,,,,,,0.9184,,,,,2
+Wor-Wic Community College,,0.3547,,,,,,,,,,,,2
+Hult International Business School,,0.0355,,,,,,,0.4335,,,,,1
+American International College,,0.1491,,,,,,,0.6458,,,,,1
+Amherst College,,0.0109,,,,,,,0.1131,695.0,720.0,,1431.0,1
+Anna Maria College,,0.1984,,,,,,,0.7405,,,,,1
+Assabet Valley Regional Technical School,,0.625,,,,,,,0.3125,,,,,1
+Assumption University,,0.0317,,,,,,,0.8108,,,,,1
+Babson College,,0.0059,,,,,,,0.2641,655.0,705.0,,1362.0,1
+Bancroft School of Massage Therapy,,0.7451,,,,,,,,,,,,1
+Boston Baptist College,,0.4444,,,,,,,0.9091,490.0,503.0,,1012.0,1
+Bay Path University,,0.5751,,,,,,,0.7177,555.0,510.0,,1069.0,1
+Bay State College,,0.5944,,,,,,,0.6667,,,,,1
+Bentley University,,0.0114,,,,,,,0.4672,640.0,680.0,,1327.0,1
+Berklee College of Music,,0.1878,,,,,,,0.5144,,,,,1
+Berkshire Community College,,0.4155,,,,,,,,,,,,1
+Empire Beauty School-Boston,,0.4101,,,,,,,,,,,,1
+Boston Architectural College,,0.489,,,,,,,,,,,,1
+Boston Graduate School of Psychoanalysis Inc,,,,,,,,,,,,,,1
+Boston Architectural College,,0.489,,,,,,,,,,,,1
+Boston University,,0.0454,,,,,,,0.1894,685.0,740.0,,1433.0,1
+Brandeis University,,0.006,,,,,,,0.299,695.0,740.0,,1434.0,1
+Bridgewater State University,,0.1576,,,,,,,0.8766,535.0,525.0,,1063.0,1
+Bristol Community College,,0.3772,,,,,,,,,,,,1
+Signature Healthcare Brockton Hospital School of Nursing,,0.696,,,,,,,0.5,,,,,1
+Bunker Hill Community College,,0.4088,,,,,,,,,,,,1
+Cambridge Junior College-Yuba City,,0.4286,,,,,,,,,,,,8
+Cape Cod Community College,,0.42,,,,,,,,,,,,1
+Catherine Hinds Institute of Esthetics,,0.4619,,,,,,,,,,,,1
+Laboure College,,0.8087,,,,,,,0.2083,,,,,1
+Clarks Summit University,,0.2183,,,,,,,0.4058,,,,,2
+Conway School of Landscape Design,,,,,,,,,,,,,,1
+Curry College,,0.173,,,,,,,0.8706,517.0,509.0,,1034.0,1
+Lincoln Technical Institute-Somerville,,0.2582,,,,,,,,,,,,1
+Dean College,,0.0955,,,,,,,0.6882,513.0,495.0,,1010.0,1
+Diman Regional Technical Institute,,0.6364,,,,,,,0.7222,,,,,1
+National Aviation Academy of New England,,0.4706,,,,,,,,,,,,1
+Eastern Nazarene College,,0.1661,,,,,,,0.5901,495.0,500.0,,1002.0,1
+Emerson College,,0.0147,,,,,,,0.3335,655.0,650.0,,1318.0,1
+Emmanuel College,,0.0282,,,,,,,0.4615,515.0,505.0,,1018.0,5
+Endicott College,,0.0695,,,,,,,0.6931,,,,,1
+Rob Roy Academy-Fall River,,0.4032,,,,,,,,,,,,1
+Saint John Fisher College,,0.0584,,,,,,,0.6449,575.0,590.0,,1166.0,2
+Fitchburg State University,,0.1944,,,,,,,0.8835,535.0,535.0,,1072.0,1
+Framingham State University,,0.1579,,,,,,,0.7425,525.0,520.0,,1048.0,1
+Benjamin Franklin Institute of Technology,,0.2451,,,,,,,,,,,,1
+Gordon State College,,0.1359,,,,,,,0.8386,475.0,455.0,,936.0,5
+Gordon-Conwell Theological Seminary,,,,,,,,,,,,,,1
+Greenfield Community College,,0.4463,,,,,,,,,,,,1
+Manchester Community College,,0.3949,,,,,,,,,,,,1
+Harvard University,,0.1915,,,,,,,0.0464,740.0,775.0,,1517.0,1
+Hebrew Theological College,,0.0725,,,,,,,1.0,,,,,3
+Hellenic College-Holy Cross Greek Orthodox School of Theology,,0.0769,,,,,,,0.641,,,,,1
+Hellenic College-Holy Cross Greek Orthodox School of Theology,,0.0769,,,,,,,0.641,,,,,1
+Holyoke Community College,,0.3287,,,,,,,,,,,,1
+Lasell University,,0.0372,,,,,,,0.8365,535.0,540.0,,1080.0,1
+Lawrence Memorial Hospital School of Nursing,,0.8262,,,,,,,,,,,,1
+Lesley University,,0.2218,,,,,,,0.7468,565.0,540.0,,1109.0,1
+Longy School of Music of Bard College,,0.0811,,,,,,,0.7297,,,,,1
+Lowell Academy Hairstyling Institute,,0.5422,,,,,,,,,,,,1
+University of Massachusetts-Lowell,,0.2155,,,,,,,0.7335,610.0,625.0,,1239.0,1
+University of Massachusetts-Amherst,,0.0679,,,,,,,0.638,635.0,655.0,,1299.0,1
+University of Massachusetts-Boston,,0.2182,,,,,,,0.7614,,,,,1
+Massachusetts Bay Community College,,0.3698,,,,,,,,,,,,1
+MCPHS University,,0.2005,,,,,,,0.8533,555.0,570.0,,1130.0,1
+Massachusetts College of Art and Design,,0.1156,,,,,,,0.5782,,,,,1
+Massachusetts Institute of Technology,,0.0106,,,,,,,0.067,750.0,790.0,,1547.0,1
+Massachusetts Maritime Academy,,0.026,,,,,,,0.9146,550.0,550.0,,1100.0,1
+University of Massachusetts Medical School Worcester,,,,,,,,,,,,,,1
+William James College,,0.7931,,,,,,,,,,,,1
+Massachusetts School of Barbering,,0.5439,,,,,,,,,,,,1
+Massasoit Community College,,0.3669,,,,,,,,,,,,1
+Merrimack College,,0.0291,,,,,,,0.819,,,,,1
+MGH Institute of Health Professions,,0.5587,,,,,,,,,,,,1
+Middlesex Community College,,0.3899,,,,,,,,,,,,1
+Montserrat College of Art,,0.0535,,,,,,,,,,,,1
+Mount Holyoke College,,0.0329,,,,,,,0.3815,,,,,1
+Mount Wachusett Community College,,0.4295,,,,,,,,,,,,1
+Rob Roy Academy-New Bedford,,0.6364,,,,,,,,,,,,1
+The New England Conservatory of Music,,0.0342,,,,,,,0.3694,,,,,1
+New England College of Optometry,,,,,,,,,,,,,,1
+New England Law-Boston,,,,,,,,,,,,,,1
+Nichols College,,0.0725,,,,,,,0.7974,,,,,1
+Massachusetts College of Liberal Arts,,0.1257,,,,,,,0.8164,525.0,540.0,,1070.0,1
+North Bennet Street School,,0.6306,,,,,,,,,,,,1
+North Shore Community College,,0.387,,,,,,,,,,,,1
+Northeastern Illinois University,,0.4147,,,,,,,0.5848,520.0,495.0,,1011.0,3
+Northern Vermont University - Northern Essex Community College,,,,,,,,,,,,,,1
+College of Our Lady of the Elms,,0.309,,,,,,,0.7509,530.0,520.0,,1053.0,1
+Pine Manor College,,0.0772,,,,,,,0.4544,,,,,1
+Pope St John XXIII National Seminary,,,,,,,,,,,,,,1
+Quincy College,,0.4807,,,,,,,,,,,,1
+Quinsigamond Community College,,0.3803,,,,,,,,,,,,1
+Regis University,,0.3906,,,,,,,0.7096,575.0,560.0,,1157.0,7
+Roxbury Community College,,0.5783,,,,,,,,,,,,1
+St John's Seminary,,,,,,,,,,,,,,8
+Salem State University,,0.1723,,,,,,,0.8558,550.0,535.0,,1085.0,1
+Hardin-Simmons University,,0.0643,,,,,,,0.8378,532.0,525.0,,1061.0,6
+Bard College at Simon's Rock,,0.0075,,,,,,,0.9303,,,,,1
+Paul Smiths College of Arts and Science,,0.0698,,,,,,,0.6981,,,,,2
+Southeastern Technical Institute,,0.5159,,,,,,,,,,,,1
+Springfield College,,0.0161,,,,,,,0.6806,560.0,560.0,,1128.0,1
+Springfield Technical Community College,,0.3881,,,,,,,,,,,,1
+University of Massachusetts-Dartmouth,,0.1617,,,,,,,0.7483,545.0,545.0,,1091.0,1
+Stonehill College,,0.0081,,,,,,,0.6769,,,,,1
