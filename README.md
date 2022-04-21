@@ -1,18 +1,6 @@
 ## Checkout out the [Tableau Education](https://public.tableau.com/app/profile/leandro.lima/viz/EducationData_16503419309010/Story1?publish=yes) before continuing reading the project...
 
-## About the data...
-
-
-
-<p> The census data provided education depended on race, age, and gender. The following image displays a bar chart of education. In this data, the majority are people finishing with a high school diploma. </p>
-
-![Count Plot on Education in Census](https://github.com/laquita44/college_universities/blob/main/sam_data/juypter_notebook/2021%20Images/Education/count_plot.png)
-
-<p> The following image displays the outcome of the probabilityafter using the formula. If the outcome is negative, it tells us that it has no possibility. If it is positive, then it will have a higher probability. </p>
-
-![Doctor Analysis after applying formula 2021 to 2017-2019](https://github.com/laquita44/college_universities/blob/main/sam_data/juypter_notebook/2021%20Images/Education/doctor_prob.png)
-
-![Model Outcome for Doctor Degree](https://github.com/laquita44/college_universities/blob/main/sam_data/juypter_notebook/2021%20Images/Education/model_outcome_for_doctor_degree.png)
+## Important steps in the project...
 
 ### Get_dummies() Section
 
@@ -34,13 +22,6 @@ Here is an example of how pd.get_dummies() work.
 Now the <i> preview_get_dummies </i> data frame has numeric columns which means it meets the standards of machine learning models.
 </p>
 
-### Get Dummies Outcome
-<p>
-Apply the get_dummies() code to the data frame and the data frame ends up having a shape of thirty-four thousand two-hundred ninety-nine rows and forty-four columns.
-</p>
-
-![Get Dummies Outcome](https://github.com/samuelroiz/Charity_Funding_Predictor/blob/main/Images/get_dummies_data_part_1.png)
-
 ### Train and Test Data
 
 #### How does train and test work and what is it doing to the data?
@@ -60,14 +41,18 @@ To demonstrate the algorithm and how it functions, consider the data set {1,2,3,
 <p>
   The following example takes all of the data points and converts them to a closer range of 0 to 1. Standard scaler helps prevent outliers and keep the data closer to each other rather than gaps. 
   </p>
+  
+ ## About the data...
 
-### Standard Scaler Outcome 
+<p> The census data provided education depended on race, age, and gender. The following image displays a bar chart of education. In this data, the majority are people finishing with a high school diploma. </p>
 
-<p>
- Apply the standard scaler code to the dummies' data frame to demonstrate the algorithm and drive the data closer to each other. 
-</p>
+![Count Plot on Education in Census](https://github.com/laquita44/college_universities/blob/main/sam_data/juypter_notebook/2021%20Images/Education/count_plot.png)
 
-![Standard Scaler X Values](https://github.com/samuelroiz/Charity_Funding_Predictor/blob/main/Images/standard_scaler_data_part_1.png)
+<p> The following image displays the outcome of the probabilityafter using the formula. If the outcome is negative, it tells us that it has no possibility. If it is positive, then it will have a higher probability. </p>
+
+![Doctor Analysis after applying formula 2021 to 2017-2019](https://github.com/laquita44/college_universities/blob/main/sam_data/juypter_notebook/2021%20Images/Education/doctor_prob.png)
+
+![Model Outcome for Doctor Degree](https://github.com/laquita44/college_universities/blob/main/sam_data/juypter_notebook/2021%20Images/Education/model_outcome_for_doctor_degree.png)
 
 ## Contributing
 
