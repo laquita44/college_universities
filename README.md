@@ -1,5 +1,9 @@
 # college_universities
 
+## Checkout out the [Tableau Education](https://public.tableau.com/app/profile/leandro.lima/viz/EducationData_16503419309010/Story1?publish=yes) before continuing reading the project...
+
+[Tableau_Education.md](https://public.tableau.com/app/profile/leandro.lima/viz/EducationData_16503419309010/Story1?publish=yes)
+
 ## About the data...
 
 
