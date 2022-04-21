@@ -1,9 +1,18 @@
 # college_universities
 
 ## About the data...
+
+
+
 <p> The census data provided education depended on race, age, and gender. The following image displays a bar chart of education. In this data, the majority are people finishing with a high school diploma. </p>
+
 ![Count Plot on Education in Census](https://github.com/laquita44/college_universities/blob/main/sam_data/juypter_notebook/2021%20Images/Education/count_plot.png)
 
+<p> The following image displays the outcome of the probabilityafter using the formula. If the outcome is negative, it tells us that it has no possibility. If it is positive, then it will have a higher probability. </p>
+
+![Doctor Analysis after applying formula 2021 to 2017-2019](https://github.com/laquita44/college_universities/blob/main/sam_data/juypter_notebook/2021%20Images/Education/doctor_prob.png)
+
+![Model Outcome for Doctor Degree](https://github.com/laquita44/college_universities/blob/main/sam_data/juypter_notebook/2021%20Images/Education/model_outcome_for_doctor_degree.png)
 
 ### Get_dummies() Section
 
