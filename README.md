@@ -65,7 +65,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 ## Authors
 
 * **Samuel Roiz** - *Data clean, Analyzed Data, Model* - [Profile](https://github.com/samuelroiz)
-* 
+
 * **LaQuita Williams** - *Model* - [GitHub](https://github.com/laquita44) 
 
 * **Leo Lima** - *Data cleaned, API Keys, Model* - [GitHub](https://github.com/Leolima539) 
